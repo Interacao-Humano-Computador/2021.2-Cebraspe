@@ -1,4 +1,4 @@
-<h1 align="center"> 2021.2 - Cebraspe </h1>
+<h1 align="center"> Cebraspe </h1>
 
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/49570180/152347553-5572f49d-7442-4694-a847-179c1c14719e.png">
