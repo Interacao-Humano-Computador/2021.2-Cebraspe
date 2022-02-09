@@ -1,1 +1,13 @@
 site_name: Cebraspe
+
+repo_name: '2021.2-Cebraspe'
+repo_url: 'https://github.com/Interacao-Humano-Computador/2021.2-Cebraspe'
+
+
+nav:
+  - Início: index.md
+
+
+theme:
+  name: material
+  language: 'pt'
