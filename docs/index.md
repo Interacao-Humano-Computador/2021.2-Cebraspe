@@ -24,6 +24,20 @@ Os serviços do Cespe/UnB são contratados por meio de celebração de contrato 
 | <img src="https://avatars.githubusercontent.com/u/56366957?v=4" width="80" title="Gustave Augusto"> | [Gustave Augusto Persijn](https://github.com/gpersijn)  |
 | <img src="https://avatars.githubusercontent.com/u/83254747?v=4" width="80" title="Ricardo Loureiro"> | [Ricardo de Castro Loureiro](https://github.com/castroricardo1) |
 
+## 4. Metodologias e Organização
+
+Algumas metodologias foram escolhidas em equipe para auxiliar na organização das atividades em grupo.
+
+### 4.1 - Github
+As atribuições das atividades serão documentadas nas Issues - cada uma representa uma tarefa que foi dividida e estabelecida durante uma reunião. Cada Issue possui atividades pré-estabelecidas e também quais integrantes ficaram responsáveis por elas.
+
+### 4.2 - Scrum
+O SCRUM é uma estrutura simples e iterativa para trabalhar em equipe, seguindo os principais princípios: flexibilidade dos resultados, times pequenos, revisões constantes (denominadas de sprints) e coloboração mútua. Tal metodologia foi escolhida pela equipe para auxiliar na forma de organização e planejamento.
+
+## 5. Bibliografia
+
+BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**. Editora Elsevier, Rio de Janeiro,
+2010.
 
 
 
