@@ -6,8 +6,8 @@ repo_url: 'https://github.com/Interacao-Humano-Computador/2021.2-Cebraspe'
 
 nav:
   - Início: index.md
-  - Ferramentas: 
-    - Sites Avaliados: Ferramentas/ferramentas.md
+  - Ferramentas: Ferramentas/ferramentas.md
+  - Sites Avaliados: Sites/sites.md
 
 theme:
   name: material
