@@ -16,7 +16,7 @@ Com o intuito de selecionar um site para análise durante a disciplina de Intera
 
 ##2. Avalição dos Sites
 
-Foram escolhidos 5 sites em conjunto em que cada integrante da equipe ficou responsável em avaliar cada site exclusivamente. A tabela abaixo representa a divisão e a escolha desses sites.
+Foram escolhidos 3 sites em conjunto em que cada integrante da equipe ficou responsável em avaliar cada site exclusivamente. A tabela abaixo representa a divisão e a escolha desses sites.
 
 
 </br>
