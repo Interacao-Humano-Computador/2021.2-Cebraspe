@@ -81,15 +81,16 @@ avaliação e construção de protótipos.
 | Aplicar testes empíricos | Elaborar uma série de testes das telas com os usuários para listagem de erros e melhorias de usabilidade. |
 | Realizar o Design iterativo | Realização de novas versões da interface, através de um processo iterativo de design, baseado nos problemas de usabilidade e nas observações identificadas na fase 9. |
 
-<figcaption>Tabela 1: Dez Princípios de Usabilidade de Nielsen.</figcaption>
+<center><figcaption>Tabela 1: Dez Princípios de Usabilidade de Nielsen.</figcaption></center>
 
 ### 3.3 Design baseado em Cenários
 
 <p align="justify">
 Tem objetivo de descrever a sequência de ações do usuário durante a execução de uma atividade. Possibilitando a criação de imaginações de diferentes tipos de situações e geração de ideias, motivando seu uso a todos os interessados no sistema a participarem e contribuírem com as decisões de design, direta ou indiretamente. Ao criar cenários, a equipe de design tem a oportunidade de discutir e analisar como as atividades dos usuários são afetadas pela tecnologia existente e como elas poderiam ser afetadas pelo sistema sendo desenvolvido. 
-  - Análise do problema: estuda a situação atual junto aos interessados no sistema e com o conhecimento adquirido sobre a situação atual, a equipe de design deve formular cenários de problemas que cobrem características dos usuários, suas atividades típicas e críticas, os artefatos que eles utilizam e o contexto de uso (Rosson e Carroll, 2002). 
- - Atividade de projeto: Explorar ideias para a solução de IHC elaborando três tipos de cenários: cenários de atividade, de informação e de interação. O cenário de atividade é uma narrativa sobre as tarefas típicas e críticas que os usuários vão executar com ajuda do sistema. Já o cenário de informação é uma elaboração de um cenário de atividade que descreve as informações fornecidas pelo sistema ao usuário durante a interação. E o cenário de interação específica em Interação Humano-Computador detalha as ações do usuário e as respectivas respostas (feedback) do sistema necessárias para executar as tarefas apoiadas pelo sistema. 
- - Ideias para a solução: Devem ser avaliadas continuamente durante o processo de design. Realizado através de um protótipo que implementa ou demonstra partes da solução de IHC descritas em cenários.
+
+- Análise do problema: estuda a situação atual junto aos interessados no sistema e com o conhecimento adquirido sobre a situação atual, a equipe de design deve formular cenários de problemas que cobrem características dos usuários, suas atividades típicas e críticas, os artefatos que eles utilizam e o contexto de uso (Rosson e Carroll, 2002). 
+- Atividade de projeto: Explorar ideias para a solução de IHC elaborando três tipos de cenários: cenários de atividade, de informação e de interação. O cenário de atividade é uma narrativa sobre as tarefas típicas e críticas que os usuários vão executar com ajuda do sistema. Já o cenário de informação é uma elaboração de um cenário de atividade que descreve as informações fornecidas pelo sistema ao usuário durante a interação. E o cenário de interação específica em Interação Humano-Computador detalha as ações do usuário e as respectivas respostas (feedback) do sistema necessárias para executar as tarefas apoiadas pelo sistema. 
+- Ideias para a solução: Devem ser avaliadas continuamente durante o processo de design. Realizado através de um protótipo que implementa ou demonstra partes da solução de IHC descritas em cenários.
 </p>
 
 <p align="center">
