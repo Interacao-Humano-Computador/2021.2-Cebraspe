@@ -6,7 +6,6 @@ repo_url: 'https://github.com/Interacao-Humano-Computador/2021.2-Cebraspe'
 
 nav:
   - Início: index.md
-  - Cronograma do Projeto: Cronograma/Cronograma.md
   - Planejamento: 
     - Ferramentas: Planejamento/Ferramentas/ferramentas.md
     - Sites Avaliados: Planejamento/Sites/sites.md
