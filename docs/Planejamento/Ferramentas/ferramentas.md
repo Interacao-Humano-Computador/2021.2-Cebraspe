@@ -1,10 +1,11 @@
 # Ferramentas
 
-## Histórico de versão
+### Histórico de Versão
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 10/02/2022 | Criação da página de ferramentas | Erick Melo, Gustave Persijn |
+|  Data  | Versão | Descrição | Autor |
+| :----: | :----: | :-------: | :---: | 
+| 11.02.2022 | 0.1 | Criação da página de ferramentas | Erick Melo, Gustave Persijn |
+| 12.02.2022 | 0.2 | Revisão do documento | Ana Carolina, Ricardo |
 
 
 ## 1. Utilização
@@ -20,3 +21,4 @@
 | <img src="https://user-images.githubusercontent.com/49570180/152993518-9767e165-c8d4-449a-8206-bcb689f4a982.png" width="80" title="Whatsapp">| WhatsApp | Utilização de grupo para conumicação entre os integrantes da equipe |
 | <img src="https://user-images.githubusercontent.com/49570180/152993039-9dce211b-0d20-4fb1-9965-f0ed6ad7d9f7.png" width="150" title="Canva">| Canva | Elaboração das apresentações |
 
+<figcaption>Tabela 1: Ferramentas usadas nas atividades da primeira entrega.</figcaption>

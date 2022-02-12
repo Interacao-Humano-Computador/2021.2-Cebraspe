@@ -1,20 +1,19 @@
-# <center> Listar Sites
+# <center> Escolha do site
 
 ### Histórico de Versão
 
 |    Data    | Versão |                   Descrição                    |            Autor            |
 | :--------: | :----: | :--------------------------------------------: | :-------------------------: |
 | 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto | Gustave Persijn, Erick Melo |
+| 12.02.2022 |  0.2   | Revisão do documento | Ana Carolina, Ricardo |
 
   </br>
  
-
-
-##1. Objetivos
+## 1. Objetivos
 
 Com o intuito de selecionar um site para análise durante a disciplina de Interação Humano Computador pela Universidade de Brasília, foram listados alguns sites com potenciais aspectos qualitativos da heurística. Assim, o grupo empenhou-se em procurar sites que possam atender os objetivos avaliativos, das quais foram selecionados e serão mostrados a seguir. Por fim, a equipe chegou a um consenso de qual site poderia ser melhor trabalhado e que atendesse de forma geral tais requisitos. Dessa forma, buscou-se, principalmente, visar aqueles que poderíamos propor melhorias.
 
-##2. Avalição dos Sites
+## 2. Avaliação dos Sites
 
 Foram escolhidos 3 sites em conjunto em que cada integrante da equipe ficou responsável em avaliar cada site exclusivamente. A tabela abaixo representa a divisão e a escolha desses sites.
 
@@ -31,9 +30,11 @@ Foram escolhidos 3 sites em conjunto em que cada integrante da equipe ficou resp
 
 </center>
 
+<figcaption>Tabela 1: Lista de avaliadores que avaliaram os sites.</figcaption>
+
 ### 2.1 Cebraspe
 
-O Centro Brasileiro de Pesquisa em Avaliação e de Promoção de Eventros (Cebraspe) é uma das principais organizações brasileiras especializada em que realizar seleções, avaliações, certificações e pesquisa no Brasil. Funcionando desde 19 de agosto de 2013 como uma Organização Social (OS) qualificada e desde 17 de março de 2014 com Contrato de Gestão com o Ministério da Educação (MEC) e tendo como instituição interveniente a Fundação Universidade de Brasília.
+O Centro Brasileiro de Pesquisa em Avaliação e de Promoção de Eventos (Cebraspe) é uma das principais organizações brasileiras especializada em que realizar seleções, avaliações, certificações e pesquisa no Brasil. Funcionando desde 19 de agosto de 2013 como uma Organização Social (OS) qualificada e desde 17 de março de 2014 com Contrato de Gestão com o Ministério da Educação (MEC) e tendo como instituição interveniente a Fundação Universidade de Brasília.
 
 O principal objetivo do Centro é fornecer aos sistemas educacionais, organizações e pessoas, a oportunidade de desenvolvimento e aperfeiçoamento por meio de pesquisas e avaliações fundamentadas em princípios de excelência. Apenas para a UnB, por exemplo, essa instituição oferta metade das vagas disponíveis por ano para ingresso na UnB, o que já chegou a totalizar em 4.222 vagas em 2017, distribuídas em 99 cursos de graduação nos quatro campus da universidade.
 
@@ -72,9 +73,8 @@ Após a avaliação heurística, os principais problemas identificados foram em 
   <img width="200" src="https://user-images.githubusercontent.com/49570180/152347553-5572f49d-7442-4694-a847-179c1c14719e.png">
 </p>
 
-Com base na avaliação heurística proposta por Nielsen (2000) e pesquisas realizadas no site, foi decidido em uma reunião realizada com todos os integrantes da equipe que o site do Cebraspe atenderia melhor as demandas da disciplina. Em um primeiro viés, foi discutivo a questão de usabilidade do site, das quais foram investigadas e debatidas as possíveis melhorias. Já por outro viés, é um site familiarizado por todos os integrantes do grupo, visto que todos participaram do processo seletivo da Universidade de Brasília e portanto foi considerado um ponto a favor para o site em questão. 
+Com base na avaliação heurística proposta por Nielsen (2000) e pesquisas realizadas no site, foi decidido em uma reunião realizada com todos os integrantes da equipe que o site do Cebraspe atenderia melhor as demandas da disciplina. Em um primeiro viés, foi discutido a questão de usabilidade do site, das quais foram investigadas e debatidas as possíveis melhorias. Já por outro viés, é um site familiarizado por todos os integrantes do grupo, visto que todos participaram do processo seletivo da Universidade de Brasília e portanto foi considerado um ponto a favor para o site em questão. 
 Portanto, o site do Cebraspe foi o escolhido para o projeto da disciplina de Interação Humano-Computador devido a maior quantidade de votos recebido por votação durante a reunião - eleito por unamidade.
-
 
 
 ### 4. Bibliografia

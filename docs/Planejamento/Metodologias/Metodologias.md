@@ -1,4 +1,10 @@
-# Metodo do Projeto 
+# Método do Projeto 
+### Histórico de Versão
+
+|  Data  | Versão | Descrição | Autor |
+| :----: | :----: | :-------: | :---: | 
+| 11.02.2022 | 0.1 | Criação do documento de metodologia, Adição de figuras, legendas, fontes e bibliografia | Ana Carolina, Gustave |
+| 12.02.2022 | 0.2 | Revisão do documento | Erick, Daniel |
 
 ## 1.Introdução
 <p align="justify">O documento de metodologia busca descrever as abordagens utilizadas durante o
@@ -29,7 +35,7 @@ metodologias adotadas para o desenvolvimento do projeto relacionam-se
 com os princípios com base no manifesto ágil.
 </p>
 
-## 4.SCRUM
+## 4.Scrum
 
 <p align="justify">Scrum é um método ágil, iterativo e incremental para gerenciamento de
 projetos, que não necessariamente precisam ser projetos de
@@ -47,9 +53,13 @@ Review.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/83254747/153676534-52d9afad-7d3b-42de-88ea-e0322c7d7eb6.png">
+<figcaption align='center'>
+    <b>Figura 1: Ciclo de vida do Scrum.</b>
+    <br><small>Fonte: Tecnicon Sistemas Gerenciais</small>
+</figcaption>
 </p>
 
-## 5.Product backlog
+## 4.1.Product backlog
 
 <p align="justify">Product backlog é um dos artefatos descritos pelo SCRUM. É uma lista
 dinâmica de requisitos do projeto, sendo as atividades e limitações que o
@@ -59,7 +69,7 @@ que descrevem o que deve ser feito e as limitações como o tempo e as
 pessoas alocadas.
 </p>
 
-## 6.Sprint
+## 4.2.Sprint
 
 <p align="justify">É uma unidade básica de desenvolvimento na metodologia Scrum. As
 sprints podem durar entre uma semana e um mês, e são um esforço
@@ -69,7 +79,7 @@ trabalho. As nossas sprints foram definidas entre 5 a 7 dias, justamente
 para não ocupar tempo a mais em outras disciplinas.
 </p>
 
-## 7.Sprint Planning
+## 4.3.Sprint Planning
 
 <p align="justify">É um evento de planejamento onde será definido quais issues do product
 backlog são as próximas a serem feitas. Como o projeto já está detalhado
@@ -81,7 +91,7 @@ Assim que as atividades são definidas, é adicionado o responsável e a data
 para entrega da sprint.
 </p>
 
-## 8.Sprint Review
+## 4.4.Sprint Review
 
 <p align="justify">É um evento de validação e verificação que ocorre antes do Sprint
 Planning. É analisada as entregas das sprints anteriores e a sua qualidade.
@@ -90,7 +100,7 @@ colocada para revisão/correção. Explicitando as dificuldades encontradas e
 quais são as melhorias que devemos fazer
 </p>
 
-## 9.Kanban
+## 5.Kanban
 
 <p align="justify">O método Kanban é projetado para causar mudanças evolutivas em seu
 gerenciamento de maneira não disruptiva. Implementando pequenas
@@ -113,9 +123,13 @@ próximo passo. Por isso, Kanban é chamado de um sistema pull.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
+<figcaption align='center'>
+    <b>Figura 2: Exemplo de quadro de Kanban.</b>
+    <br><small>Fonte: IStock by getty images</small>
+</figcaption>
 </p>
 
-## Extreme Programming (XP)
+## 6.Extreme Programming (XP)
 <p align="justify">Extreme Programming, mais conhecido como XP, é uma metodologia
 ágil de desenvolvimento de software que tem como objetivo produzir
 software de alta qualidade e, também, melhor qualidade de vida para a
@@ -139,6 +153,9 @@ curto intervalo de tempo entre as releases do sistema.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/83254747/153677750-a5d92878-a155-4f0e-93bc-4901778add8e.png">
+<figcaption align='center'>
+    <b>Figura 3: Ciclo de release da XP.</b>
+</figcaption>
 </p>
 
 ## Bibliografia

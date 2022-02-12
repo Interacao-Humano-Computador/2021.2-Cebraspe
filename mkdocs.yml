@@ -11,7 +11,8 @@ nav:
     - Ferramentas: Planejamento/Ferramentas/ferramentas.md
     - Sites Avaliados: Planejamento/Sites/sites.md
     - Metodologia Adotada: Planejamento/Metodologias/Metodologias.md
-  - Processo de Design: Processo/Processo.md
+    - Cronograma do Projeto: Cronograma/Cronograma.md
+    - Processo de Design: Processo/Processo.md
 
 theme:
   name: material
