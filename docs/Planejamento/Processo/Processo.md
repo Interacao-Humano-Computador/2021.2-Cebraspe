@@ -94,7 +94,7 @@ Tem objetivo de descrever a sequência de ações do usuário durante a execuç�
 </p>
 
 <p align="center">
-<img src='docs\Assets\cenarios.jpeg'>
+<img src='...docs\Assets\cenarios.jpeg'>
 <figcaption align='center'>
     <b>Figura 2: Atividades básicas proposta pelo design baseado em cenários.</b>
     <br><small>Fonte: Barbosa e Silva(2010)</small>
