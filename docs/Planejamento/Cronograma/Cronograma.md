@@ -17,13 +17,9 @@
 | II   | 27/02 | Perfil do usuário, personas e análise de tarefas | 25/02 |
 | III  | 12/03 | Princípios gerais, metas de usabilidade, guia de estilo | 10/03 |
 | IV   | 16/03 | Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas | 14/03 |
-| V    | 30/03 | Relato dos resultados do Story Board e da Análise de tarefas, o
-Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do
-Protótipo de Papel | 27/03 |
+| V    | 30/03 | Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 27/03 |
 | VI   | 06/04 | Verificação dos artefatos | 04/04 |
-| VII   | 11/04 | Relato dos resultados do Protótipo de Papel, o Planejamento da
-Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de
-alta fidelidade | 09/04 |
+| VII   | 11/04 | Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 09/04 |
 | VIII  | 25/04 | Projeto final | 23/04 |
 
 <figcaption>Tabela 1: Cronograma de atividades.</figcaption>
