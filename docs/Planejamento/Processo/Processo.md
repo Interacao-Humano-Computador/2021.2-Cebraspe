@@ -94,12 +94,13 @@ Tem objetivo de descrever a sequência de ações do usuário durante a execuç�
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/83254747/153682509-9995b21b-8411-4751-a890-af37b8d136e7.png">
+<img src="https://github.com/Interacao-Humano-Computador/2021.2-Cebraspe/blob/main/docs/Assets/Ciclo_de_vida_estrela.jpeg?raw=true">
 <figcaption align='center'>
     <b>Figura 2: Atividades básicas proposta pelo design baseado em cenários.</b>
     <br><small>Fonte: Barbosa e Silva(2010)</small>
 </figcaption>
 </p>
+
 
 
 ### 3.4 Engenharia de Usabilidade de Mayhew
