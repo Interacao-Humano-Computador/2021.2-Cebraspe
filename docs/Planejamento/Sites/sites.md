@@ -30,7 +30,7 @@ Foram escolhidos 3 sites em conjunto em que cada integrante da equipe ficou resp
 
 </center>
 
-<figcaption>Tabela 1: Lista de avaliadores que avaliaram os sites.</figcaption>
+<center> <figcaption>Tabela 1: Lista de avaliadores que avaliaram os sites.</figcaption> </center>
 
 ### 2.1 Cebraspe
 
