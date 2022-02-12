@@ -11,7 +11,7 @@ nav:
     - Sites Avaliados: Planejamento/Sites/sites.md
     - Metodologia Adotada: Planejamento/Metodologias/Metodologias.md
     - Cronograma do Projeto: Planejamento/Cronograma/Cronograma.md
-    - Processo de Design: Processo/Processo.md
+    - Processo de Design: Planejamento/Processo/Processo.md
 
 theme:
   name: material
