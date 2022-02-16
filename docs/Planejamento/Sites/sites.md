@@ -2,10 +2,10 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |                   Descrição                    |            Autor            |
-| :--------: | :----: | :--------------------------------------------: | :-------------------------: |
-| 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto | Gustave Persijn, Erick Melo |
-| 12.02.2022 |  0.2   | Revisão do documento | Ana Carolina, Ricardo |
+|    Data    | Versão |                   Descrição                    |            Autor            | Revisor |
+| :--------: | :----: | :--------------------------------------------: | :-------------------------: | :-----: |
+| 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto | Gustave Persijn, Erick Melo | Daniel  |
+| 12.02.2022 |  0.2   |              Revisão do documento              |    Ana Carolina, Ricardo    | Daniel  |
 
   </br>
  
@@ -16,7 +16,6 @@ Com o intuito de selecionar um site para análise durante a disciplina de Intera
 ## 2. Avaliação dos Sites
 
 Foram escolhidos 3 sites em conjunto em que cada integrante da equipe ficou responsável em avaliar cada site exclusivamente. A tabela abaixo representa a divisão e a escolha desses sites.
-
 
 </br>
 
@@ -65,17 +64,14 @@ Os principais tópicos do Musikcity são:
 
 Após a avaliação heurística, os principais problemas identificados foram em relação à estética e design do site. Embora ainda seja atualizado hoje em dia, o site possui um design muito antigo, com cores e layout que tornam a leitura cansativa, itens ocupando muito espaço sem necessidade, falta de padronização na escrita, entre outros. Um simples rearranjo de cores e posicionamento dos itens nas páginas já resolveria grande parte desses problemas.
 
-
-
 ## 3. Conclusão
 
  <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/49570180/152347553-5572f49d-7442-4694-a847-179c1c14719e.png">
 </p>
 
-Com base na avaliação heurística proposta por Nielsen (2000) e pesquisas realizadas no site, foi decidido em uma reunião realizada com todos os integrantes da equipe que o site do Cebraspe atenderia melhor as demandas da disciplina. Em um primeiro viés, foi discutido a questão de usabilidade do site, das quais foram investigadas e debatidas as possíveis melhorias. Já por outro viés, é um site familiarizado por todos os integrantes do grupo, visto que todos participaram do processo seletivo da Universidade de Brasília e portanto foi considerado um ponto a favor para o site em questão. 
+Com base na avaliação heurística proposta por Nielsen (2000) e pesquisas realizadas no site, foi decidido em uma reunião realizada com todos os integrantes da equipe que o site do Cebraspe atenderia melhor as demandas da disciplina. Em um primeiro viés, foi discutido a questão de usabilidade do site, das quais foram investigadas e debatidas as possíveis melhorias. Já por outro viés, é um site familiarizado por todos os integrantes do grupo, visto que todos participaram do processo seletivo da Universidade de Brasília e portanto foi considerado um ponto a favor para o site em questão.
 Portanto, o site do Cebraspe foi o escolhido para o projeto da disciplina de Interação Humano-Computador devido a maior quantidade de votos recebido por votação durante a reunião - eleito por unamidade.
-
 
 ### 4. Bibliografia
 

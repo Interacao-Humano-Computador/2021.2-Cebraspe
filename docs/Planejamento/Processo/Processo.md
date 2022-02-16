@@ -1,11 +1,11 @@
 # Processo de Design
+
 ### Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor |
-| :----: | :----: | :-------: | :---: | 
-| 10.02.2022 | 0.1 | Criação do documento de processo de design, Adição de figuras, legendas, fontes e bibliografia | Ana Carolina, Daniel e Ricardo |
-| 12.02.2022 | 0.2 | Revisão do documento | Erick, Gustave |
-
+|    Data    | Versão |                                           Descrição                                            |             Autor              | Revisor |
+| :--------: | :----: | :--------------------------------------------------------------------------------------------: | :----------------------------: | :-----: |
+| 10.02.2022 |  0.1   | Criação do documento de processo de design, Adição de figuras, legendas, fontes e bibliografia | Ana Carolina, Daniel e Ricardo | Gustave |
+| 12.02.2022 |  0.2   |                                      Revisão do documento                                      |         Erick, Gustave         | Ricardo |
 
 ## 1.Introdução
 
@@ -33,7 +33,8 @@ permitiu que a escolha do modelo mais adequado fosse escolhido.
 
 ## 3.Modelos de Design
 
-### 3.1 Ciclo de Vida em Estrela 
+### 3.1 Ciclo de Vida em Estrela
+
 <p align="justify">
 Modelo proposto por Hartson e Hix em 1989. Baseado no trabalho de designers de
 interfaces. Este modelo não especifica uma ordem de realização das atividades,
@@ -68,28 +69,28 @@ instalação desdobrando-se em estágios de identificação de requisitos, proje
 avaliação e construção de protótipos.
 </p>
 
-|  Princípio  | Definição |
-| :---------: | :-------: | 
-| Conhecer o usuário | Fase básica e essencial de análise das tarefas e objetivos, para identificação das características individuais dos usuários. |
-| Analisar os aplicativos concorrentes | Análise comparativa de diversos produtos disponíveis, para estudo de recursos interessantes e falhas para inovar. |
-| Especificar metas de usabilidade | Determinação dos pesos dos atributos de usabilidade, em função do projeto, dos objetivos da interface e das métricas da usabilidade.. |
-| Realizar o Design paralelo | Exploração das diversas alternativas de design, através do trabalho independente de vários designers, para geração de múltiplas soluções. |
-| Fazer o Design participativo | Apresentação de diversas opções de design para uma amostra representativa de usuários, para seleção das alternativas adequadas. |
-| Efetuar o Design coordenado para a interface total | Aplicação de argumentos de consistência para todo o conjunto da interface homem-computador incluindo, além das telas do produto, a documentação. |
-| Aplicar os princípios de Design de interfaces e de análise heurística | Utilização de princípios para design de interfaces com usuário e de heurísticas de usabilidade, para avaliação do design considerado. |
-| Elaborar protótipos | Elaboração de telas sem funcionalidades para avaliação dos usuários e diminuição de tempos de reengenharia. |
-| Aplicar testes empíricos | Elaborar uma série de testes das telas com os usuários para listagem de erros e melhorias de usabilidade. |
-| Realizar o Design iterativo | Realização de novas versões da interface, através de um processo iterativo de design, baseado nos problemas de usabilidade e nas observações identificadas na fase 9. |
+|                               Princípio                               |                                                                               Definição                                                                               |
+| :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                          Conhecer o usuário                           |                     Fase básica e essencial de análise das tarefas e objetivos, para identificação das características individuais dos usuários.                      |
+|                 Analisar os aplicativos concorrentes                  |                           Análise comparativa de diversos produtos disponíveis, para estudo de recursos interessantes e falhas para inovar.                           |
+|                   Especificar metas de usabilidade                    |                 Determinação dos pesos dos atributos de usabilidade, em função do projeto, dos objetivos da interface e das métricas da usabilidade..                 |
+|                      Realizar o Design paralelo                       |               Exploração das diversas alternativas de design, através do trabalho independente de vários designers, para geração de múltiplas soluções.               |
+|                     Fazer o Design participativo                      |                    Apresentação de diversas opções de design para uma amostra representativa de usuários, para seleção das alternativas adequadas.                    |
+|          Efetuar o Design coordenado para a interface total           |           Aplicação de argumentos de consistência para todo o conjunto da interface homem-computador incluindo, além das telas do produto, a documentação.            |
+| Aplicar os princípios de Design de interfaces e de análise heurística |                 Utilização de princípios para design de interfaces com usuário e de heurísticas de usabilidade, para avaliação do design considerado.                 |
+|                          Elaborar protótipos                          |                              Elaboração de telas sem funcionalidades para avaliação dos usuários e diminuição de tempos de reengenharia.                              |
+|                       Aplicar testes empíricos                        |                               Elaborar uma série de testes das telas com os usuários para listagem de erros e melhorias de usabilidade.                               |
+|                      Realizar o Design iterativo                      | Realização de novas versões da interface, através de um processo iterativo de design, baseado nos problemas de usabilidade e nas observações identificadas na fase 9. |
 
 <center><figcaption>Tabela 1: Dez Princípios de Usabilidade de Nielsen.</figcaption></center>
 
 ### 3.3 Design baseado em Cenários
 
 <p align="justify">
-Tem objetivo de descrever a sequência de ações do usuário durante a execução de uma atividade. Possibilitando a criação de imaginações de diferentes tipos de situações e geração de ideias, motivando seu uso a todos os interessados no sistema a participarem e contribuírem com as decisões de design, direta ou indiretamente. Ao criar cenários, a equipe de design tem a oportunidade de discutir e analisar como as atividades dos usuários são afetadas pela tecnologia existente e como elas poderiam ser afetadas pelo sistema sendo desenvolvido. 
+Tem objetivo de descrever a sequência de ações do usuário durante a execução de uma atividade. Possibilitando a criação de imaginações de diferentes tipos de situações e geração de ideias, motivando seu uso a todos os interessados no sistema a participarem e contribuírem com as decisões de design, direta ou indiretamente. Ao criar cenários, a equipe de design tem a oportunidade de discutir e analisar como as atividades dos usuários são afetadas pela tecnologia existente e como elas poderiam ser afetadas pelo sistema sendo desenvolvido.
 
-- Análise do problema: estuda a situação atual junto aos interessados no sistema e com o conhecimento adquirido sobre a situação atual, a equipe de design deve formular cenários de problemas que cobrem características dos usuários, suas atividades típicas e críticas, os artefatos que eles utilizam e o contexto de uso (Rosson e Carroll, 2002). 
-- Atividade de projeto: Explorar ideias para a solução de IHC elaborando três tipos de cenários: cenários de atividade, de informação e de interação. O cenário de atividade é uma narrativa sobre as tarefas típicas e críticas que os usuários vão executar com ajuda do sistema. Já o cenário de informação é uma elaboração de um cenário de atividade que descreve as informações fornecidas pelo sistema ao usuário durante a interação. E o cenário de interação específica em Interação Humano-Computador detalha as ações do usuário e as respectivas respostas (feedback) do sistema necessárias para executar as tarefas apoiadas pelo sistema. 
+- Análise do problema: estuda a situação atual junto aos interessados no sistema e com o conhecimento adquirido sobre a situação atual, a equipe de design deve formular cenários de problemas que cobrem características dos usuários, suas atividades típicas e críticas, os artefatos que eles utilizam e o contexto de uso (Rosson e Carroll, 2002).
+- Atividade de projeto: Explorar ideias para a solução de IHC elaborando três tipos de cenários: cenários de atividade, de informação e de interação. O cenário de atividade é uma narrativa sobre as tarefas típicas e críticas que os usuários vão executar com ajuda do sistema. Já o cenário de informação é uma elaboração de um cenário de atividade que descreve as informações fornecidas pelo sistema ao usuário durante a interação. E o cenário de interação específica em Interação Humano-Computador detalha as ações do usuário e as respectivas respostas (feedback) do sistema necessárias para executar as tarefas apoiadas pelo sistema.
 - Ideias para a solução: Devem ser avaliadas continuamente durante o processo de design. Realizado através de um protótipo que implementa ou demonstra partes da solução de IHC descritas em cenários.
 </p>
 
@@ -101,8 +102,8 @@ Tem objetivo de descrever a sequência de ações do usuário durante a execuç�
 </figcaption>
 </center>
 
-
 ### 3.4 Engenharia de Usabilidade de Mayhew
+
 <p align="justify">
 Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa.
  - Análise de requisitos:  são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Nesse processo, as metas de usabilidade costumam ser representadas em “guias de estilos” para auxiliar sua verificação durante as demais atividades do processo.
@@ -119,13 +120,14 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
 </figcaption>
 </center>
 
-
 ### 4. Processo de design selecionado
+
 <p align="justify">
 De acordo com os modelos estudados e analisados, o Ciclo de Mayhew foi avaliado como o mais adequado para a condução do projeto por seus artefatos serem mais simples e completos e acreditando que a ideia clara do ciclo seja mais interativa e conexa pode ser justificada pela escolha do grupo.
 </p>
 
 ### 5.Bibliografia
+
 BARBOSA, Simone; DINIZ, Bruno. **Interação Humano - Computador**, Editora Elsevier, Rio de Janeiro, 2010.
 
 GIBERTONI, Daniela. CASAGRANDE, Thaís. Os Benefícios da Integração de Engenharia de Software e da Interação Humano-Computador no Desenvolvimento do Software Catalóg. Taquaritinga. Disponível em: link. Acesso em: <https://revista.fatectq.edu.br/index.php/interfacetecnologica/article/download/86/85/268#:~:text=Conclui%2Dse%2C%20portanto%2C%20que,o%20desenvolvi%2D%20mento%20do%20Catal%C3%B3G>. data de acesso: 10/02/2022.
