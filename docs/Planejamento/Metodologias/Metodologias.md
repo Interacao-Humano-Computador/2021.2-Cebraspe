@@ -1,12 +1,15 @@
-# Método do Projeto 
+# Método do Projeto
+
 ### Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor |
-| :----: | :----: | :-------: | :---: | 
-| 11.02.2022 | 0.1 | Criação do documento de metodologia, Adição de figuras, legendas, fontes e bibliografia | Ana Carolina, Gustave |
-| 12.02.2022 | 0.2 | Revisão do documento | Erick, Daniel |
+|    Data    | Versão |                                             Descrição                                             |             Autor             | Revisor |
+| :--------: | :----: | :-----------------------------------------------------------------------------------------------: | :---------------------------: | :-----: |
+| 11.02.2022 |  0.1   | Criação do cronograma do projeto, Adição do cronograma específico, Adição de legendas nas imagens | Ana Carolina, Daniel, Ricardo | Gustave |
+| 12.02.2022 |  0.2   |                             Adição do cronograma da primeira entrega                              |         Ana Carolina          |  Erick  |
+| 12.02.2022 |  0.3   |                                       Revisão do documento                                        |        Erick, Gustave         | Ricardo |
 
 ## 1.Introdução
+
 <p align="justify">O documento de metodologia busca descrever as abordagens utilizadas durante o
 processo de desenvolvimento desse projeto. Nele será descrito quais metodologias
 foram usadas como referência, e quais métodos foram adotados para o nosso
@@ -19,7 +22,7 @@ comunicou durante o projeto.
 <p align="justify">Esse documento tem como objetivo documentar as metodologias utilizadas, assim
 como todos os processos adotados durante o desenvolvimento do projeto.</p>
 
-## 3.Metodologias 
+## 3.Metodologias
 
 <p align="justify">Os métodos ágeis são projetados para produzir software útil rapidamente.
 Eles são baseados no desenvolvimento incremental. Os incrementos são
@@ -119,6 +122,7 @@ uma linha de montagem. Além disso, cada coluna é dividida em duas
 sub-colunas: em execução e concluídas. As tarefas concluídas em um
 passo estão aguardando serem puxadas, por um membro do time, para o
 próximo passo. Por isso, Kanban é chamado de um sistema pull.
+
 </p>
 
 <p align="center">
@@ -130,6 +134,7 @@ próximo passo. Por isso, Kanban é chamado de um sistema pull.
 </p>
 
 ## 6.Extreme Programming (XP)
+
 <p align="justify">Extreme Programming, mais conhecido como XP, é uma metodologia
 ágil de desenvolvimento de software que tem como objetivo produzir
 software de alta qualidade e, também, melhor qualidade de vida para a
@@ -140,13 +145,14 @@ que a XP é configurada para pequenos grupos de programadores. A
 equipe XP inclui não apenas os desenvolvedores, mas também os gerentes
 e clientes, todos trabalhando juntos.
 
- Os requisitos se baseiam em histórias simples dos clientes (histórias de
+Os requisitos se baseiam em histórias simples dos clientes (histórias de
 usuário) e são utilizados como base para decidir qual funcionalidade deve
 ser incluída em um determinado incremento. Os programadores
 trabalham em pares (pair programming) e desenvolvem testes para cada
 tarefa antes de escreverem o código. Todos os testes devem ser executados
 com sucesso quando o novo código é integrado ao sistema, já que há um
 curto intervalo de tempo entre as releases do sistema.
+
 </p>
 
 </br>
@@ -160,10 +166,10 @@ curto intervalo de tempo entre as releases do sistema.
 
 ## Bibliografia
 
-* Manifesto Ágil, Disponível em: [https://agilemanifesto.org/iso/ptbr/manifesto.html](https://agilemanifesto.org/iso/ptbr/manifesto.html)
+- Manifesto Ágil, Disponível em: [https://agilemanifesto.org/iso/ptbr/manifesto.html](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
-* SCRUM, Metodologia Ágil. Disponível em: SCRUM, Metodologia Ágil. Disponível em: [https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)](https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software))
+- SCRUM, Metodologia Ágil. Disponível em: SCRUM, Metodologia Ágil. Disponível em: [https://pt.wikipedia.org/wiki/Scrum\_(desenvolvimento_de_software)](<https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)>)
 
-* KANBAN. Disponível em: [https://rockcontent.com/br/blog/kanban/](https://rockcontent.com/br/blog/kanban/)
+- KANBAN. Disponível em: [https://rockcontent.com/br/blog/kanban/](https://rockcontent.com/br/blog/kanban/)
 
-* Extreme Programming. Disponível em: [https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)
+- Extreme Programming. Disponível em: [https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)
