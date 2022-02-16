@@ -2,7 +2,7 @@
 
 ### Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor | Revisores | 
+|  Data  | Versão | Descrição | Autor | Revisor | 
 | :----: | :----: | :-------: | :---: | :-------: | 
 | 11.02.2022 | 0.1 | Criação da página de ferramentas | Erick Melo, Gustave Persijn | Ana Carolina | 
 | 12.02.2022 | 0.2 | Revisão do documento | Ana Carolina, Ricardo | Gustave, Erick e Daniel | 

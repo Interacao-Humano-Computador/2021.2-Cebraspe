@@ -2,7 +2,7 @@
 
 ### Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor | Revisores |
+|  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | :--------:|
 | 11.02.2022 | 0.1 | Criação do cronograma do projeto, Adição do cronograma específico, Adição de legendas nas imagens | Ana Carolina, Daniel e Ricardo | Erick e Gustave | 
 | 12.02.2022 | 0.2 | Adição do cronograma da primeira entrega | Ana Carolina | Daniel, Gustave e Ricardo | 
