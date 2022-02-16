@@ -2,11 +2,11 @@
 
 ### Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor |
-| :----: | :----: | :-------: | :---: | 
-| 11.02.2022 | 0.1 | Criação do cronograma do projeto, Adição do cronograma específico, Adição de legendas nas imagens | Ana Carolina, Daniel, Ricardo |
-| 12.02.2022 | 0.2 | Adição do cronograma da primeira entrega | Ana Carolina |
-| 12.02.2022 | 0.3 | Revisão do documento | Erick, Gustave |
+|  Data  | Versão | Descrição | Autor | Revisores |
+| :----: | :----: | :-------: | :---: | :--------:|
+| 11.02.2022 | 0.1 | Criação do cronograma do projeto, Adição do cronograma específico, Adição de legendas nas imagens | Ana Carolina, Daniel e Ricardo | Erick e Gustave | 
+| 12.02.2022 | 0.2 | Adição do cronograma da primeira entrega | Ana Carolina | Daniel, Gustave e Ricardo | 
+| 12.02.2022 | 0.3 | Revisão do documento | Erick, Gustave | Ana Carolina, Erick | 
 
 ## 1. Cronograma geral
 <p text-align="justify">&emsp;&emsp;O cronograma foi definido baseado no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. As datas das entregas foram redefinidas pela equipe para haver um prazo de alguns dias de antecedência às datas estabelecidas e possibilitar análise de eventuais erros e problemas. </p>

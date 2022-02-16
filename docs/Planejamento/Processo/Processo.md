@@ -94,13 +94,13 @@ Tem objetivo de descrever a sequência de ações do usuário durante a execuç�
 - Ideias para a solução: Devem ser avaliadas continuamente durante o processo de design. Realizado através de um protótipo que implementa ou demonstra partes da solução de IHC descritas em cenários.
 </p>
 
-<p align="center">
-<img src='...docs\Assets\cenarios.jpeg'>
+<center>
+![Sem título](https://user-images.githubusercontent.com/83254747/154365996-5a6853a7-f7bf-4990-a635-712d49fe2b18.png)
 <figcaption align='center'>
     <b>Figura 2: Atividades básicas proposta pelo design baseado em cenários.</b>
     <br><small>Fonte: Barbosa e Silva(2010)</small>
 </figcaption>
-</p>
+</center>
 
 ### 3.4 Engenharia de Usabilidade de Mayhew
 
@@ -112,13 +112,13 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
 
 </p>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/83254747/153682509-9995b21b-8411-4751-a890-af37b8d136e7.png">
+<center>
+![Sem título](https://user-images.githubusercontent.com/83254747/154364924-92d2a07e-a956-419f-adfc-8246614a3f7f.png)
 <figcaption align='center'>
     <b>Figura 3: Atividades básicas proposta pela usabilidade de Mayhew.</b>
     <br><small>Fonte: Barbosa e Silva(2010)</small>
 </figcaption>
-</p>
+</center>
 
 ### 4. Processo de design selecionado
 
