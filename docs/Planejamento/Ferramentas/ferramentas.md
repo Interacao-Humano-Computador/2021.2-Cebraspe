@@ -10,7 +10,8 @@
 
 ## 1. Utilização
 
-&emsp;&emsp;Para a execução no projeto, foram necessárias a utilização de ferramentas para ajudar na produtividade e, assim, melhorar a entrega do projeto.
+<p style="text-align: justify;"> Para a execução no projeto, foram necessárias a utilização de ferramentas para ajudar na produtividade e, assim, melhorar a entrega do projeto.
+</p>
 
 | | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |

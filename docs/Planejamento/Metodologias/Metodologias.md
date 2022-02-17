@@ -161,15 +161,16 @@ curto intervalo de tempo entre as releases do sistema.
 <img src="https://user-images.githubusercontent.com/83254747/153677750-a5d92878-a155-4f0e-93bc-4901778add8e.png">
 <figcaption align='center'>
     <b>Figura 3: Ciclo de release da XP.</b>
+    <br><small>Fonte: UFMG</small>
 </figcaption>
 </p>
 
 ## Bibliografia
 
-- Manifesto Ágil, Disponível em: [https://agilemanifesto.org/iso/ptbr/manifesto.html](https://agilemanifesto.org/iso/ptbr/manifesto.html)
+>Manifesto Ágil, Disponível em: [https://agilemanifesto.org/iso/ptbr/manifesto.html](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
-- SCRUM, Metodologia Ágil. Disponível em: SCRUM, Metodologia Ágil. Disponível em: [https://pt.wikipedia.org/wiki/Scrum\_(desenvolvimento_de_software)](<https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)>)
+>SCRUM, Metodologia Ágil. Disponível em: SCRUM, Metodologia Ágil. Disponível em: [https://pt.wikipedia.org/wiki/Scrum\_(desenvolvimento_de_software)](<https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)>)
 
-- KANBAN. Disponível em: [https://rockcontent.com/br/blog/kanban/](https://rockcontent.com/br/blog/kanban/)
+>KANBAN. Disponível em: [https://rockcontent.com/br/blog/kanban/](https://rockcontent.com/br/blog/kanban/)
 
-- Extreme Programming. Disponível em: [https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)
+>Extreme Programming. Disponível em: [https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)

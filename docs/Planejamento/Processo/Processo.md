@@ -126,8 +126,8 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
 De acordo com os modelos estudados e analisados, o Ciclo de Mayhew foi avaliado como o mais adequado para a condução do projeto por seus artefatos serem mais simples e completos e acreditando que a ideia clara do ciclo seja mais interativa e conexa pode ser justificada pela escolha do grupo.
 </p>
 
-### 5.Bibliografia
+### Bibliografia
 
-BARBOSA, Simone; DINIZ, Bruno. **Interação Humano - Computador**, Editora Elsevier, Rio de Janeiro, 2010.
+> BARBOSA, Simone; DINIZ, Bruno. **Interação Humano - Computador**, Editora Elsevier, Rio de Janeiro, 2010.
 
-GIBERTONI, Daniela. CASAGRANDE, Thaís. Os Benefícios da Integração de Engenharia de Software e da Interação Humano-Computador no Desenvolvimento do Software Catalóg. Taquaritinga. Disponível em: link. Acesso em: <https://revista.fatectq.edu.br/index.php/interfacetecnologica/article/download/86/85/268#:~:text=Conclui%2Dse%2C%20portanto%2C%20que,o%20desenvolvi%2D%20mento%20do%20Catal%C3%B3G>. data de acesso: 10/02/2022.
+> GIBERTONI, Daniela. CASAGRANDE, Thaís. Os Benefícios da Integração de Engenharia de Software e da Interação Humano-Computador no Desenvolvimento do Software Catalóg. Taquaritinga. Disponível em: link. Acesso em: <https://revista.fatectq.edu.br/index.php/interfacetecnologica/article/download/86/85/268#:~:text=Conclui%2Dse%2C%20portanto%2C%20que,o%20desenvolvi%2D%20mento%20do%20Catal%C3%B3G>. data de acesso: 10/02/2022.

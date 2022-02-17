@@ -6,13 +6,13 @@
 
 
 ## 1. Sobre o projeto
-Este repositório destina-se a matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da Cebraspe, aplicando, identificando e propondo melhorias de usabilidade dos conceitos aprendidos na discplina para o site especializado na realização de avaliações, seleções, certificações e pesquisas.
-
+<p style="text-align: justify;"> Este repositório destina-se a matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da Cebraspe, aplicando, identificando e propondo melhorias de usabilidade dos conceitos aprendidos na discplina para o site especializado na realização de avaliações, seleções, certificações e pesquisas.
+</p>
 
 ## 2. Sobre o Cebraspe
-O Cespe/UnB é nome dado ao Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe). Popularmente conhecido como Cespe. Cuida da organização de todos os concursos, editais, provas, questões, correções e detalhes do concurso. É uma Organização Social (OS) desde 19 de agosto de 2013, com a assinatura do Decreto n.º 8.078 pela Presidenta Dilma Rousseff.
+<p style="text-align: justify;"> O Cespe/UnB é nome dado ao Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe). Popularmente conhecido como Cespe. Cuida da organização de todos os concursos, editais, provas, questões, correções e detalhes do concurso. É uma Organização Social (OS) desde 19 de agosto de 2013, com a assinatura do Decreto n.º 8.078 pela Presidenta Dilma Rousseff.
 Os serviços do Cespe/UnB são contratados por meio de celebração de contrato com o Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (Cebraspe), sem a necessidade de procedimento licitatório.
-
+</p>
 
 ## 3. Equipe
 

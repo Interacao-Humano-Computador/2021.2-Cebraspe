@@ -1,4 +1,4 @@
-# <center>Cronograma do projeto
+# Cronograma do projeto
 
 ### Histórico de Versão
 
@@ -9,7 +9,7 @@
 | 12.02.2022 | 0.3 | Revisão do documento | Erick, Gustave | Ana Carolina, Erick | 
 
 ## 1. Cronograma geral
-<p text-align="justify">&emsp;&emsp;O cronograma foi definido baseado no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. As datas das entregas foram redefinidas pela equipe para haver um prazo de alguns dias de antecedência às datas estabelecidas e possibilitar análise de eventuais erros e problemas. </p>
+<p style="text-align: justify;">O cronograma foi definido baseado no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. As datas das entregas foram redefinidas pela equipe para haver um prazo de alguns dias de antecedência às datas estabelecidas e possibilitar análise de eventuais erros e problemas. </p>
 
 | Etapas | Apresentação              | Descrição        | Data de entrega       |
 | :----: | :--------------------------------------------: | :--------------: | :------------: |
@@ -24,7 +24,7 @@
 
 <figcaption>Tabela 1: Cronograma de atividades.</figcaption>
 
-## 1. 1º Entrega
+## 1. Cronograma da primeira entrega
 
 | Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
 | :----: | :--------------------------------------------: | :--------------: | :------------: |

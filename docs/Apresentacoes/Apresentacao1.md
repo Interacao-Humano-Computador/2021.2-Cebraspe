@@ -10,7 +10,7 @@
 | 12.02.2022 | 0.4 | Adição do vídeo | Ana Carolina |
 
 
-## 1. Planejamento
+## 1. Vídeo
 
 <center>
 
