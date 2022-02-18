@@ -88,11 +88,13 @@ avaliação e construção de protótipos.
 
 <p align="justify">
 Tem objetivo de descrever a sequência de ações do usuário durante a execução de uma atividade. Possibilitando a criação de imaginações de diferentes tipos de situações e geração de ideias, motivando seu uso a todos os interessados no sistema a participarem e contribuírem com as decisões de design, direta ou indiretamente. Ao criar cenários, a equipe de design tem a oportunidade de discutir e analisar como as atividades dos usuários são afetadas pela tecnologia existente e como elas poderiam ser afetadas pelo sistema sendo desenvolvido.
-
-- Análise do problema: estuda a situação atual junto aos interessados no sistema e com o conhecimento adquirido sobre a situação atual, a equipe de design deve formular cenários de problemas que cobrem características dos usuários, suas atividades típicas e críticas, os artefatos que eles utilizam e o contexto de uso (Rosson e Carroll, 2002).
-- Atividade de projeto: Explorar ideias para a solução de IHC elaborando três tipos de cenários: cenários de atividade, de informação e de interação. O cenário de atividade é uma narrativa sobre as tarefas típicas e críticas que os usuários vão executar com ajuda do sistema. Já o cenário de informação é uma elaboração de um cenário de atividade que descreve as informações fornecidas pelo sistema ao usuário durante a interação. E o cenário de interação específica em Interação Humano-Computador detalha as ações do usuário e as respectivas respostas (feedback) do sistema necessárias para executar as tarefas apoiadas pelo sistema.
-- Ideias para a solução: Devem ser avaliadas continuamente durante o processo de design. Realizado através de um protótipo que implementa ou demonstra partes da solução de IHC descritas em cenários.
 </p>
+- Análise do problema: <p align="justify">estuda a situação atual junto aos interessados no sistema e com o conhecimento adquirido sobre a situação atual, a equipe de design deve formular cenários de problemas que cobrem características dos usuários, suas atividades típicas e críticas, os artefatos que eles utilizam e o contexto de uso (Rosson e Carroll, 2002). </p>
+
+- Atividade de projeto: <p align="justify">Explorar ideias para a solução de IHC elaborando três tipos de cenários: cenários de atividade, de informação e de interação. O cenário de atividade é uma narrativa sobre as tarefas típicas e críticas que os usuários vão executar com ajuda do sistema. Já o cenário de informação é uma elaboração de um cenário de atividade que descreve as informações fornecidas pelo sistema ao usuário durante a interação. E o cenário de interação específica em Interação Humano-Computador detalha as ações do usuário e as respectivas respostas (feedback) do sistema necessárias para executar as tarefas apoiadas pelo sistema. </p>
+
+- Ideias para a solução: <p align="justify">Devem ser avaliadas continuamente durante o processo de design. Realizado através de um protótipo que implementa ou demonstra partes da solução de IHC descritas em cenários. </p>
+
 
 <center>
 ![Sem título](https://user-images.githubusercontent.com/83254747/154365996-5a6853a7-f7bf-4990-a635-712d49fe2b18.png)
@@ -106,11 +108,14 @@ Tem objetivo de descrever a sequência de ações do usuário durante a execuç�
 
 <p align="justify">
 Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, esse processo de design reúne e organiza diferentes atividades propostas na área de IHC para orientar o trabalho do designer em direção a uma boa solução interativa.
- - Análise de requisitos:  são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Nesse processo, as metas de usabilidade costumam ser representadas em “guias de estilos” para auxiliar sua verificação durante as demais atividades do processo.
- - Design, avaliação e desenvolvimento:  tem por objetivo criar uma solução de IHC que cumpra com as metas de usabilidade estabelecidas na fase de análise de requisitos. Indicando a solução de IHC em três níveis: No primeiro nível, o designer precisa realizar a reengenharia do trabalho, repensando a execução das tarefas para alcançar os objetivos dos usuários, elaborar alternativas de solução do modelo conceitual, elaborar protótipos de baixa fidelidade e avaliar tais protótipos. No segundo nível, o designer deve estabelecer padrões de design de IHC para a solução sendo concebida, construir protótipos de média fidelidade de acordo com esses padrões e avaliá-los. Já no terceiro nível, o designer realiza o projeto detalhado da interface, com alta fidelidade, para ser implementado.
- - Instalação: Coleta de opiniões dos usuários após um tempo de uso. Sendo úteis para melhorar o sistema em versões futuras.
+ </p>
+ -Análise de requisitos:  <p align="justify"> são definidas as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Nesse processo, as metas de usabilidade costumam ser representadas em “guias de estilos” para auxiliar sua verificação durante as demais atividades do processo.</p>
+ 
+ -Design, avaliação e desenvolvimento: <p align="justify"> tem por objetivo criar uma solução de IHC que cumpra com as metas de usabilidade estabelecidas na fase de análise de requisitos. Indicando a solução de IHC em três níveis: No primeiro nível, o designer precisa realizar a reengenharia do trabalho, repensando a execução das tarefas para alcançar os objetivos dos usuários, elaborar alternativas de solução do modelo conceitual, elaborar protótipos de baixa fidelidade e avaliar tais protótipos. No segundo nível, o designer deve estabelecer padrões de design de IHC para a solução sendo concebida, construir protótipos de média fidelidade de acordo com esses padrões e avaliá-los. Já no terceiro nível, o designer realiza o projeto detalhado da interface, com alta fidelidade, para ser implementado.
+ </p>
 
-</p>
+ -Instalação:<p align="justify"> Coleta de opiniões dos usuários após um tempo de uso. Sendo úteis para melhorar o sistema em versões futuras. </p>
+
 
 <center>
 ![Sem título](https://user-images.githubusercontent.com/83254747/154364924-92d2a07e-a956-419f-adfc-8246614a3f7f.png)

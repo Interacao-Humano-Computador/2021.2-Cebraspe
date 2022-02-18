@@ -22,20 +22,20 @@
 | VII   | 11/04 | Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 09/04 |
 | VIII  | 25/04 | Projeto final | 23/04 |
 
-<figcaption>Tabela 1: Cronograma de atividades.</figcaption>
+<center> <figcaption>Tabela 1: Cronograma de atividades.</figcaption> </center>
 
 ## 1. Cronograma da primeira entrega
 
 | Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
 | :----: | :--------------------------------------------: | :--------------: | :------------: |
-| 13/02 | Planejamento | Gustave, Ana Carolina | Erick, Daniel | 11/02 |
-| 13/02 | Sites avaliados | Gustave, Ana Carolina | Gustave, Ricardo | 11/02 |
-| 13/02 | Site selecionado | Gustave, Ana Carolina | Ana Carolina, Ricardo | 11/02 |
-| 13/02 | Ferramentas | Gustave, Ana Carolina | Ana Carolina, Daniel | 11/02 |
-| 13/02 | Processo de design | Gustave, Ana Carolina | Erick, Gustave | 11/02 |
-| 13/02 | Cronograma | Gustave, Ana Carolina | Erick, Gustave | 11/02 |
+| 13/02 | Planejamento | Ricardo, Ana Carolina | Erick, Daniel | 11/02 |
+| 11/02 | Sites avaliados | Gustave, Erick | Gustave, Ricardo | 11/02 |
+| 11/02 | Site selecionado | Gustave, Erick | Ana Carolina, Ricardo | 11/02 |
+| 13/02 | Ferramentas | Erick, Gustave | Gustave, Daniel | 11/02 |
+| 12/02 | Processo de design | Ricardo, Ana Carolina, Daniel | Erick, Gustave | 11/02 |
+| 12/02 | Cronograma | Gustave, Daniel | Erick, Gustave | 11/02 |
 
-<figcaption>Tabela 2: Cronograma de atividades da primeira entrega.</figcaption>
+<center> <figcaption>Tabela 2: Cronograma de atividades da primeira entrega.</figcaption> </center>
 
 Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
 
