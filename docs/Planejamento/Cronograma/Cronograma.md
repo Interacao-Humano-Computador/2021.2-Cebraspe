@@ -24,7 +24,7 @@
 
 <center> <figcaption>Tabela 1: Cronograma de atividades.</figcaption> </center>
 
-## 1. Cronograma da primeira entrega
+## 2. Cronograma da primeira entrega
 
 | Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
 | :----: | :--------------------------------------------: | :--------------: | :------------: |
