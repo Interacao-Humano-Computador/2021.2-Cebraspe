@@ -5,7 +5,7 @@
 |    Data    | Versão |                   Descrição                    |            Autor            | Revisor |
 | :--------: | :----: | :--------------------------------------------: | :-------------------------: | :-----: |
 | 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto | Gustave Persijn, Erick Melo | Daniel  |
-| 12.02.2022 |  0.2   |              Revisão do documento              |    Ana Carolina, Ricardo    | Daniel  |
+| 12.02.2022 |  0.2   |              Revisão do documento              |    Ana Carolina, Daniel    | Ricardo  |
 
   </br>
  
