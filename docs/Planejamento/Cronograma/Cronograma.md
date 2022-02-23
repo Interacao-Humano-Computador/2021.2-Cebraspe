@@ -7,6 +7,7 @@
 | 11.02.2022 | 0.1 | Criação do cronograma do projeto, Adição do cronograma específico, Adição de legendas nas imagens | Ana Carolina, Daniel e Ricardo | Erick e Gustave | 
 | 12.02.2022 | 0.2 | Adição do cronograma da primeira entrega | Ana Carolina | Daniel, Gustave e Ricardo | 
 | 12.02.2022 | 0.3 | Revisão do documento | Erick, Gustave | Ana Carolina, Erick | 
+| 23.02.2022 | 0.4 | Arrumando bibliografia | Daniel | Erick |
 
 ## 1. Cronograma geral
 <p style="text-align: justify;">O cronograma foi definido baseado no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. As datas das entregas foram redefinidas pela equipe para haver um prazo de alguns dias de antecedência às datas estabelecidas e possibilitar análise de eventuais erros e problemas. </p>
@@ -40,3 +41,7 @@
 Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
 
 -----------------
+
+## Bibliografia
+
+> Prime Video. Disponível em: https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/planejamento/cronograma.md  .Acesso em: 12/02/2022.

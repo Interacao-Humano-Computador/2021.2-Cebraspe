@@ -23,3 +23,7 @@
 | <img src="https://user-images.githubusercontent.com/49570180/152993039-9dce211b-0d20-4fb1-9965-f0ed6ad7d9f7.png" width="150" title="Canva">| Canva | Elaboração das apresentações |
 
 <figcaption>Tabela 1: Ferramentas usadas nas atividades da primeira entrega.</figcaption>
+
+## Bibliografia
+
+> Disney Plus. Disponível em: https://github.com/Requisitos-de-Software/2021.1-DisneyPlus  .Acesso em: 12/02/2022.
