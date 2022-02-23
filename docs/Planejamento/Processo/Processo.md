@@ -6,8 +6,8 @@
 | :--------: | :----: | :--------------------------------------------------------------------------------------------: | :----------------------------: | :-----: |
 | 10.02.2022 |  0.1   | Criação do documento de processo de design, Adição de figuras, legendas, fontes e bibliografia | Ana Carolina, Daniel e Ricardo | Gustave |
 | 12.02.2022 |  0.2   |                                      Revisão do documento                                      |         Erick, Gustave         | - |
-| 23.02.2022 |  0.2   |                                      Correções ortográficas                                     |         Erick         | Daniel |
-| 23.02.2022 |  0.2   |                                      Revisão do documento                                      |         Daniel         | - |
+| 23.02.2022 |  0.3   |                                      Correções ortográficas                                     |         Erick         | Daniel |
+| 23.02.2022 |  0.4   |                                      Revisão do documento                                      |         Daniel         | - |
 
 ## 1.Introdução
 
