@@ -5,7 +5,9 @@
 |    Data    | Versão |                   Descrição                    |            Autor            | Revisor |
 | :--------: | :----: | :--------------------------------------------: | :-------------------------: | :-----: |
 | 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto | Gustave Persijn, Erick Melo | Daniel  |
-| 12.02.2022 |  0.2   |              Revisão do documento              |    Ana Carolina, Daniel    | Ricardo  |
+| 12.02.2022 |  0.2   |              Revisão do documento              |    Ana Carolina, Daniel    |  -  |
+| 23.02.2022 |  0.3   |             Correções ortográficas             |    Erick Melo    |    Gustave Persijn |
+| 23.02.2022 |  0.4   |             Revisão do documento               |    Gustave Persijn    |    -     |
 
   </br>
  
@@ -23,11 +25,11 @@
 
 <center>
  
-| Site Avaliado      | Analisador(es) | Revisor(es) |         
-|:----------:|:------:| :------: |
-| [Cebraspe](https://www.cebraspe.org.br/)  | Erick Melo | Daniel Vinícius e Ricardo Lourenço|
-| [DETRAN](http://www.detran.df.gov.br/) | Gustave Persijn | Daniel Vinícius e Ricardo Lourenço | 
-| [Musikcity](https://musikcity.mus.br/)  | Ana Carolina | Daniel Vinícius e Ricardo Lourenço |
+| Site Avaliado      | Data da avaliação | Analisador(es) | Revisor(es) |         
+|:----------:|:------:|:------:| :------: |
+| [Cebraspe](https://www.cebraspe.org.br/)  | 06.02.2022 | Erick Melo | Daniel Vinícius e Ricardo Lourenço|
+| [DETRAN](http://www.detran.df.gov.br/) | 08.02.2022 | Gustave Persijn | Daniel Vinícius e Ricardo Lourenço | 
+| [Musikcity](https://musikcity.mus.br/)  | 08.02.2022 | Ana Carolina | Daniel Vinícius e Ricardo Lourenço |
 
 </center>
 
@@ -74,7 +76,7 @@
 </p>
 
 <p style="text-align: justify;"> Com base na avaliação heurística proposta por Nielsen (2000) e pesquisas realizadas no site, foi decidido em uma reunião realizada com todos os integrantes da equipe que o site do Cebraspe atenderia melhor as demandas da disciplina. Em um primeiro viés, foi discutido a questão de usabilidade do site, das quais foram investigadas e debatidas as possíveis melhorias. Já por outro viés, é um site familiarizado por todos os integrantes do grupo, visto que todos participaram do processo seletivo da Universidade de Brasília e portanto foi considerado um ponto a favor para o site em questão. </p>
-<p style="text-align: justify;"> Portanto, o site do Cebraspe foi o escolhido para o projeto da disciplina de Interação Humano-Computador devido a maior quantidade de votos recebido por votação durante a reunião - eleito por unamidade.
+<p style="text-align: justify;"> Portanto, o site do Cebraspe foi o escolhido para o projeto da disciplina de Interação Humano-Computador devido a maior quantidade de votos recebido por votação durante a reunião - eleito por unanimidade.
 </p>
 
 ### Bibliografia
