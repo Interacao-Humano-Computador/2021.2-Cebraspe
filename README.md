@@ -4,9 +4,18 @@
   <img width="200" src="https://user-images.githubusercontent.com/49570180/152347553-5572f49d-7442-4694-a847-179c1c14719e.png">
 </p>
 
+# Método do Projeto
+
+### Histórico de Versão
+
+|    Data    | Versão |     Descrição      |    Autor     | Revisor |
+| :--------: | :----: | :----------------: | :--------------: | :-----: |
+| 03.02.2022 |  0.1   | Criação do Readme | Ana Carolina | Gustave |
+| 10.02.2022 |  0.2   | Atualização do Readme | Gustave |  Erick  |
+| 23.02.2022 |  0.3   | Correção ortográfica | Erick | Daniel |
 
 ## 1. Sobre o projeto
-Este repositório destina-se a matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da Cebraspe, aplicando, identificando e propondo melhorias de usabilidade dos conceitos aprendidos na discplina para o site especializado na realização de avaliações, seleções, certificações e pesquisas.
+Este repositório destina-se a matéria de Interação Humano-Computador da Universidade de Brasília. Possui o objetivo de analisar o site da Cebraspe, aplicando, identificando e propondo melhorias de usabilidade dos conceitos aprendidos na disciplina para o site especializado na realização de avaliações, seleções, certificações e pesquisas.
 
 
 ## 2. Sobre o Cebraspe
