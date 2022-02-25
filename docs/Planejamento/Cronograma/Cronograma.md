@@ -43,16 +43,14 @@
 | Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
 | :--------------------------: | :----------------------------------: | :-----------------: | :------------: |
 | 24/02 | Perfil do usuário | Ana Carolina | Daniel |
-| 11/02 | Personas | Ricardo, Daniel | Erick |
-| 11/02 | Análise de tarefas | Gustave, Erick | Ana Carolina  |
-| 13/02 | Ata de reunião | Ana Carolina | Ricardo |
-| 12/02 | Cronograma da segunda entrega | Ana Carolina | Gustave |
+| 24/02 | Personas | Ricardo, Daniel | Erick |
+| 25/02 | Análise de tarefas | Gustave, Erick | Ana Carolina  |
+| 23/02 | Ata de reunião | Ana Carolina | Ricardo |
+| 25/02 | Cronograma da segunda entrega | Ana Carolina | Gustave |
 
 <center> <figcaption>Tabela 3: Segunda entrega.</figcaption> </center>
 
 Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
-
-Perfil do usuário, Personas e Análise de tarefas
 
 -----------------
 
