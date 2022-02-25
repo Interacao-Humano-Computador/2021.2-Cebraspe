@@ -8,6 +8,7 @@
 | 12.02.2022 | 0.2 | Adição do cronograma da primeira entrega | Ana Carolina | Daniel, Gustave e Ricardo | 
 | 12.02.2022 | 0.3 | Revisão do documento | Erick, Gustave | Ana Carolina, Erick | 
 | 23.02.2022 | 0.4 | Arrumando bibliografia | Daniel | Erick |
+| 25.02.2022 | 0.5 | Inclusão do cronograma da segunda entrega | Ana Carolina | Erick |
 
 ## 1. Cronograma geral
 <p style="text-align: justify;">O cronograma foi definido baseado no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. As datas das entregas foram redefinidas pela equipe para haver um prazo de alguns dias de antecedência às datas estabelecidas e possibilitar análise de eventuais erros e problemas. </p>
