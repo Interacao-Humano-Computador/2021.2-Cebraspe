@@ -13,6 +13,8 @@ nav:
     - Cronograma do Projeto: Planejamento/Cronograma/Cronograma.md
     - Processo de Design: Planejamento/Processo/Processo.md
   - Análise de Requisitos:
+    - Análise de Tarefas:
+      - CTT: Análise_de_requisitos/Análise_de_tarefas/CTT.md
     - Personas: Análise_de_requisitos/personas.md
   - Apresentações:
     - Apresentação 1: Apresentacoes/Apresentacao1.md
