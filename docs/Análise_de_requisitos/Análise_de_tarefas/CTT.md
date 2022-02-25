@@ -37,7 +37,7 @@
 ## 3. Resultados:
 <p align = "justify">Para criar a árvore de tarefas para o nosso projeto, escolhemos um cenário em que o usuário deseja saber sua nota final após já ter realizado as três etapas do PAS. Foi gerada, então, a árvore apresentada na Figura 2.</p>
 
-### 3.1 CTT Consultar média final no PAS
+### 3.1. CTT Consultar média final no PAS
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48844857/155748522-db7f1d3b-3d68-4620-9c32-f35774929aca.jpg">
   <br><b>Figura 1: Árvore concorrente de consular média final</b>
