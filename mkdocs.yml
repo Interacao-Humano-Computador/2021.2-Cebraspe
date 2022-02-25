@@ -1,26 +1,26 @@
 site_name: Cebraspe
 
-repo_name: '2021.2-Cebraspe'
-repo_url: 'https://github.com/Interacao-Humano-Computador/2021.2-Cebraspe'
-
+repo_name: "2021.2-Cebraspe"
+repo_url: "https://github.com/Interacao-Humano-Computador/2021.2-Cebraspe"
 
 nav:
   - Início: index.md
-  - Planejamento: 
-    - Ferramentas: Planejamento/Ferramentas/ferramentas.md
-    - Sites Avaliados: Planejamento/Sites/sites.md
-    - Metodologia Adotada: Planejamento/Metodologias/Metodologias.md
-    - Cronograma do Projeto: Planejamento/Cronograma/Cronograma.md
-    - Processo de Design: Planejamento/Processo/Processo.md
+  - Planejamento:
+      - Ferramentas: Planejamento/Ferramentas/ferramentas.md
+      - Sites Avaliados: Planejamento/Sites/sites.md
+      - Metodologia Adotada: Planejamento/Metodologias/Metodologias.md
+      - Cronograma do Projeto: Planejamento/Cronograma/Cronograma.md
+      - Processo de Design: Planejamento/Processo/Processo.md
   - Análise de Requisitos:
-    - Análise de Tarefas:
-      - CTT: Análise_de_requisitos/Análise_de_tarefas/CTT.md
-    - Personas: Análise_de_requisitos/personas.md
+      - Análise de Tarefas:
+          - CTT: Análise_de_requisitos/Análise_de_tarefas/CTT.md
+          - HTA: Análise_de_requisitos/Análise_de_tarefas/HTA.md
+      - Personas: Análise_de_requisitos/personas.md
   - Apresentações:
-    - Apresentação 1: Apresentacoes/Apresentacao1.md
+      - Apresentação 1: Apresentacoes/Apresentacao1.md
   - Atas:
-    - 23-02-2022: Atas/23-02-2022.md
+      - 23-02-2022: Atas/23-02-2022.md
 
 theme:
   name: material
-  language: 'pt'
+  language: "pt"
