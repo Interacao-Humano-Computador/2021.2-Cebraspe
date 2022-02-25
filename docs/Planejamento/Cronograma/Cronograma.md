@@ -25,20 +25,34 @@
 
 <center> <figcaption>Tabela 1: Cronograma de atividades.</figcaption> </center>
 
-## 2. Cronograma da primeira entrega
+## 2. Primeira entrega
 
 | Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
 | :----: | :--------------------------------------------: | :--------------: | :------------: |
-| 13/02 | Planejamento | Ricardo, Ana Carolina | Erick, Daniel | 11/02 |
-| 11/02 | Sites avaliados | Gustave, Erick | Gustave, Ricardo | 11/02 |
-| 11/02 | Site selecionado | Gustave, Erick | Ana Carolina, Ricardo | 11/02 |
-| 13/02 | Ferramentas | Erick, Gustave | Gustave, Daniel | 11/02 |
-| 12/02 | Processo de design | Ricardo, Ana Carolina, Daniel | Erick, Gustave | 11/02 |
-| 12/02 | Cronograma | Gustave, Daniel | Erick, Gustave | 11/02 |
+| 13/02 | Planejamento | Ricardo, Ana Carolina | Erick, Daniel |
+| 11/02 | Sites avaliados | Gustave, Erick | Gustave, Ricardo |
+| 11/02 | Site selecionado | Gustave, Erick | Ana Carolina, Ricardo |
+| 13/02 | Ferramentas | Erick, Gustave | Gustave, Daniel |
+| 12/02 | Processo de design | Ricardo, Ana Carolina, Daniel | Erick, Gustave |
+| 12/02 | Cronograma | Gustave, Daniel | Erick, Gustave |
 
-<center> <figcaption>Tabela 2: Cronograma de atividades da primeira entrega.</figcaption> </center>
+<center> <figcaption>Tabela 2: Primeira entrega.</figcaption> </center>
+
+## 3. Segunda entrega
+
+| Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
+| :--------------------------: | :----------------------------------: | :-----------------: | :------------: |
+| 24/02 | Perfil do usuário | Ana Carolina | Daniel |
+| 11/02 | Personas | Ricardo, Daniel | Erick |
+| 11/02 | Análise de tarefas | Gustave, Erick | Ana Carolina |
+| 13/02 | Ata de reunião | Ana Carolina | Ricardo |
+| 12/02 | Cronograma da segunda entrega | Ana Carolina | Gustave |
+
+<center> <figcaption>Tabela 3: Segunda entrega.</figcaption> </center>
 
 Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
+
+Perfil do usuário, Personas e Análise de tarefas
 
 -----------------
 
