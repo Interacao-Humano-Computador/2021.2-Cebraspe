@@ -18,6 +18,8 @@ nav:
     - Personas: Análise_de_requisitos/personas.md
   - Apresentações:
     - Apresentação 1: Apresentacoes/Apresentacao1.md
+  - Atas:
+    - 23-02-2022: Atas/23-02-2022.md
 
 theme:
   name: material
