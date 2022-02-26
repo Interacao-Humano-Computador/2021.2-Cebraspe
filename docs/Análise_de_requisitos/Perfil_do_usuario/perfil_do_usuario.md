@@ -23,7 +23,7 @@
 
 ## 3. Resultados
 
-<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
+![Questão um](docs\Assets\questao_um.jpeg)
 <figcaption align='center'>
     <b>Figura 1: Questão um.</b>
     <br><small>Fonte: google forms</small>
@@ -160,6 +160,10 @@
     <b>Figura 23: Questão vinte e três.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
+
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
+
+
 
 ## 4. Conclusão
 
