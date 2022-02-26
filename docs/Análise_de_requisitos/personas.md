@@ -152,7 +152,7 @@
             <td rowspan="7" colspan="5" style="width: 350px">
                 <figure>
                     <center>
-                    <a href="https://ibb.co/gZqxb9J"><img src="https://this-person-does-not-exist.com/img/avatar-b0bb92986021683bbfd248044cdf0992.jpg" alt="kanae" height="180" width="180" border="0"></a>
+                    <a href="https://ibb.co/D90nfTv"><img src="https://i.ibb.co/7nsFtLZ/avatar-b0bb92986021683bbfd248044cdf0992.jpg" alt="Kanae" height="190" width="190" border="0"></a>
                     </center>
                     <figcaption>Figura 1: Foto da Kanae
                     </figcaption>
