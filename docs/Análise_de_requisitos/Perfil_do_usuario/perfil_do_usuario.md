@@ -23,7 +23,7 @@
 
 ## 3. Resultados
 
-![Questão um](docs\Assets\questao_um.jpeg)
+![Questão um](docs/Assets/questao_um.jpeg)
 <figcaption align='center'>
     <b>Figura 1: Questão um.</b>
     <br><small>Fonte: google forms</small>
