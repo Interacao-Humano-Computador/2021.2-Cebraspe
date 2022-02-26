@@ -6,6 +6,7 @@
 | :--------: | :----: | :----------------------: | :------------: | :-----: |
 | 25.02.2022 |  0.1   | Criação do Documento CTT |    Gustave     |  Erick  |
 | 25.02.2022 |  0.2   |   Ajustando Documento    | Erick e Daniel | Ricardo |
+| 25.02.2022 |  0.3   |   Ajustando Pages e legenda de imagens   | Erick, Daniel e Gustave | Ana Carolina |
 
 ## 1. Introdução:
 
@@ -99,20 +100,20 @@ Segundo Barbosa e Silva (2010, p.193; 194):
 <center>
    <br>
    <img src="https://user-images.githubusercontent.com/48844857/155822520-7228019b-9676-474d-9b23-8da080f593c6.jpg" alt="Diagrama-HTA1" border="0" width="900">
-   <br><b>Figura 2: Imagem de diagrama HTA</b>
+   <br><b>Figura 2: Imagem de diagrama HTA parte 1</b>
    <br><small><i>Fonte: Autor</i></small>
    <br>
    <img src="https://user-images.githubusercontent.com/48844857/155822521-cebfa41d-e70c-4fe9-a7fd-d166dce64270.jpg" alt="Diagrama-HTA1" border="0" width="600">
-   <br><b>Figura 3: Imagem de diagrama HTA</b>
+   <br><b>Figura 3: Imagem de diagrama HTA parte 2</b>
    <br><small><i>Fonte: Autor</i></small>
    <br>
    <img src="https://user-images.githubusercontent.com/48844857/155822523-ccf8db38-9647-4c20-a15f-cf91f80f26f2.jpg" alt="Diagrama-HTA1" border="0" width="600">
-   <br><b>Figura 4: Imagem de diagrama HTA</b>
+   <br><b>Figura 4: Imagem de diagrama HTA parte 3</b>
    <br><small><i>Fonte: Autor</i></small>
    <br>
    <img src="https://user-images.githubusercontent.com/48844857/155822519-a428e704-c72f-452f-ad32-28d49049f857.jpg
 " alt="Diagrama-HTA1" border="0" width="600">
-   <br><b>Figura 5: Imagem de diagrama HTA</b>
+   <br><b>Figura 5: Imagem de diagrama HTA parte 4</b>
    <br><small><i>Fonte: Autor</i></small>
 </center>
 
