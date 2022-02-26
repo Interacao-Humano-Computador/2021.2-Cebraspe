@@ -23,156 +23,139 @@
 
 ## 3. Resultados
 
-![Questão um](../Assets/questao_um.jpeg ":class=classuda")
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 1: Questão um.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão dois](../Assets/questao_dois.jpeg ":class=classuda")
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 2: Questão dois.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão tres](../Assets/questao_tres.jpeg ":class=classuda")
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 3: Questão três.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão quatro](../Assets/questao_quatro.jpeg ":class=classuda")
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 4: Questão quatro.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão cinco](../Assets/questao_cinco.jpeg ":class=classuda")
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 5: Questão cinco.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão seis](../Assets/questao_seis.jpeg ":class=classuda")
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 6: Questão seis.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão sete](../Assets/questao_sete.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 7: Questão sete.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão oito](../Assets/questao_oito.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 8: Questão oito.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão nove](../Assets/questao_nove.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 9: Questão nove.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão dez](../Assets/questao_dez.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 10: Questão 10.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão onze](../Assets/questao_onze.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 11: Questão onze.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão doze](../Assets/questao_doze.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 12: Questão doze.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão treze](../Assets/questao_treze.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 13: Questão treze.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão catorze](../Assets/questao_catorze.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 14: Questão quatorze.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão quinze](../Assets/questao_quinze.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 15: Questão quinze.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão dezesseis](../Assets/questao_dezesseis.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 16: Questão dezesseis.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão dezessete](../Assets/questao_dezessete.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 17: Questão dezessete.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão dezoito](../Assets/questao_dezoito.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 18: Questão dezoito.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão dezenove](../Assets/questao_dezenove.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 19: Questão dezenove.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão vinte](../Assets/questao_vinte.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 20: Questão vinte.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão vinte e um](../Assets/questao_vinte_um.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 21: Questão vinte e um.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão vinte e dois](../Assets/questao_dois.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 22: Questão vinte e dois.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-![Questão vinte e tres](../Assets/questao_tres.jpeg ":class=classuda")
-
+<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
 <figcaption align='center'>
     <b>Figura 23: Questão vinte e três.</b>
     <br><small>Fonte: google forms</small>
