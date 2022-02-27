@@ -5,6 +5,7 @@
 |    Data    | Versão |                                           Descrição                                            |             Autor              | Revisor |
 | :--------: | :----: | :--------------------------------------------------------------------------------------------: | :----------------------------: | :-----: |
 | 25.02.2022 |  0.1   |                                    Criação do Documento CTT                                    |             Erick              | Ricardo |
+| 25.02.2022 |  0.2   |                                    Revisando Documento                                         |             Ricardo            | - |
 
 
 ## 1. Introdução:
@@ -15,7 +16,7 @@ Para auxiliar na avaliação de IHC e no design, utilizamos o modelo de análise
 
 <ul>
 
-Tarefas do usuário: em que o sistema não está incluído;
+<li>Tarefas do usuário: em que o sistema não está incluído;
 <li>Tarefas do sistema: em que o usuário não interage com o sistema para a realização de um processamento;</li>
 
 <li>Tarefas interativas: em que ocorre interações entre o usuário e o sistema;</li>
@@ -34,7 +35,7 @@ Tarefas do usuário: em que o sistema não está incluído;
 
 <ul>
 
-<li>No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li>
+No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li>
 
 <li>Ativação (T1 >> T2): a segunda tarefa (T2) só pode iniciar após a primeira tarefa (T1) terminar;</li>
 
