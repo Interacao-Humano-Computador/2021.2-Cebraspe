@@ -33,10 +33,11 @@ Para auxiliar na avaliação de IHC e no design, utilizamos o modelo de análise
 
 ## 2. Nomenclatura de Relacionamento:
 
-<ul>
 
 No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li>
 
+<ul>
+  
 <li>Ativação (T1 >> T2): a segunda tarefa (T2) só pode iniciar após a primeira tarefa (T1) terminar;</li>
 
 <li>Ativação com passagem de informação (T1 []>> T2): além de T2 só poder ser iniciada após T1, a informação gerada em T1 é passada para T2;</li>
