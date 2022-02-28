@@ -4,10 +4,8 @@
 
 |  Data  | Versão | Descrição | Autor |
 | :----: | :----: | :-------: | :---: | 
-| 11.02.2022 | 0.1 | Criação do slide | Erick, Daniel |
-| 11.02.2022 | 0.2 | Gravação da apresentação | Todos os integrantes |
-| 12.02.2022 | 0.3 | Adição do slide | Ana Carolina |
-| 12.02.2022 | 0.4 | Adição do vídeo | Ana Carolina |
+| 11.02.2022 | 0.1 | Gravação da apresentação | Todos os integrantes |
+| 12.02.2022 | 0.2 | Adição do vídeo | Ana Carolina |
 
 
 ## 1. Vídeo
