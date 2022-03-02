@@ -25,11 +25,7 @@
 
 ## 3. Resultados
 
-<<<<<<< HEAD
-![Questão um](../Assets/questao_um.jpeg)
-=======
-<img src="https://user-images.githubusercontent.com/49570180/156013626-e29b41fa-786b-494c-a6be-af84d98beec9.jpeg">
->>>>>>> 1a38c507399ffdd231d0a38974286fccb8060768
+![Questão um](../../Assets/questao_um.jpeg)
 <figcaption align='center'>
     <b>Figura 1: Questão um.</b>
     <br><small>Fonte: google forms</small>
@@ -167,10 +163,6 @@
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 1a38c507399ffdd231d0a38974286fccb8060768
 ## 4. Conclusão
 
 <p style="text-align: justify;">Com base nos dados coletados por meio do formulário, pode-se traçar um perfil de usuário para o Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos voltado para as avaliações, concursos e vestibulares do Brasil.

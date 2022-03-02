@@ -6,6 +6,7 @@
 
 ### Histórico de Versão
 
+
 |    Data    | Versão |     Descrição      |    Autor     | Revisor |
 | :--------: | :----: | :----------------: | :--------------: | :-----: |
 | 03.02.2022 |  0.1   | Criação do Readme | Ana Carolina | Gustave |
