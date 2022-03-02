@@ -2,10 +2,17 @@
 
 ## Histórico de Versão
 
+<<<<<<< HEAD
 |    Data    | Versão |  Descrição            | Autor              | Revisor |
 | :--------: | :----: | :-------------------------------: | :----------------------------: | :-----: |
 | 25.02.2022 |  0.1   |   Criação do Documento CTT              |   Erick              | Ricardo |
 | 02.03.2022 |  0.2 | Correção de erros | Ana Carolina  | Daniel  |
+=======
+|    Data    | Versão |                                           Descrição                                            |             Autor              | Revisor |
+| :--------: | :----: | :--------------------------------------------------------------------------------------------: | :----------------------------: | :-----: |
+| 25.02.2022 |  0.1   |                                    Criação do Documento CTT                                    |             Erick              | Ricardo |
+| 25.02.2022 |  0.2   |                                    Revisando Documento                                         |             Ricardo            | - |
+>>>>>>> 1a38c507399ffdd231d0a38974286fccb8060768
 
 
 ## 1. Introdução
@@ -16,7 +23,7 @@ Para auxiliar na avaliação de IHC e no design, utilizamos o modelo de análise
 
 <ul>
 
-Tarefas do usuário: em que o sistema não está incluído;
+<li>Tarefas do usuário: em que o sistema não está incluído;
 <li>Tarefas do sistema: em que o usuário não interage com o sistema para a realização de um processamento;</li>
 
 <li>Tarefas interativas: em que ocorre interações entre o usuário e o sistema;</li>
@@ -33,10 +40,11 @@ Tarefas do usuário: em que o sistema não está incluído;
 
 ## 2. Nomenclatura de Relacionamento
 
+
+No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li>
+
 <ul>
-
-<li>No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li>
-
+  
 <li>Ativação (T1 >> T2): a segunda tarefa (T2) só pode iniciar após a primeira tarefa (T1) terminar;</li>
 
 <li>Ativação com passagem de informação (T1 []>> T2): além de T2 só poder ser iniciada após T1, a informação gerada em T1 é passada para T2;</li>
