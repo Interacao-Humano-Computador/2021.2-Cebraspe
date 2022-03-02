@@ -2,17 +2,10 @@
 
 ## Histórico de Versão
 
-<<<<<<< HEAD
-|    Data    | Versão |  Descrição            | Autor              | Revisor |
-| :--------: | :----: | :-------------------------------: | :----------------------------: | :-----: |
-| 25.02.2022 |  0.1   |   Criação do Documento CTT              |   Erick              | Ricardo |
-| 02.03.2022 |  0.2 | Correção de erros | Ana Carolina  | Daniel  |
-=======
 |    Data    | Versão |                                           Descrição                                            |             Autor              | Revisor |
 | :--------: | :----: | :--------------------------------------------------------------------------------------------: | :----------------------------: | :-----: |
 | 25.02.2022 |  0.1   |                                    Criação do Documento CTT                                    |             Erick              | Ricardo |
 | 25.02.2022 |  0.2   |                                    Revisando Documento                                         |             Ricardo            | - |
->>>>>>> 1a38c507399ffdd231d0a38974286fccb8060768
 
 
 ## 1. Introdução

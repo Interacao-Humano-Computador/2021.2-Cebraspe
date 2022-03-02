@@ -2,22 +2,12 @@
 
 ## Histórico de Versão
 
-<<<<<<< HEAD
-|    Data    | Versão |        Descrição         |     Autor      | Revisor |
-| :--------: | :----: | :----------------------: | :------------: | :-----: |
-| 25.02.2022 |  0.1   | Criação do Documento CTT |    Gustave     |  Erick  |
-| 25.02.2022 |  0.2   |   Ajustando Documento    | Erick e Daniel | Ricardo |
-| 25.02.2022 |  0.3   |   Ajustando Pages e legenda de imagens   | Erick, Daniel e Gustave | Ana Carolina |
-| 25.02.2022 |  0.4   |   Ajustando Tabela   | Erick e Daniel | Gustave |
-| 25.02.2022 |  0.5   |   Corrigindo erros   | Ana Carolina | Daniel |
-=======
 |    Data    | Versão |              Descrição               |          Autor          |   Revisor    |
 | :--------: | :----: | :----------------------------------: | :---------------------: | :----------: |
 | 25.02.2022 |  0.1   |         Criação do Documento         |         Gustave         |    Erick     |
 | 25.02.2022 |  0.2   |         Ajustando Documento          |     Erick e Daniel      |   Ricardo    |
 | 25.02.2022 |  0.3   | Ajustando Pages e legenda de imagens | Erick, Daniel e Gustave | Ana Carolina |
 | 25.02.2022 |  0.4   |           Ajustando Tabela           |     Erick e Daniel      |   Gustave    |
->>>>>>> 1a38c507399ffdd231d0a38974286fccb8060768
 
 ## 1. Introdução
 
