@@ -2,15 +2,16 @@
 
 ## Histórico de Versão
 
-| Versão |    Data    |      Descrição       |               Autor                |       Revisor        |
+| Data |    Versão    |      Descrição       |               Autor                |       Revisor        |
 | :----: | :--------: | :------------------: | :--------------------------------: | :------------------: |
-|  0.1   | 24/02/2022 | Criação do documento | Daniel e Ricardo | Gustave |
+|  24.02.2022   | 0.1 | Criação do documento | Daniel e Ricardo | Gustave |
+|  02.03.2022  |  0.2  | Correção de erros | Ana Carolina | Ricardo |
 
-### 1.Introdução
+## 1. Introdução
 
 <p style="text-align: justify;"> Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.</p>
 
-### 2.Personas
+## 2. Personas
 
 #### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
 
@@ -189,7 +190,7 @@
         </tr>
         <tr>
             <td class="titulo"><strong>Habilidades:</strong></td>
-            <td colspan="8" class="persona">Não tem prática nenhuma com tecnolôgia.</td>
+            <td colspan="8" class="persona">Não tem prática nenhuma com tecnologia.</td>
         </tr>
         <tr>
             <td><strong>Tarefas:</strong></td>

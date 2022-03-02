@@ -6,6 +6,8 @@
 |    Data    | Versão | Descrição | Autor | Revisor |
 | :--------: | :----: | :-------: | :---: | :-----: |
 | 26.02.2022 |  0.1   | Criação do documento sobre o perfil do usuário | Ana Carolina | Gustave |
+| 02.03.2022 |  0.2   | Correção de erros | Ana Carolina | Erick |
+
 
 ## 1. Introdução
 <p style="text-align: justify;">Esse documento visa explorar as características de usuários e não usuários do site da Cebraspe. O primeiro passo para ampliar o entendimento a respeito dos usuários é traçar um perfil deles. Assim, perguntas como: “quem são eles?”,”quais seus objetivos?”, “qual o grau de escolaridade deles?” e outras, nos ajudarão a entender quem estamos criando um design de produto, além de futuramente nos auxiliar no recrutamento de participantes para atividades de análise e avaliação. (Courage e Baxter. 2005; Hackos e Redish. 1998)
@@ -23,7 +25,7 @@
 
 ## 3. Resultados
 
-![Questão um](docs/Assets/questao_um.jpeg)
+![Questão um](../Assets/questao_um.jpeg)
 <figcaption align='center'>
     <b>Figura 1: Questão um.</b>
     <br><small>Fonte: google forms</small>
@@ -160,10 +162,6 @@
     <b>Figura 23: Questão vinte e três.</b>
     <br><small>Fonte: google forms</small>
 </figcaption>
-
-<img src="https://user-images.githubusercontent.com/83254747/153677356-289fb9ee-0644-4b22-8162-c30bd57fa55d.png">
-
-
 
 ## 4. Conclusão
 
