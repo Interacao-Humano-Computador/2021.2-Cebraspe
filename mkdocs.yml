@@ -3,6 +3,18 @@ site_name: Cebraspe
 repo_name: "2021.2-Cebraspe"
 repo_url: "https://github.com/Interacao-Humano-Computador/2021.2-Cebraspe"
 
+theme:
+  name: material
+  language: 'pt'
+  palette:
+    primary: '#fff'
+    accent: 'light blue'
+  font:
+    text: 'Montserrat'
+    code: 'sans-serif'
+  logo: 'assets/logo-cebraspe.png'
+  favicon: 'assets/logo-cebraspe.png'
+
 nav:
   - Início: index.md
   - Planejamento:
@@ -22,7 +34,3 @@ nav:
       - Apresentação 2: Apresentacoes/Apresentacao2.md
   - Atas:
       - 23-02-2022: Atas/23-02-2022.md
-
-theme:
-  name: material
-  language: "pt"
