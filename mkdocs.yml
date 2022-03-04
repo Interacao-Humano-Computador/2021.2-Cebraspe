@@ -12,8 +12,8 @@ theme:
   font:
     text: 'Montserrat'
     code: 'sans-serif'
-  logo: 'assets/logo-cebraspe.png'
-  favicon: 'assets/logo-cebraspe.png'
+  logo: 'assets/logo.png'
+  favicon: 'assets/logo.png'
 
 nav:
   - Início: index.md
