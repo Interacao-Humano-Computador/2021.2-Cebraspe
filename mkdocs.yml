@@ -25,7 +25,7 @@ nav:
       - Processo de Design: Planejamento/Processo/Processo.md
   - Análise de Requisitos:
       - Perfil de usuário: Análise_de_requisitos/Perfil_do_usuario/perfil_do_usuario.md
-      - Personas: Análise_de_requisitos/personas.md
+      - Personas: Análise_de_requisitos/Personas/personas.md
       - Análise de Tarefas:
           - CTT: Análise_de_requisitos/Análise_de_tarefas/CTT.md
           - HTA: Análise_de_requisitos/Análise_de_tarefas/HTA.md
