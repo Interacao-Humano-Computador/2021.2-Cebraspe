@@ -199,7 +199,7 @@
 - Os usuários são estudantes universitários, com superior incompleto.
 - Os usuários que são estudantes universitários em sua maioria teve 100% dos acessos em relação ao PAS.
 - Os usuários tem 50% de nível de experiência com tecnologias informacionais.
-- Os usuários tem frequência você utilização de 57,1%.
+- Os usuários tem frequência de utilização de 57,1%.
 - Os usuários conseguem acessar em 87,5% o site do Cebraspe através de desktop.
 - Os usuários consideram o nível de 57,1% de satisfação com a utilização através do desktop numa escala de 1 a 5, sendo a respectiva como escala 4.
 - A complexidade considerada a utilização da plataforma foi de 35,7% de nível 3.
@@ -213,6 +213,11 @@
 - Os usuários consideram o design do site intuitivo e motivador num percentual de 64,3%.
 - Os usuários classificam o design do site numa escala de 1 a 5, sendo 71,4% na escala 3.
 - Os usuários consideram o aspecto que não possui com relação a navegação no site a simplicidade, sendo 35,7%.
+
+### 4.1 Definindo o usuário
+
+<p style="text-align: justify;">Portanto, concluímos a partir dessa análise que os usuários do Cebraspe são homens jovens entre 18 a 24 anos e moradores do Distrito Federal que acessaram o site no último ano. Eles são estudantes universitários que realizaram uma avaliação do cebraspe, o pas, para entrar no ensino superior. Detém um certo nível de conhecimento em tecnologia informacional e utilizam anualmente o site por meio de desktop. Esses usuários consideram  que o site é medianamente satisfatório e que tem uma complexidade de utilização baixa, porém acham a experiência no site ruim mesmo tendo o fluxo de navegação bom. Eles se sentem perdidos na utilização mas possuem uma certa facilidade na usabilidade do site mesmo não tendo muito confiança. Mais da metade já fizeram algum tipo de avaliação pelo Cebraspe e consideram o design intuitivo e motivador não tão agradável, sentindo falta da simplicidade no site. 
+</p>
 
 ## Bibliografia
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
