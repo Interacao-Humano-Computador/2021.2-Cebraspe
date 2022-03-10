@@ -52,7 +52,7 @@
 </figcaption>
 </center>
 
-## 3. Resultados
+## 4. Resultados
 
 ![Questão um](../../Assets/questao_um.jpeg)
 <figcaption align='center'>
@@ -192,7 +192,7 @@
     <br><small>Fonte: google forms</small>
 </figcaption>
 
-## 4. Conclusão
+## 5. Conclusão
 
 <p style="text-align: justify;">Com base nos dados coletados por meio do formulário, pode-se traçar um perfil de usuário para o Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos voltado para as avaliações, concursos e vestibulares do Brasil.
 </p>
@@ -219,7 +219,7 @@
 - Os usuários classificam o design do site numa escala de 1 a 5, sendo 71,4% na escala 3.
 - Os usuários consideram o aspecto que não possui com relação a navegação no site a simplicidade, sendo 35,7%.
 
-### 4.1 Definindo o usuário
+### 5.1 Definindo o usuário
 
 <p style="text-align: justify;">Portanto, concluímos a partir dessa análise que os usuários do Cebraspe são homens jovens entre 18 a 24 anos e moradores do Distrito Federal que acessaram o site no último ano. Eles são estudantes universitários que realizaram uma avaliação do cebraspe, o pas, para entrar no ensino superior. Detém um certo nível de conhecimento em tecnologia informacional e utilizam anualmente o site por meio de desktop. Esses usuários consideram  que o site é medianamente satisfatório e que tem uma complexidade de utilização baixa, porém acham a experiência no site ruim mesmo tendo o fluxo de navegação bom. Eles se sentem perdidos na utilização mas possuem uma certa facilidade na usabilidade do site mesmo não tendo muito confiança. Mais da metade já fizeram algum tipo de avaliação pelo Cebraspe e consideram o design intuitivo e motivador não tão agradável, sentindo falta da simplicidade no site. 
 </p>
