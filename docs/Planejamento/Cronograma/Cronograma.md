@@ -9,6 +9,7 @@
 | 12.02.2022 | 0.3 | Revisão do documento | Erick, Gustave | Ana Carolina, Erick | 
 | 23.02.2022 | 0.4 | Arrumando bibliografia | Daniel | Erick |
 | 25.02.2022 | 0.5 | Inclusão do cronograma da segunda entrega | Ana Carolina | Erick |
+| 10.03.2022 | 0.6 | Inclusão do cronograma da terceira entrega | Ana Carolina | Erick |
 
 ## 1. Cronograma geral
 <p style="text-align: justify;">O cronograma foi definido baseado no plano de ensino, de acordo com os artefatos exigidos para cada ponto de controle. As datas das entregas foram redefinidas pela equipe para haver um prazo de alguns dias de antecedência às datas estabelecidas e possibilitar análise de eventuais erros e problemas. </p>
@@ -50,6 +51,19 @@
 | 25/02 | Cronograma da segunda entrega | Ana Carolina | Gustave |
 
 <center> <figcaption>Tabela 3: Segunda entrega.</figcaption> </center>
+
+## 4. Terceira entrega
+
+| Data da realização da tarefa | Planejamento do projeto              | Responsáveis        | Revisores      |
+| :--------------------------: | :----------------------------------: | :-----------------: | :------------: |
+| 10/03 - 12/03 | Ajustes do feedback do monitor | Todos | Todos |
+| 10/03 | Princípios Gerais | Ana Carolina | Gustave |
+| 11/03 | Metas de usabilidade | Gustave | - |
+| 11/03 | Guia de estilo | Erick, Daniel, Ricardo | -  |
+| 10/03 | Ata de reunião | Ana Carolina | Daniel |
+| 10/03 | Cronograma da terceira entrega | Ana Carolina | Erick |
+
+<center> <figcaption>Tabela 4: Terceira entrega.</figcaption> </center>
 
 Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
 
