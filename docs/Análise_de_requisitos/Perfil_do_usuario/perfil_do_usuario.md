@@ -7,6 +7,11 @@
 | :--------: | :----: | :-------: | :---: | :-----: |
 | 26.02.2022 |  0.1   | Criação do documento sobre o perfil do usuário | Ana Carolina | Gustave |
 | 02.03.2022 |  0.2   | Correção de erros | Ana Carolina | Erick |
+| 10.03.2022 |  0.3   | Padronizar a navbar de forma sequencial com o ciclo de Mayhew | Ana Carolina | Daniel |
+| 10.03.2022 |  0.4   | Falar sobre os participantes do questionário no documento Perfil de Usuário | Ana Carolina | Daniel |
+| 10.03.2022 |  0.5   | Correção de erros do grupo de usuários | Ana Carolina | Daniel |
+| 10.03.2022 |  0.6   | Adicionar um tópico fazendo correlações entre os resultados obtidos no documento Perfil de Usuário | Ana Carolina | Daniel |
+
 
 
 ## 1. Introdução
