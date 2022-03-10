@@ -31,7 +31,7 @@
 <p style="text-align: justify;">Foi observado e analisado antes de podermos concluir o questionário, que os usuários do Cebraspe podem ser alunos de ensino médio ou os que já concluíram, alunos de graduação ou os que já concluíram, servidores, professores, ex alunos ou alunos de pós graduação de acordo com a tabela da figura 1. Nela observamos que os eventos realizados pelo Cebraspe na universidade de brasília são para diversos usuários que estão dentro dos respectivos grupos já citados.  Esse tópico visa definir os tipos de usuários encontrados durante a pesquisa.
 </p>
 
-<p style="text-align: justify;">De acordo com o questionário feito de maneira generalista, observamos que 85,7% dos usuários que responderam o questionário são estudantes de nível superior, 7,1% estudantes de ensino médio e 7,1% usuários que já concluíram os ensino superior.  Portanto, o público alvo no qual fizeram parte da nossa pesquisa são estudantes do ensino superior.
+<p style="text-align: justify;">De acordo com o questionário feito de maneira generalista, observamos que 85,7% dos usuários que responderam o questionário são estudantes de nível superior, 7,1% estudantes de ensino médio e 7,1% usuários que já concluíram o ensino superior.  Portanto, o público alvo no qual fizeram parte da nossa pesquisa no questionário são estudantes do ensino superior.
 </p>
 
 <center>
