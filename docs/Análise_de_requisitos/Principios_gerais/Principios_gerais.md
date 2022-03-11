@@ -10,7 +10,7 @@
 
 ## 1. Introdução
 
-<p style="text-align: justify;">Dentro da literatura de IHC, princípios e diretrizes representam objetivos e regras gerais que são comumente aplicados na construção da interface de usuário, auxiliando o processo de design. Baseiam na necessidade de projetarmos o sistema utilizando um modelo conceitual que o usuário possa apreender rapidamente e sem dificuldade. Esse modelo deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo. Os princípios e as diretrizes comumente utilizados em IHC giram em torno dos seguintes tópicos (BARBOSA,S., 2010):
+<p style="text-align: justify;">Dentro da literatura de IHC, princípios e diretrizes representam objetivos e regras gerais que são comumente aplicados na construção da interface de usuário, auxiliando o processo de design. Baseiam na necessidade de projetarmos o sistema utilizando um modelo conceitual que o usuário possa aprender rapidamente e sem dificuldade. Esse modelo deve auxiliar a interpretar o relacionamento entre as ações e informações apresentadas pelo sistema e o conhecimento no mundo. Os princípios e as diretrizes comumente utilizados em IHC giram em torno dos seguintes tópicos (BARBOSA,S., 2010):
 </p>
 
 - <p style="text-align: justify;">Correspondência com as expectativas dos usuários: Devemos explorar os mapeamentos naturais, seja entre as variáveis mentais e as físicas, seja entre as tarefas e os controles utilizados para manipular essas variáveis no mundo real e no sistema projetado (BARBOSA,S., 2010).
@@ -22,10 +22,10 @@
 - <p style="text-align: justify;">Equilíbrio entre controle e liberdade do usuário: Quando deixamos o usuário “no comando”, ele aprende rapidamente e ganha um sentimento de maestria. Entretanto, existe a necessidade de buscar um equilíbrio, pois quando não há limites ou restrições os usuários podem se sentir perdidos ou angustiados com o excesso de opções. Devemos tentar reduzir o número de opções ou decisões que o usuário precisa tomar a cada instante.
 </p>
 
-- <p style="text-align: justify;">Consistência e padronização: Deve-se assegurar a consistência da interface com o modelo conceitual embutido no sistema. Isso requer que tudo sobre o produto (modelo de design e imagem do sistema, incluindo documentação e manuais de instrução) esteja consistente com e exemplifique a operação do modelo conceitual adequado.
+- <p style="text-align: justify;">Consistência e padronização: Deve-se assegurar a consistência da interface com o modelo conceitual embutido no sistema. Isso requer que tudo sobre o produto (modelo de design e imagem do sistema, incluindo documentação e manuais de instrução) esteja consistente e exemplifique a operação do modelo conceitual adequado.
 </p>
 
-- <p style="text-align: justify;">Promoção da eficiência do usuário: Considerar sempre a eficiência do usuário em primeiro lugar, e não a do computador. As pessoas são mais custosas do que máquinas, e uma economia de tempo e esforço do usuário costumam trazer mais benefícios do que economias semelhantes de processamento ou armazenamento.
+- <p style="text-align: justify;">Promoção da eficiência do usuário: Considerar sempre a eficiência do usuário em primeiro lugar e não a do computador. As pessoas são mais custosas do que máquinas, e uma economia de tempo e esforço do usuário costumam trazer mais benefícios do que economias semelhantes de processamento ou armazenamento.
 </p>
 
 - <p style="text-align: justify;">Antecipação das necessidades do usuário: As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários busquem ou coletem informações ou invoquem ferramentas. O designer deve fornecer ao usuário todas as informações e ferramentas necessárias para cada passo do processo.
@@ -42,15 +42,15 @@
 
 ## 2. Metodologia
 
-<p style="text-align: justify;">A equipe analisou que para o site do Cebraspe a fim de determinar quais princípios gerais possuiriam mais foco ao longo do desenvolvimento deste projeto. Foi realizada mesclando a visão dos membros da equipe com a ótica do perfil de personas que foram capturados pelo questionário. Desta maneira, foram selecionados os princípios aplicáveis com base no que seria mais relevante para as personas usuárias do site Cebraspe e que, na visão da equipe, poderiam ser melhor implementados ou que fazem mais sentido no contexto do sistema no tópico a seguir.
+<p style="text-align: justify;"> Foram selecionados os princípios aplicáveis com base no que seria mais relevante para as personas usuárias do site Cebraspe e que, na visão da equipe, poderiam ser melhor implementados ou que fazem mais sentido no contexto do sistema.
 </p>
 
-### 2.1 Características Web
+## 3. Características Web
 
-<p style="text-align: justify;">A aplicação adequada de boa parte dos princípios e diretrizes depende, em alguma medida, do conhecimento do designer acerca do domínio do problema, dos usuários e das suas atividades nesse domínio. Sendo assim, cabe ao designer considerar cuidadosamente se e quais diretrizes são adequadas à sua situação de design, e como elas devem se manifestar na solução de IHC. Dentre as características web, sendo elas as que devemos analisar para o nosso projeto, podemos destacar dentre várias as seguintes:
+<p style="text-align: justify;">A aplicação adequada de boa parte dos princípios e diretrizes depende, em alguma medida, do conhecimento do designer acerca do domínio do problema, dos usuários e das suas atividades nesse domínio. Sendo assim, cabe ao designer considerar cuidadosamente se e quais diretrizes são adequadas à sua situação de design, e como elas devem se manifestar na solução de IHC. Dentre as características web, sendo elas as que devemos analisar para o nosso projeto, podemos destacar as seguintes:
 </p>
 
-- <p style="text-align: justify;">Simplicidade nas estruturas das tarefas: Algumas tarefas poderiam ser realizadas de maneira mais simples. Por exemplo, ao clicar em concursos abertos na aba superior concursos, o usuário escolhe um concurso para se inscrever, clica em 'mais informações' e alguns concursos o usuário para se inscrever tem de ir a página de acompanhamento para chegar a página de inscrição. Outro aspecto é o de consultar se a inscrição foi realizada que deve ser feita na página de acompanhamento. E também em relação as listas de comunicado sobre determinado concurso. Neste caso, a aplicação do princípio poderia ser realizada através da abordagem tecnológica de melhoria da capacidade de controle do usuário sobre a tarefa.
+- <p style="text-align: justify;">Simplicidade nas estruturas das tarefas: Algumas tarefas poderiam ser realizadas de maneira mais simples. Por exemplo: ao clicar em concursos abertos na aba superior concursos, o usuário escolhe um concurso para se inscrever, clica em 'mais informações' e nesse próximo passo espera-se que já seja a inscrição porém em alguns concursos o usuário para se inscrever tem de ir a página de acompanhamento para chegar a página de inscrição. Outro aspecto é o de consultar se a inscrição foi realizada que deve ser feita na página de acompanhamento. E também em relação as listas de comunicado sobre determinado concurso. Neste caso, a aplicação do princípio poderia ser realizada através da abordagem tecnológica de melhoria da capacidade de controle do usuário sobre a tarefa.
 </p>
 
 - <p style="text-align: justify;">Consistência e padronização: Uma vez decido o design é possível manter uma consistência e padronização para aquele site e garantir ao usuário que ele consiga se situar e se sentir confortável ao utilizá-lo.
@@ -62,16 +62,16 @@
 - <p style="text-align: justify;">Portabilidade: Uma das grandes vantagens de se utilizar sistemas web é que a maioria deles permitem seu uso sem a necessidade de instalação de nenhum outro sistema adicional, dessa forma seguir os padrões descritos acima pode ser facilitador para que o usuário independente de sua plataforma tenha a sensação de segurança no sentido de conseguir executar todas as tarefas possíveis do sistema.
 </p>
 
-- <p style="text-align: justify;">Promoção da eficiência do usuário: Considera que a eficiência do usuário deve estar sempre à frente a do computador, pois as pessoas são mais custosas que máquinas. Visando estabelecer como um dos pilares de uso do sistema, como que se é realizado as tarefas para alcançar o esperado do produto. Se o usuário consegue conduzir, de forma rápida e prática, todas as etapas até o resultado final. Logo, uma economia de tempo e esforço do usuário então é recomendado que os processamentos não prendam a interação do usuário, pois isso pode causar perda de produtividade e cansaço no usuário. No site do Cebraspe, diversas formas de promoção à eficiência foram observadas, atendendo a esse princípio.
+- <p style="text-align: justify;">Promoção da eficiência do usuário: Considera que a eficiência do usuário deve estar sempre à frente a do computador, pois as pessoas são mais custosas que máquinas. Visando estabelecer como um dos pilares de uso do sistema, como que se é realizado as tarefas para alcançar o esperado do produto. Se o usuário consegue conduzir, de forma rápida e prática, todas as etapas até o resultado final. Logo, uma economia de tempo e esforço do usuário é recomendado que os processamentos não prendam a interação do usuário, pois isso pode causar perda de produtividade e cansaço no usuário. No site do Cebraspe, diversas formas de promoção à eficiência foram observadas, atendendo a esse princípio.
 </p>
 
 
-## 3. Conclusão
+## 4. Conclusão
 
 <p style="text-align: justify;">Todos os pesquisadores e profissionais de IHC ressaltam que o uso de princípios e diretrizes jamais substitui as demais atividades de análise, design (conceitual e concreto) e avaliação. Embora princípios e diretrizes possam ser utilizados como auxílio ao design, elas não substituem um processo cuidadoso que inclui a busca pelo entendimento do problema, a elaboração de soluções candidatas e a avaliação dessas soluções alternativas.
 </p>
 
-## 4. Bibliografia
+## 5. Bibliografia
 
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
 
