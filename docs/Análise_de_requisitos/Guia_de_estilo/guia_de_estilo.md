@@ -26,7 +26,7 @@
 
 ### 2.1 Descrição do ambiente de trabalho
 
-<p align=justify>Após o levantamento e análise do guia de estilo, or ser um site baseado em avaliações, ele contém informações de acompanhamento de certames ja iniciados ou se pretender se inscrever em algum que esteja aberto, logo abaixo temos várias informações a cerca do institucional do cebraspe, concursos, certificações e acesso a universidade, sendo a página de acompanhamento carece de informações, tela muito vaga e algumas melhorias para a plataforma mobile, assim infringindo diversas metas de usabilidade e características essenciais.</p>
+<p align=justify>Após o levantamento e análise do guia de estilo, por ser um site baseado em avaliações, ele contém informações de acompanhamento de certames ja iniciados ou se pretender se inscrever em algum que esteja aberto, logo abaixo temos várias informações a cerca do institucional do cebraspe, concursos, certificações e acesso a universidade, sendo a página de acompanhamento carece de informações, tela muito vaga e algumas melhorias para a plataforma mobile, assim infringindo diversas metas de usabilidade e características essenciais.</p>
 
 ## 3. Elementos de interface
 
