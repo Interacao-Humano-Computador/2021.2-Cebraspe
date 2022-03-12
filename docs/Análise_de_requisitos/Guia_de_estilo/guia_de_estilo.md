@@ -70,18 +70,18 @@
     </tr>
     <tr>
         <td><img src="https://user-images.githubusercontent.com/48844857/157966489-aa9afe0e-9f41-4b46-a292-7d297ea66292.png" width=20></td>
-        <td><img src="https://images-ext-1.discordapp.net/external/nsy3Pk8GHjXQArkJ4gpDCITgxlXCr3Ju8MiFEct_Oj8/https/cdn.cebraspe.org.br/wp-content/uploads/2022/02/icone_pg_acompanhamento-1.png" width=20></td>
+        <td><img style="filter: brightness(0) saturate(100%);" src="https://images-ext-1.discordapp.net/external/nsy3Pk8GHjXQArkJ4gpDCITgxlXCr3Ju8MiFEct_Oj8/https/cdn.cebraspe.org.br/wp-content/uploads/2022/02/icone_pg_acompanhamento-1.png" width=20></td>
         <td><img src="https://user-images.githubusercontent.com/48844857/157966841-63586076-ce66-4403-a93a-b8f2271d9fc2.png" width=20></td>
     </tr>
     <tr>
-        <td><img src="https://images-ext-1.discordapp.net/external/zjcc5NhCtapIzwq2zBaIwUvdk6uvY9_1trEoYttFMiI/https/cdn.cebraspe.org.br/wp-content/uploads/2022/02/highlight-concursos-1.png" width=20></td>
-        <td><img src="https://cdn.cebraspe.org.br/wp-content/uploads/2022/02/highlight-avaliacoes-1.png" width=20></td>
-        <td><img src="https://cdn.cebraspe.org.br/wp-content/uploads/2022/02/highlight-certificacoes-1.png" width=20></td>
+        <td><img style="filter: brightness(0) saturate(100%);" src="https://images-ext-1.discordapp.net/external/zjcc5NhCtapIzwq2zBaIwUvdk6uvY9_1trEoYttFMiI/https/cdn.cebraspe.org.br/wp-content/uploads/2022/02/highlight-concursos-1.png" width=20></td>
+        <td><img style="filter: brightness(0) saturate(100%);" src="https://cdn.cebraspe.org.br/wp-content/uploads/2022/02/highlight-avaliacoes-1.png" width=20></td>
+        <td><img style="filter: brightness(0) saturate(100%);" src="https://cdn.cebraspe.org.br/wp-content/uploads/2022/02/highlight-certificacoes-1.png" width=20></td>
     </tr>
     <tr>
-        <td><img src="https://cdn.cebraspe.org.br/wp-content/uploads/2018/12/icon-map-marker.png" width=20></td>
-        <td><img src="https://cdn.cebraspe.org.br/wp-content/uploads/2018/12/icon-phone.png" width=20></td>
-        <td><img src="https://cdn.cebraspe.org.br/wp-content/uploads/2018/12/icon-envelope.png" width=20></td>
+        <td><img style="filter: grayscale(1) invert(1);" src="https://cdn.cebraspe.org.br/wp-content/uploads/2018/12/icon-map-marker.png" width=20></td>
+        <td><img style="filter: grayscale(1) invert(1);" src="https://cdn.cebraspe.org.br/wp-content/uploads/2018/12/icon-phone.png" width=20></td>
+        <td><img style="filter: grayscale(1) invert(1);" src="https://cdn.cebraspe.org.br/wp-content/uploads/2018/12/icon-envelope.png" width=20></td>
     </tr>
 </table>
 
@@ -180,4 +180,5 @@ Existe uma sequência de diálogos apenas na opção de se cadastrar em um curso
 | ------ | ---------- | ----------------------------------| ------------------------- | ----------------------------| 
 | 0.1    | 10/03/2022 | Criação do documento              | Daniel, Erick e Ricardo   | Gustave                     |
 | 0.2    | 11/03/2022 | Atualização do documento          | Daniel, Erick e Ricardo   | Gustave                     |
+| 0.3    | 12/03/2022 | Arrumando cores                   | Daniel, Erick e Ricardo   | Gustave                     |
 
