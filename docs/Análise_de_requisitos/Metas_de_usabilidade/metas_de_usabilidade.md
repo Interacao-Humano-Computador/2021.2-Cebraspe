@@ -54,15 +54,13 @@ A segurança está relacionada à proteção dos dados dentro da plataforma e se
 ### 2.4 Utilidade
 
 <p style="text-align: justify;">
-Quando se trata de Utilidade, fala-se sobre os aspectos que tornam o sistema com ferramentas úteis ao usuário, ou seja, facilita a experiência através de componentes que se apresentam além do esperado. A utilidade é a característica que deve ser analisada às opções que compõe um menu, se elas são úteis a ponto de ajudar o usuário ou se estão lá de forma incoerente com o que se espera do programa. As perguntas que ajudam a rastrear esses aspectos são:
+Quando se trata de Utilidade, fala-se sobre os aspectos que tornam o sistema com ferramentas úteis ao usuário, ou seja, facilita a experiência através de componentes que se apresentam além do esperado. A utilidade é a característica que deve ser analisada às opções que compõe um menu, se elas são úteis a ponto de ajudar o usuário ou se estão lá de forma incoerente com o que se espera do programa. As perguntas que ajudam a rastrear esses aspectos são:</p>
 
 - Essa funcionalidade ajuda de que forma o usuário?
 - Essa funcionalidade está interconectada com as outras opções da área de aplicação?
 - Com qual objetivo o usuário vai querer acessar essa parte?
 - O menu possui opções desnecessárias e evitáveis?
 - Essa ação poderia ser omitida sem afetar desempenho ou funcionalidade do sistema?
-
-</p>
 
 ### 2.5 Capacidade de aprendizado
 
