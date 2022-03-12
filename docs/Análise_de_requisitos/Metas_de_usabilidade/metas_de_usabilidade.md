@@ -86,7 +86,7 @@ Outra propriedade que um sistema de Software pode possuir é sua capacidade de m
 - Existe fatores de interface que ajuda a mapear os passos?
 - O usuário costuma voltar muitas vezes para repetir alguma ação?
 
-## Resultados
+## 3. Resultados
 
 |   Metas de Usabilidade    |                                                                                                               Descrição                                                                                                               |
 | :-----------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
