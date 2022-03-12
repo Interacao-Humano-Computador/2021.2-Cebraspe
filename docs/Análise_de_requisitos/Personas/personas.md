@@ -6,6 +6,7 @@
 | :----: | :--------: | :------------------: | :--------------------------------: | :------------------: |
 |  24.02.2022   | 0.1 | Criação do documento | Daniel e Ricardo | Gustave |
 |  02.03.2022  |  0.2  | Correção de erros | Ana Carolina | Ricardo |
+|  12.03.2022  |  0.3  | Correção de erros | Daniel | - |
 
 ## 1. Introdução
 
@@ -27,7 +28,7 @@
                     <center>
                     <a href="https://ibb.co/jvnKbCD"><img src="https://i.ibb.co/TB9XYQt/nezuko.jpg" alt="nezuko"  alt="Image" height="180" width="180" border="0"></a>
                     </center>
-                    <figcaption>Figura 1: Foto da Nezuko
+                    <figcaption>Figura 1: retirada do site - <a href="https://thispersondoesnotexist.com/">thispersondoesnotexist.com</a>
                     </figcaption>
                 </figure>
             </td>
@@ -54,7 +55,7 @@
         </tr>
         <tr>
             <td class="titulo"><strong>Relacionamentos:</strong></td>
-            <td colspan="1" class="persona">Orfã.
+            <td colspan="1" class="persona">Solteira.
         </tr>
         <tr>
             <td class="titulo"><strong>Status:</strong></td>
@@ -91,14 +92,14 @@
                     <center>
                     <a href="https://ibb.co/z7z0DgN"><img src="https://i.ibb.co/dLRzxv7/zenitsu.jpg" alt="zenitsu" height="180" width="180" border="0"></a>
                     </center>
-                    <figcaption>Figura 1: Foto do Zenitsu
+                    <figcaption>Figura 2: retirada do site - <a href="https://thispersondoesnotexist.com/">thispersondoesnotexist.com</a>
                     </figcaption>
                 </figure>
             </td>
         </tr>
         <tr>
             <td class="titulo"><strong>Idade:</strong></td>
-            <td class="persona" colspan="1">30 anos.</td>
+            <td class="persona" colspan="1">25 anos.</td>
         </tr>
         <tr>
             <td class="titulo"><strong>Nacionalidade:</strong></td>
@@ -155,7 +156,7 @@
                     <center>
                     <a href="https://ibb.co/D90nfTv"><img src="https://i.ibb.co/7nsFtLZ/avatar-b0bb92986021683bbfd248044cdf0992.jpg" alt="Kanae" height="190" width="190" border="0"></a>
                     </center>
-                    <figcaption>Figura 1: Foto da Kanae
+                    <figcaption>Figura 3: retirada do site - <a href="https://thispersondoesnotexist.com/">thispersondoesnotexist.com</a>
                     </figcaption>
                 </figure>
             </td>
