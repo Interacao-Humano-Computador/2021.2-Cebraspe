@@ -4,7 +4,7 @@
 
 ### 1.1 Objetivo do guia de estilo
 
-<p align=justify>Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto</p>
+<p align=justify>Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto.</p>
 
 ### 1.2 Organização e conteúdo do guia de estilo
 
@@ -12,7 +12,7 @@
 
 ### 1.3 Público alvo do guia de estilo
 
-<p align=justify>O público alvo desta guia de estilo são os membros deste grupo e possíveis desenvolvedores que desejarem realizar correções nos elementos identificados</p>
+<p align=justify>O público alvo deste guia de estilo são os membros deste grupo e possíveis desenvolvedores que desejarem realizar correções nos elementos identificados.</p>
 
 ### 1.4 Como utilizar o guia
 
@@ -20,20 +20,22 @@
 
 ### 1.5 Como manter o guia
 
-<p align=justify>Como determina o cilco de Meyhew, o guia vai sendo atualizado ao final de cada etapa, tornando-se assim possível a sua evolução no decorrer do projeto</p>
+<p align=justify>Como determina o cilco de Meyhew, o guia vai sendo atualizado ao final de cada etapa, tornando-se assim possível a sua evolução no decorrer do projeto.</p>
 
 ## 2. Resultado da análise
 
 ### 2.1 Descrição do ambiente de trabalho
 
-<p align=justify>Após o levantamento e análise do guia de estilo, por ser um site baseado em avaliações, ele contém informações de acompanhamento de certames ja iniciados ou se pretender se inscrever em algum que esteja aberto, logo abaixo temos várias informações a cerca do institucional do cebraspe, concursos, certificações e acesso a universidade, sendo a página de acompanhamento carece de informações, tela muito vaga e algumas melhorias para a plataforma mobile, assim infringindo diversas metas de usabilidade e características essenciais.</p>
+<p align=justify>Após o levantamento e análise do guia de estilo, por ser um site baseado em avaliações, ele contém informações de acompanhamento de certames já iniciados ou se pretender se inscrever em algum que esteja aberto, logo abaixo temos várias informações acerca do institucional do cebraspe, concursos, certificações e acesso a universidade, sendo que a página de acompanhamento carece de informações, tela muito vaga e algumas melhorias para a plataforma mobile, assim infringindo diversas metas de usabilidade e características essenciais.</p>
 
 ## 3. Elementos de interface
 
 ### 3.1. Disposição espacial e grid
-<p align=justify>O site utiliza grids no html para a disposição do layout das páginas, porém existem modelos diferentes de grids, o que leva a padrões de páginas diferentes e, portanto, faz-se necessário a análise de todos esses modelos. Desse modo foram separados dois modelos de grids principais no site:</p>
+
+<p align=justify>O site utiliza grids no html para a disposição do layout das páginas, porém existem modelos diferentes de grids, o que leva a padrões de páginas diferentes e, portanto, faz-se necessário a análise de todos esses modelos. Desse modo, foram separados dois modelos de grids principais no site:</p>
 
 #### 3.1.1. Homepage
+
 <p align=justify>A homepage é bem simples, apresentando as principais opções e notícias em destaque primeiramente, e em seguida algumas outras opções e notícias que podem ser de interesse do usuário. Esta página é bem agradável e confortável e por isso mantivemos o mesmo layout do site.</p>
 
 <p align="center">
@@ -43,6 +45,7 @@
 </p>
 
 #### 3.1.2. Área de uma opção principal
+
 <p align=justify>Esta página também é bem simples, conservando alguns elementos do layout da homepage. Contém apenas as informações da opção selecionada previamente no lugar das notícias e sub-opções, o que a torna mais simples e agradável ao usuário.</p>
 
 <p align="center">
@@ -52,9 +55,11 @@
 </p>
 
 ### 3.2. Janelas
+
 <p align=justify>Os protótipos possuirão as mesmas janelas do site original, com exceção da janela da página de acompanhamento, por possuir muito espaço livre sem necessidade, o que pode causar uma frustração no usuário.</p>
 
 ### 3.3. Tipografia
+
 <p align=justify>A tipografia do site utiliza três fontes principais e são elas:
 <ul>
     <li><a href="https://fonts.adobe.com/fonts/proxima-nova">Proxima Nova</a></li>
@@ -64,6 +69,7 @@
 </p>
 
 ### 3.4. Símbolos não tipográficos
+
 <table>
     <tr>
         <td colspan=3>Ícones</td>
@@ -86,7 +92,9 @@
 </table>
 
 ### 3.5. Cores
+
 #### 3.5.1 Principais cores
+
 <p align=justify>As cores utilizadas em todo o site seguem o padrão de cores do símbolo do cebraspe e algumas variações delas, como mostra as figuras 3 e 4.</p>
 
 <p align="center">
@@ -102,6 +110,7 @@
 </p>
 
 ### 3.6. Animações
+
 <p align=justify>Para manter o site mais simples e objetivo para o usuário, não há necessidade de animações no site, portanto, nossos protótipos não terão animações.</p>
 
 ## 4. Elementos de interação
@@ -176,9 +185,9 @@ Existe uma sequência de diálogos apenas na opção de se cadastrar em um curso
 
 ## Versionamento
 
-| Versão | Data       | Modificação                       | Autor                     | Revisor                     |
-| ------ | ---------- | ----------------------------------| ------------------------- | ----------------------------| 
-| 0.1    | 10/03/2022 | Criação do documento              | Daniel, Erick e Ricardo   | Gustave                     |
-| 0.2    | 11/03/2022 | Atualização do documento          | Daniel, Erick e Ricardo   | Gustave                     |
-| 0.3    | 12/03/2022 | Arrumando cores                   | Daniel, Erick e Ricardo   | Gustave                     |
-
+| Versão | Data       | Modificação                  | Autor                   | Revisor |
+| ------ | ---------- | ---------------------------- | ----------------------- | ------- |
+| 0.1    | 10/03/2022 | Criação do documento         | Daniel, Erick e Ricardo | Gustave |
+| 0.2    | 11/03/2022 | Atualização do documento     | Daniel, Erick e Ricardo | Gustave |
+| 0.3    | 12/03/2022 | Arrumando cores              | Daniel, Erick e Ricardo | Gustave |
+| 0.4    | 14/03/2022 | Revisão da v0.1, v0.2 e v0.3 | Gustave                 | -       |
