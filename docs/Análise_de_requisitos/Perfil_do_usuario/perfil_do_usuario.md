@@ -1,20 +1,18 @@
 # Perfil de usuários
 
-
 ### Histórico de Versão
 
-|    Data    | Versão | Descrição | Autor | Revisor |
-| :--------: | :----: | :-------: | :---: | :-----: |
-| 26.02.2022 |  0.1   | Criação do documento sobre o perfil do usuário | Ana Carolina | Gustave |
-| 02.03.2022 |  0.2   | Correção de erros | Ana Carolina | Erick |
-| 10.03.2022 |  0.3   | Padronizar a navbar de forma sequencial com o ciclo de Mayhew | Ana Carolina | Daniel |
-| 10.03.2022 |  0.4   | Falar sobre os participantes do questionário no documento Perfil de Usuário | Ana Carolina | Daniel |
-| 10.03.2022 |  0.5   | Correção de erros do grupo de usuários | Ana Carolina | Daniel |
-| 10.03.2022 |  0.6   | Adicionar um tópico fazendo correlações entre os resultados obtidos no documento Perfil de Usuário | Ana Carolina | Daniel |
-
-
+|    Data    | Versão |                                             Descrição                                              |    Autor     | Revisor |
+| :--------: | :----: | :------------------------------------------------------------------------------------------------: | :----------: | :-----: |
+| 26.02.2022 |  0.1   |                           Criação do documento sobre o perfil do usuário                           | Ana Carolina | Gustave |
+| 02.03.2022 |  0.2   |                                         Correção de erros                                          | Ana Carolina |  Erick  |
+| 10.03.2022 |  0.3   |                   Padronizar a navbar de forma sequencial com o ciclo de Mayhew                    | Ana Carolina | Daniel  |
+| 10.03.2022 |  0.4   |            Falar sobre os participantes do questionário no documento Perfil de Usuário             | Ana Carolina | Daniel  |
+| 10.03.2022 |  0.5   |                               Correção de erros do grupo de usuários                               | Ana Carolina | Daniel  |
+| 10.03.2022 |  0.6   | Adicionar um tópico fazendo correlações entre os resultados obtidos no documento Perfil de Usuário | Ana Carolina | Daniel  |
 
 ## 1. Introdução
+
 <p style="text-align: justify;">Esse documento visa explorar as características de usuários e não usuários do site da Cebraspe. O primeiro passo para ampliar o entendimento a respeito dos usuários é traçar um perfil deles. Assim, perguntas como: “quem são eles?”,”quais seus objetivos?”, “qual o grau de escolaridade deles?” e outras, nos ajudarão a entender quem estamos criando um design de produto, além de futuramente nos auxiliar no recrutamento de participantes para atividades de análise e avaliação. (Courage e Baxter. 2005; Hackos e Redish. 1998)
 </p>
 
@@ -22,6 +20,7 @@
 </p>
 
 ## 2. Metodologia
+
 <p style="text-align: justify;">Ao iniciar um projeto, os designers começam os trabalhos com uma ideia inicial de quem são seus usuários. Porém, essa ideia pode não ser suficientemente detalhada, bem como pode se tratar apenas de uma impressão equivocada. Sendo assim, alguns dados devem ser levantados através de alguma técnica para o melhor detalhamento dos perfis de usuários.
 </p>
 
@@ -55,6 +54,7 @@
 ## 4. Resultados
 
 ![Questão um](../../Assets/questao_um.jpeg)
+
 <figcaption align='center'>
     <b>Figura 2: Questão um.</b>
     <br><small>Fonte: google forms</small>
@@ -224,5 +224,6 @@
 <p style="text-align: justify;">Portanto, concluímos a partir dessa análise que os usuários do Cebraspe são homens jovens entre 18 a 24 anos e moradores do Distrito Federal que acessaram o site no último ano. Eles são estudantes universitários que realizaram uma avaliação do cebraspe, o pas, para entrar no ensino superior. Detém um certo nível de conhecimento em tecnologia informacional e utilizam anualmente o site por meio de desktop. Esses usuários consideram  que o site é medianamente satisfatório e que tem uma complexidade de utilização baixa, porém acham a experiência no site ruim mesmo tendo o fluxo de navegação bom. Eles se sentem perdidos na utilização mas possuem uma certa facilidade na usabilidade do site mesmo não tendo muito confiança. Mais da metade já fizeram algum tipo de avaliação pelo Cebraspe e consideram o design intuitivo e motivador não tão agradável, sentindo falta da simplicidade no site. 
 </p>
 
-## Bibliografia
+## 6. Bibliografia
+
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".

@@ -1,6 +1,6 @@
 ## Guia de Estilo
 
-## Hiostórico de Versão
+## Histórico de Versão
 
 | Versão | Data       | Modificação                  | Autor                   | Revisor |
 | ------ | ---------- | ---------------------------- | ----------------------- | ------- |
@@ -191,5 +191,3 @@ Existe uma sequência de diálogos apenas na opção de se cadastrar em um curso
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
-
-

@@ -5,9 +5,9 @@
 |    Data    | Versão |                                           Descrição                                            |             Autor              | Revisor |
 | :--------: | :----: | :--------------------------------------------------------------------------------------------: | :----------------------------: | :-----: |
 | 10.02.2022 |  0.1   | Criação do documento de processo de design, Adição de figuras, legendas, fontes e bibliografia | Ana Carolina, Daniel e Ricardo | Gustave |
-| 12.02.2022 |  0.2   |                                      Revisão do documento                                      |         Erick, Gustave         | - |
-| 23.02.2022 |  0.3   |                                      Correções ortográficas                                     |         Erick         | Daniel |
-| 23.02.2022 |  0.4   |                                      Revisão do documento                                      |         Daniel         | - |
+| 12.02.2022 |  0.2   |                                      Revisão do documento                                      |         Erick, Gustave         |    -    |
+| 23.02.2022 |  0.3   |                                     Correções ortográficas                                     |             Erick              | Daniel  |
+| 23.02.2022 |  0.4   |                                      Revisão do documento                                      |             Daniel             |    -    |
 
 ## 1.Introdução
 
@@ -75,7 +75,7 @@ avaliação e construção de protótipos.
 | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                          Conhecer o usuário                           |                     Fase básica e essencial de análise das tarefas e objetivos, para identificação das características individuais dos usuários.                      |
 |                 Analisar os aplicativos concorrentes                  |                           Análise comparativa de diversos produtos disponíveis, para estudo de recursos interessantes e falhas para inovar.                           |
-|                   Especificar metas de usabilidade                    |                 Determinação dos pesos dos atributos de usabilidade, em função do projeto, dos objetivos da interface e das métricas da usabilidade.                 |
+|                   Especificar metas de usabilidade                    |                 Determinação dos pesos dos atributos de usabilidade, em função do projeto, dos objetivos da interface e das métricas da usabilidade.                  |
 |                      Realizar o Design paralelo                       |               Exploração das diversas alternativas de design, através do trabalho independente de vários designers, para geração de múltiplas soluções.               |
 |                     Fazer o Design participativo                      |                    Apresentação de diversas opções de design para uma amostra representativa de usuários, para seleção das alternativas adequadas.                    |
 |          Efetuar o Design coordenado para a interface total           |           Aplicação de argumentos de consistência para todo o conjunto da interface homem-computador incluindo, além das telas do produto, a documentação.            |
@@ -97,7 +97,6 @@ Tem objetivo de descrever a sequência de ações do usuário durante a execuç�
 
 - Ideias para a solução: <p align="justify">Devem ser avaliadas continuamente durante o processo de design. Realizado através de um protótipo que implementa ou demonstra partes da solução de IHC descritas em cenários. </p>
 
-
 <center>
 ![Sem título](https://user-images.githubusercontent.com/83254747/154365996-5a6853a7-f7bf-4990-a635-712d49fe2b18.png)
 <figcaption align='center'>
@@ -116,8 +115,7 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
  - Design, avaliação e desenvolvimento: <p align="justify"> tem por objetivo criar uma solução de IHC que cumpra com as metas de usabilidade estabelecidas na fase de análise de requisitos. Indicando a solução de IHC em três níveis: No primeiro nível, o designer precisa realizar a reengenharia do trabalho, repensando a execução das tarefas para alcançar os objetivos dos usuários, elaborar alternativas de solução do modelo conceitual, elaborar protótipos de baixa fidelidade e avaliar tais protótipos. No segundo nível, o designer deve estabelecer padrões de design de IHC para a solução sendo concebida, construir protótipos de média fidelidade de acordo com esses padrões e avaliá-los. Já no terceiro nível, o designer realiza o projeto detalhado da interface, com alta fidelidade, para ser implementado.
  </p>
 
- - Instalação:<p align="justify"> Coleta de opiniões dos usuários após um tempo de uso. Sendo úteis para melhorar o sistema em versões futuras. </p>
-
+- Instalação:<p align="justify"> Coleta de opiniões dos usuários após um tempo de uso. Sendo úteis para melhorar o sistema em versões futuras. </p>
 
 <center>
 ![Sem título](https://user-images.githubusercontent.com/83254747/154364924-92d2a07e-a956-419f-adfc-8246614a3f7f.png)
@@ -133,7 +131,7 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
 De acordo com os modelos estudados e analisados, o Ciclo de Mayhew foi avaliado como o mais adequado para a condução do projeto por seus artefatos serem mais simples e completos e acreditando que a ideia clara do ciclo seja mais interativa e conexa pode ser justificada pela escolha do grupo.
 </p>
 
-### Bibliografia
+### 5. Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. **Interação Humano - Computador**, Editora Elsevier, Rio de Janeiro, 2010.
 

@@ -2,12 +2,12 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |                   Descrição                    |            Autor            | Revisor |
-| :--------: | :----: | :--------------------------------------------: | :-------------------------: | :-----: |
-| 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto | Gustave Persijn, Erick Melo | Daniel  |
-| 12.02.2022 |  0.2   |              Revisão do documento              |    Ana Carolina, Daniel    |  -  |
-| 23.02.2022 |  0.3   |             Correções ortográficas             |    Erick Melo    |    Gustave Persijn |
-| 23.02.2022 |  0.4   |             Revisão do documento               |    Gustave Persijn    |    -     |
+|    Data    | Versão |                   Descrição                    |            Autor            |     Revisor     |
+| :--------: | :----: | :--------------------------------------------: | :-------------------------: | :-------------: |
+| 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto | Gustave Persijn, Erick Melo |     Daniel      |
+| 12.02.2022 |  0.2   |              Revisão do documento              |    Ana Carolina, Daniel     |        -        |
+| 23.02.2022 |  0.3   |             Correções ortográficas             |         Erick Melo          | Gustave Persijn |
+| 23.02.2022 |  0.4   |              Revisão do documento              |       Gustave Persijn       |        -        |
 
   </br>
  
@@ -79,6 +79,6 @@
 <p style="text-align: justify;"> Portanto, o site do Cebraspe foi o escolhido para o projeto da disciplina de Interação Humano-Computador devido a maior quantidade de votos recebido por votação durante a reunião - eleito por unanimidade.
 </p>
 
-### Bibliografia
+### 4. Bibliografia
 
 > BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**. Editora Elsevier, Rio de Janeiro, 2010.

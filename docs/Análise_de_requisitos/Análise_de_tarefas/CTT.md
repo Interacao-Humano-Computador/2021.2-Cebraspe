@@ -2,11 +2,10 @@
 
 ## Histórico de Versão
 
-|    Data    | Versão |                                           Descrição                                            |             Autor              | Revisor |
-| :--------: | :----: | :--------------------------------------------------------------------------------------------: | :----------------------------: | :-----: |
-| 25.02.2022 |  0.1   |                                    Criação do Documento CTT                                    |             Erick              | Ricardo |
-| 25.02.2022 |  0.2   |                                    Revisando Documento                                         |             Ricardo            | - |
-
+|    Data    | Versão |        Descrição         |  Autor  | Revisor |
+| :--------: | :----: | :----------------------: | :-----: | :-----: |
+| 25.02.2022 |  0.1   | Criação do Documento CTT |  Erick  | Ricardo |
+| 25.02.2022 |  0.2   |   Revisando Documento    | Ricardo |    -    |
 
 ## 1. Introdução
 
@@ -32,7 +31,6 @@ Para auxiliar na avaliação de IHC e no design, utilizamos o modelo de análise
 </p>
 
 ## 2. Nomenclatura de Relacionamento
-
 
 No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li>
 
@@ -60,11 +58,13 @@ No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li
 <p align = "justify">Para criar a árvore de tarefas para o nosso projeto, escolhemos um cenário em que o usuário deseja saber sua nota final após já ter realizado as três etapas do PAS. Foi gerada, então, a árvore apresentada na Figura 2.</p>
 
 ### 3.1. CTT Consultar média final no PAS
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48844857/155748522-db7f1d3b-3d68-4620-9c32-f35774929aca.jpg">
   <br><b>Figura 1: Árvore concorrente de consular média final</b>
   <br><small><i>Fonte: própria</i></small>
 </p>
 
-## Bibliografia
+## 4. Bibliografia
+
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021.

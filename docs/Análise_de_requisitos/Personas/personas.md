@@ -2,11 +2,11 @@
 
 ## Histórico de Versão
 
-| Data |    Versão    |      Descrição       |               Autor                |       Revisor        |
-| :----: | :--------: | :------------------: | :--------------------------------: | :------------------: |
-|  24.02.2022   | 0.1 | Criação do documento | Daniel e Ricardo | Gustave |
-|  02.03.2022  |  0.2  | Correção de erros | Ana Carolina | Ricardo |
-|  12.03.2022  |  0.3  | Correção de erros | Daniel | - |
+|    Data    | Versão |      Descrição       |      Autor       | Revisor |
+| :--------: | :----: | :------------------: | :--------------: | :-----: |
+| 24.02.2022 |  0.1   | Criação do documento | Daniel e Ricardo | Gustave |
+| 02.03.2022 |  0.2   |  Correção de erros   |   Ana Carolina   | Ricardo |
+| 12.03.2022 |  0.3   |  Correção de erros   |      Daniel      |    -    |
 
 ## 1. Introdução
 
@@ -15,7 +15,6 @@
 ## 2. Personas
 
 #### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
-
 
 <table>
     <thead>
@@ -80,7 +79,6 @@
 
 ### Persona Secundária: Zenitsu Agatsuma <a id="ZenitsuAgatsuma"></a>
 
-
 <table>
     <thead>
         <th colspan="10" style="text-align: center">Zenitsu Agatsuma</th>
@@ -144,7 +142,6 @@
 
 ### Antipersona: Kanae Kocho <a id="KanaeKocho"></a>
 
-
 <table> <a id="KanaeKocho"></a>
     <thead>
         <th colspan="10" style="text-align: center">Kanae Kocho</th>
@@ -202,6 +199,6 @@
 
 <center> <figcaption>Tabela 3: Antipersona.</figcaption> </center>
 
-## Bibliografia
+## 3. Bibliografia
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.

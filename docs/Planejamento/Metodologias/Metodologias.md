@@ -133,7 +133,7 @@ próximo passo. Por isso, Kanban é chamado de um sistema pull.
 </figcaption>
 </p>
 
-## 6.Extreme Programming (XP)
+## 6. Extreme Programming (XP)
 
 <p align="justify">Extreme Programming, mais conhecido como XP, é uma metodologia
 ágil de desenvolvimento de software que tem como objetivo produzir
@@ -165,12 +165,12 @@ curto intervalo de tempo entre as releases do sistema.
 </figcaption>
 </p>
 
-## Bibliografia
+## 7. Bibliografia
 
->Manifesto Ágil, Disponível em: [https://agilemanifesto.org/iso/ptbr/manifesto.html](https://agilemanifesto.org/iso/ptbr/manifesto.html)
+> Manifesto Ágil, Disponível em: [https://agilemanifesto.org/iso/ptbr/manifesto.html](https://agilemanifesto.org/iso/ptbr/manifesto.html)
 
->SCRUM, Metodologia Ágil. Disponível em: SCRUM, Metodologia Ágil. Disponível em: [https://pt.wikipedia.org/wiki/Scrum\_(desenvolvimento_de_software)](<https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)>)
+> SCRUM, Metodologia Ágil. Disponível em: SCRUM, Metodologia Ágil. Disponível em: [https://pt.wikipedia.org/wiki/Scrum\_(desenvolvimento_de_software)](<https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)>)
 
->KANBAN. Disponível em: [https://rockcontent.com/br/blog/kanban/](https://rockcontent.com/br/blog/kanban/)
+> KANBAN. Disponível em: [https://rockcontent.com/br/blog/kanban/](https://rockcontent.com/br/blog/kanban/)
 
->Extreme Programming. Disponível em: [https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)
+> Extreme Programming. Disponível em: [https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498](https://www.devmedia.com.br/extreme-programming-conceitos-e-praticas/1498)

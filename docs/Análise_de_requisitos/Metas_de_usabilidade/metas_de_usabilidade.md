@@ -95,7 +95,7 @@ Outra propriedade que um sistema de Software pode possuir é sua capacidade de m
 | Capacidade de aprendizado | A plataforma segue um padrão hierárquico de tarefas, podendo ter sua capacidade de aprendizado de nível moderado, isso porque no site há uma quantidade significativa de conteúdo, podendo demorar ao usuário identificar todas elas. |
 |   Capacidade de memória   |                                               A curto prazo, a capacidade de memória que a plataforma oferece é satisfatória devido ao padronização de interface e ao design intuitivo.                                               |
 
-## Bibliografia
+## 4. Bibliografia
 
 > BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
 >
