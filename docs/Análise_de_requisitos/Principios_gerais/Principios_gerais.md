@@ -5,6 +5,7 @@
 |    Data    | Versão |                 Descrição                 |    Autor     | Revisor |
 | :--------: | :----: | :---------------------------------------: | :----------: | :-----: |
 | 10.03.2022 |  0.1   | Criação do documento de Princípios Gerais | Ana Carolina | Gustave |
+| 14.03.2022 |  0.2   |              Revisão da v0.1              |   Gustave    |    -    |
 
 ## 1. Introdução
 
