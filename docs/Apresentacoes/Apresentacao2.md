@@ -3,7 +3,7 @@
 ### Histórico de Versão
 
 |  Data  | Versão | Descrição | Autor | Revisor |
-| :----: | :----: | :-------: | :---: | 
+| :----: | :----: | :-------: | :---: | :---: |
 | 25.02.2022 / 26.02.2022 | 0.1 | Gravação da apresentação | Todos os integrantes | - |
 | 28.02.2022 | 0.2 | Adição do vídeo | Ana Carolina | Daniel  |
 
