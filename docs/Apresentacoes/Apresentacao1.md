@@ -2,10 +2,10 @@
 
 ### Histórico de Versão
 
-|  Data  | Versão | Descrição | Autor |
+|  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | 
-| 11.02.2022 | 0.1 | Gravação da apresentação | Todos os integrantes |
-| 12.02.2022 | 0.2 | Adição do vídeo | Ana Carolina |
+| 11.02.2022 | 0.1 | Gravação da apresentação | Todos os integrantes |  - |
+| 12.02.2022 | 0.2 | Adição do vídeo | Ana Carolina | Daniel  |
 
 
 ## 1. Vídeo
