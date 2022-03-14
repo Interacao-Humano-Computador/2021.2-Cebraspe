@@ -6,6 +6,7 @@
 | :----: | :----: | :-------: | :---: | :---: |
 | 25.02.2022 / 26.02.2022 | 0.1 | Gravação da apresentação | Todos os integrantes | - |
 | 28.02.2022 | 0.2 | Adição do vídeo | Ana Carolina | Daniel  |
+| 14.02.2022 | 0.3 | Revisão | Daniel | -  |
 
 
 ## 1. Vídeo
