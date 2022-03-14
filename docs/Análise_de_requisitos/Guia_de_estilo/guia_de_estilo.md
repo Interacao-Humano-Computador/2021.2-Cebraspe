@@ -1,5 +1,14 @@
 ## Guia de Estilo
 
+## Hiostórico de Versão
+
+| Versão | Data       | Modificação                  | Autor                   | Revisor |
+| ------ | ---------- | ---------------------------- | ----------------------- | ------- |
+| 0.1    | 10/03/2022 | Criação do documento         | Daniel, Erick e Ricardo | Gustave |
+| 0.2    | 11/03/2022 | Atualização do documento     | Daniel, Erick e Ricardo | Gustave |
+| 0.3    | 12/03/2022 | Arrumando cores              | Daniel, Erick e Ricardo | Gustave |
+| 0.4    | 14/03/2022 | Revisão da v0.1, v0.2 e v0.3 | Gustave                 | -       |
+
 ### 1. Introdução
 
 ### 1.1 Objetivo do guia de estilo
@@ -179,15 +188,8 @@ Apesar de possuir uma liguagem de grande maioria bem simplificada, possui alguns
 Existe uma sequência de diálogos apenas na opção de se cadastrar em um curso, em que é necessário responder uma sequência de diálogos que vão sendo apresentados para conseguir se cadastrar.
 </p>
 
-## Referências bibliográficas
+## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
-## Versionamento
 
-| Versão | Data       | Modificação                  | Autor                   | Revisor |
-| ------ | ---------- | ---------------------------- | ----------------------- | ------- |
-| 0.1    | 10/03/2022 | Criação do documento         | Daniel, Erick e Ricardo | Gustave |
-| 0.2    | 11/03/2022 | Atualização do documento     | Daniel, Erick e Ricardo | Gustave |
-| 0.3    | 12/03/2022 | Arrumando cores              | Daniel, Erick e Ricardo | Gustave |
-| 0.4    | 14/03/2022 | Revisão da v0.1, v0.2 e v0.3 | Gustave                 | -       |
