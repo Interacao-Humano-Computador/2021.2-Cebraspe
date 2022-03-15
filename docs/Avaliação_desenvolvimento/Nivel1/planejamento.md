@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |      Autor       | Revisor |
 | :--------: | :----: | :------------------: | :--------------: | :-----: |
 | 15.03.2022 |  0.1   | Criação do documento | Daniel e Ricardo | Erick   |
+| 15.03.2022 |  0.2   | Revisão do documento | Erick            | -       |
 
 ## 1. Objetivos
 
@@ -29,9 +30,9 @@ A entrevista é definida por um questionário montado com o intuito de definir o
 | 2     | Qual a sua idade?                                  |                                               |
 | 3     | Qual a sua nacionalidade?                          |                                               |
 | 4     | Qual a sua escolaridade?                           | [ ] Ensino Médio <br>[ ] Graduação<br>[ ] Mestrado<br>[ ] Dutorado |
-| 5     | Qual o seu conhecimento de informatica? | [ ] Nenhum <br>[ ] Pouco<br>[ ] Mediano<br>[ ] Muito |
-| 6     | Já acesou o site do Cebraspe?                      | [ ] Sim<br>[ ] Não |
-| 7     | (Se já tiver acessado)Sua primeira experiência foi interessante? Como foi? | |
+| 5     | Qual o seu conhecimento de informática? | [ ] Nenhum <br>[ ] Pouco<br>[ ] Mediano<br>[ ] Muito |
+| 6     | Já acessou o site do Cebraspe?                      | [ ] Sim<br>[ ] Não |
+| 7     | (Se já tiver acessado) Sua primeira experiência foi interessante? Como foi? | |
 | 8     | Como faz para saber sobre os concursos ou vestibulares abertos? | [ ] Acessando o site do Cebraspe <br>[ ] Pesquisando por noticias <br>[ ] Utilizando redes sociais <br>[ ] Outros. Como? |
 | 9    | O que foi encontrado é relevante para você? | |
 | 10   | Sua experiência foi interessante? Como foi? | |
