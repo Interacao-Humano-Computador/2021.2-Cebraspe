@@ -59,8 +59,8 @@
 | :--------------------------: | :----------------------------: | :--------------------: | :-------: |
 |        10/03 - 12/03         | Ajustes do feedback do monitor |         Todos          |   Todos   |
 |            10/03             |       Princípios Gerais        |      Ana Carolina      |  Gustave  |
-|            11/03             |      Metas de usabilidade      |        Gustave         |     -     |
-|            11/03             |         Guia de estilo         | Erick, Daniel, Ricardo |     -     |
+|            11/03             |      Metas de usabilidade      |        Gustave         |  Daniel   |
+|            11/03             |         Guia de estilo         | Erick, Daniel, Ricardo |  Gustave  |
 |            10/03             |         Ata de reunião         |      Ana Carolina      |  Daniel   |
 |            10/03             | Cronograma da terceira entrega |      Ana Carolina      |   Erick   |
 
