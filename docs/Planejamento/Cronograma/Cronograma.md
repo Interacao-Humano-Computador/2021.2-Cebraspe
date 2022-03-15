@@ -2,14 +2,15 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |                                             Descrição                                             |             Autor              |          Revisor          |
-| :--------: | :----: | :-----------------------------------------------------------------------------------------------: | :----------------------------: | :-----------------------: |
+|    Data    | Versão |  Descrição       | Autor  | Revisor  |
+| :--------: | :----: | :--------------: | :----: | :------: |
 | 11.02.2022 |  0.1   | Criação do cronograma do projeto, Adição do cronograma específico, Adição de legendas nas imagens | Ana Carolina, Daniel e Ricardo |      Erick e Gustave      |
 | 12.02.2022 |  0.2   |                             Adição do cronograma da primeira entrega                              |          Ana Carolina          | Daniel, Gustave e Ricardo |
 | 12.02.2022 |  0.3   |                                       Revisão do documento                                        |         Erick, Gustave         |    Ana Carolina, Erick    |
 | 23.02.2022 |  0.4   |                                      Arrumando bibliografia                                       |             Daniel             |           Erick           |
 | 25.02.2022 |  0.5   |                             Inclusão do cronograma da segunda entrega                             |          Ana Carolina          |           Erick           |
 | 10.03.2022 |  0.6   |                            Inclusão do cronograma da terceira entrega                             |          Ana Carolina          |           Erick           |
+| 15.03.2022 |  0.7   |                            Inclusão do cronograma da quarta entrega                             |          Ana Carolina          |           Ricardo           |
 
 ## 1. Cronograma geral
 
@@ -66,10 +67,25 @@
 
 <center> <figcaption>Tabela 4: Terceira entrega.</figcaption> </center>
 
+## 5. Quarta entrega
+
+| Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
+| :--------------------------: | :----------------------------: | :--------------------: | :-------: |
+| 14/03 - 16/03 | Ajustes do feedback do monitor |         Todos          |   Todos   |
+| 10/03 | Planejamento do Relato dos resultados da avaliação do Storyboard |      Ana Carolina      |  -  |
+| 15/03 |  Planejamento de Avaliação de Storyboard      |        Gustave         |  -   |
+| 15/03 |  Storyboard |  Erick  |  -   |
+| 11/03 |  Planejamento de Avaliação de Análise de tarefas         | Daniel |  -  |
+| 11/03 |  Planejamento do Relato dos resultados da avaliação de Análise de tarefas | Ricardo |  -  |
+| 15/03 |         Ata de reunião         |      Ana Carolina      |  Erick   |
+| 15/03 | Cronograma da quarta entrega   |      Ana Carolina      |   Ricardo   |
+
+<center> <figcaption>Tabela 5: Quarta entrega.</figcaption> </center>
+
 Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
 
 ---
 
-## 5. Bibliografia
+## 6. Bibliografia
 
 > Prime Video. Disponível em: https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/planejamento/cronograma.md .Acesso em: 12/02/2022.
