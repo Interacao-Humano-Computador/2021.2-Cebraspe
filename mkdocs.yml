@@ -32,6 +32,11 @@ nav:
       - Princípios Gerais: Análise_de_requisitos/Principios_gerais/Principios_gerais.md
       - Guia de Estilo: Análise_de_requisitos/Guia_de_estilo/guia_de_estilo.md
       - Metas de Usabilidade: Análise_de_requisitos/Metas_de_usabilidade/metas_de_usabilidade.md
+  - Design, Avaliação e Desenvolvimento:
+      - Nível 1:
+          - Entrevista: Avaliação_desenvolvimento/Nivel1/entrevista.md
+          - Planejamento da Avaliação - Análise de Tarefas: Avaliação_desenvolvimento/Nivel1/planejamento.md
+          - Storyboard: Avaliação_desenvolvimento/Nivel1/Storyboard.md
   - Apresentações:
       - Apresentação 1: Apresentacoes/Apresentacao1.md
       - Apresentação 2: Apresentacoes/Apresentacao2.md
