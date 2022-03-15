@@ -7,7 +7,7 @@
 | 15.03.2022 |  0.1   | Criação do documento | Daniel e Ricardo | Erick   |
 | 15.03.2022 |  0.2   | Revisão do documento | Erick            | -       |
 
-## 1. Objetivos
+## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
 O objetivo desse documento criado é de definir o fluxo de ações do usuário por meio de uma análise de tarefas para definir o que o usuário realmente faz durante o uso do site.
@@ -23,7 +23,7 @@ A metodologia utilizada será com entrevistas realizadas com 2 personas já defi
 A entrevista é definida por um questionário montado com o intuito de definir o fluxo de ações, e as respostas serão utilizadas como forma importante de criar uma análise de tarefas nova.
 </p>
 
-### 4. Questionário
+### 3.1. Questionário
 | Número| <center> Pergunta                                  | <center> Opções de resposta                   |
 |:-----:|:---------------------------------------------------|:----------------------------------------------|
 | 1     | Qual o seu nome?                                   |                                               |
