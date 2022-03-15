@@ -12,7 +12,7 @@
 A funcionalidade de documento é de registrar as entrevistas que foram feitas a partir das personas já identificadas.
 </p>
 
-## 2. Objetivos 
+## 2. Entrevistas 
 ### Persona 1 - Nezuko Kamado
 | Número| <center> Pergunta                                  | <center> Opções de resposta                   |
 |:-----:|:---------------------------------------------------|:----------------------------------------------|
