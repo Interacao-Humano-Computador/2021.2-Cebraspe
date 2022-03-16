@@ -16,12 +16,12 @@ Storyboard é um exemplo de protótipo de baixa-fidelidade, constitui-se em uma 
 ## 2. Metodologia
 
 <p align ="justify">
-Após a análise do documento de <a href = "https://interacao-humano-computador.github.io/2021.2-Cebraspe/Análise_de_requisitos/Análise_de_tarefas/HTA/">Análise Tierarquica de Tarefas (HTA)</a>, foram avaliados os possíveis cenários envolvidos em cada tarefa, bem como seus atores. A partir disso, foi utilizada a ferrmenta online <a href = "https://www.storyboardthat.com/pt">StoryboardThat</a> para a criação dos storuboars descritos a seguir.</p>
+Após a análise do documento de <a href = "https://interacao-humano-computador.github.io/2021.2-Cebraspe/Análise_de_requisitos/Análise_de_tarefas/HTA/">Análise Hierarquica de Tarefas (HTA)</a>, foram avaliados os possíveis cenários envolvidos em cada tarefa, bem como seus atores. A partir disso, foi utilizada a ferramenta online <a href = "https://www.storyboardthat.com/pt">StoryboardThat</a> para a criação dos storyboars descritos a seguir.</p>
   
 ## 3. Storyboards
 
 <p align="justify">
-A intenção dos storyboards abaixo é demostrar de forma mais intuitiva e detalhada, como cada tarefa pode ser acessada no site do cebraspe.
+A intenção dos storyboards abaixo é demonstrar de forma mais intuitiva e detalhada, como cada tarefa pode ser acessada no site do cebraspe.
 </p>
 
 ### 3.1. Consultar o gabarito do PAS
