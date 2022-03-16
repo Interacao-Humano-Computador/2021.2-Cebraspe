@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |      Autor       | Revisor |
 | :--------: | :----: | :------------------: | :--------------: | :-----: |
 | 15.03.2022 |  0.1   | Criação do documento | Erick            | Ricardo |
+| 16.03.2022 |  0.2   | Revisão | Ricardo da v0.1         | - |
 
 ## 1. Introdução
 
@@ -14,7 +15,8 @@ Storyboard é um exemplo de protótipo de baixa-fidelidade, constitui-se em uma 
 
 ## 2. Metodologia
 
-Após a análise do documento de [Análise Hierarquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2021.2-Cebraspe/An%C3%A1lise_de_requisitos/An%C3%A1lise_de_tarefas/HTA/), foram avaliados os possíveis cenários envolvidos em cada tarefa, bem como seus atores. A partir disso, foi utilizada a ferrmenta online [StoryboardThat](https://www.storyboardthat.com/pt) para a criação dos storuboars descritos a seguir.
+<p align ="justify">
+Após a análise do documento de <a href = "https://interacao-humano-computador.github.io/2021.2-Cebraspe/Análise_de_requisitos/Análise_de_tarefas/HTA/">Análise Tierarquica de Tarefas (HTA)</a>, foram avaliados os possíveis cenários envolvidos em cada tarefa, bem como seus atores. A partir disso, foi utilizada a ferrmenta online <a href = "https://www.storyboardthat.com/pt">StoryboardThat</a> para a criação dos storuboars descritos a seguir.</p>
   
 ## 3. Storyboards
 
