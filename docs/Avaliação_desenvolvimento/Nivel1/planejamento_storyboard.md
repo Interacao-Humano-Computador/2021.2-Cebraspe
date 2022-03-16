@@ -2,14 +2,15 @@
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |  Autor  |   Revisor    |
-| :--------: | :----: | :------------------: | :-----: | :----------: |
-| 16.03.2022 |  0.1   | Criação do documento | Gustave | Ana Carolina |
-| 16.03.2022 |  0.2   | Adição das perguntas da entrevista | Ana Carolina | - |
-| 16.03.2022 |  0.3   | Ajuste do alinhamento | Ana Carolina | - |
-| 16.03.2022 |  0.4   | Ajuste do termo de consentimento | Ana Carolina | - |
-| 16.03.2022 |  0.5   | Correção de erro de português e do tópico de relatório das atividades | Ana Carolina | - |
-| 16.03.2022 |  0.6   | Ajuste da bibliografia | Ana Carolina | - |
+|    Data    | Versão |                               Descrição                               |    Autor     |   Revisor    |
+| :--------: | :----: | :-------------------------------------------------------------------: | :----------: | :----------: |
+| 16.03.2022 |  0.1   |                         Criação do documento                          |   Gustave    | Ana Carolina |
+| 16.03.2022 |  0.2   |                  Adição das perguntas da entrevista                   | Ana Carolina |      -       |
+| 16.03.2022 |  0.3   |                         Ajuste do alinhamento                         | Ana Carolina |      -       |
+| 16.03.2022 |  0.4   |                   Ajuste do termo de consentimento                    | Ana Carolina |      -       |
+| 16.03.2022 |  0.5   | Correção de erro de português e do tópico de relatório das atividades | Ana Carolina |      -       |
+| 16.03.2022 |  0.6   |                        Ajuste da bibliografia                         | Ana Carolina |      -       |
+| 16.03.2022 |  0.7   |                   Correção de numeração dos tópicos                   |   Gustave    |      -       |
 
 ## 1. Introdução
 
@@ -59,25 +60,25 @@
 <p style="text-align: justify;">O modelo de entrevista aderido será o semiestruturado, esse tipo de entrevista possui questionamentos mais abertos para que o voluntário possa ter mais liberdade para abordar o tópico citado. O entrevistador, dessa forma, possui mais liberdade para explorar as respostas fornecidas pelo entrevistado, como, também, mudar a ordem dos tópicos apresentados, mas sempre mantendo o foco nos objetivos da entrevista. A seguir, uma tabela com as perguntas que estarão presentes na entrevista para ajudar a desenvolver a visão avaliativa do usuário a respeito do Storyboard:
 </p>
 
-| Número | Pergunta |       Expectativas de resposta        |
-| :----: | :------: | :-----------------------------------: |
-|   1    |  Com relação ao primeiro storyboard, a situação ilustrada condiz com a realidade quanto a consultar o gabarito do pas?     | [ ] Sim<br>[ ] Não<br>+ Justificativa |
-|   2    |    Você tem alguma sugestão de alteração ou melhoria para o storyboard sugere?     |          Resposta discursiva          |
-|   3    |    Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto a inscrever-se em um concurso?     | [ ] Sim<br>[ ] Não<br>+ Justificativa |
-|   4    |    Você tem alguma sugestão de alteração ou melhoria para o storyboard sugere?     |          Resposta discursiva          |
-|   5    |    Com relação ao terceiro storyboard, a situação ilustrada condiz com a realidade sobre ingressar na unb?     | [ ] Sim<br>[ ] Não<br>+ Justificativa |
-|   6    |    Você tem alguma sugestão de alteração ou melhoria para o storyboard sugere?    |          Resposta discursiva          |
+| Número |                                                       Pergunta                                                        |       Expectativas de resposta        |
+| :----: | :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------: |
+|   1    | Com relação ao primeiro storyboard, a situação ilustrada condiz com a realidade quanto a consultar o gabarito do pas? | [ ] Sim<br>[ ] Não<br>+ Justificativa |
+|   2    |                      Você tem alguma sugestão de alteração ou melhoria para o storyboard sugere?                      |          Resposta discursiva          |
+|   3    |      Com relação ao segundo storyboard, a situação ilustrada retrata bem o quanto a inscrever-se em um concurso?      | [ ] Sim<br>[ ] Não<br>+ Justificativa |
+|   4    |                      Você tem alguma sugestão de alteração ou melhoria para o storyboard sugere?                      |          Resposta discursiva          |
+|   5    |        Com relação ao terceiro storyboard, a situação ilustrada condiz com a realidade sobre ingressar na unb?        | [ ] Sim<br>[ ] Não<br>+ Justificativa |
+|   6    |                      Você tem alguma sugestão de alteração ou melhoria para o storyboard sugere?                      |          Resposta discursiva          |
 
 ## 5. Relatório das Avaliações
 
 <p style="text-align: justify;">O entrevistador deve fazer anotações rápidas que considerar importante durante a entrevista, sem que atrapalhe a condução e o andamento da mesma, para que, dessa forma, não esqueça nada, ou, se preferir, utilizar de uma ferramenta de gravação, caso a entrevista se dê por meio de uma reunião online. Após o fim da entrevista, a documentação contendo o relatório com os problemas identificados deve ser apresentado, mostrando as sugestões de melhoria, além das observações filtradas pelo avaliador passadas pelo entrevistado. Por fim, deverá ser feito uma priorização dos erros encontrados, caso haja, onde será listado e dividido.
 </p>
 
-## 4. Conclusão
+## 6. Conclusão
 
 <p style="text-align: justify;">Entende-se, então, que esse documento será de apoio ao entrevistador da equipe, e será concluído ao final das entrevistas com os voluntários e com a criação do relatório. Espera-se, também, o esclarecimento dessa atividade através da explicitação de todas as fases e procedimentos que foram indicados acima.
 </p>
 
-## 5. Bibliografia
+## 7. Bibliografia
 
 > BARBOSA, S.D.J.; SILVA, B.S. **Interação Humano--Computador**.Editora Campus- Elsevier, 2010.
