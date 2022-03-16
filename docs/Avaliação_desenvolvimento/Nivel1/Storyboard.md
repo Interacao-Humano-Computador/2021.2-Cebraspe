@@ -5,7 +5,7 @@
 |    Data    | Versão |      Descrição       |      Autor       | Revisor |
 | :--------: | :----: | :------------------: | :--------------: | :-----: |
 | 15.03.2022 |  0.1   | Criação do documento | Erick            | Ricardo |
-| 16.03.2022 |  0.2   | Revisão | Ricardo da v0.1         | - |
+| 16.03.2022 |  0.2   | Revisão da v0.1 | Ricardo         | - |
 
 ## 1. Introdução
 
