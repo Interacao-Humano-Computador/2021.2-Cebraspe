@@ -34,8 +34,11 @@ nav:
       - Metas de Usabilidade: Análise_de_requisitos/Metas_de_usabilidade/metas_de_usabilidade.md
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
+        - Analise de Tarefas:
           - Entrevista: Avaliação_desenvolvimento/Nivel1/entrevista.md
           - Planejamento da Avaliação - Análise de Tarefas: Avaliação_desenvolvimento/Nivel1/planejamento.md
+          - Avaliacao de Tarefas: Avaliação_desenvolvimento/Nivel1/avaliacao.md
+        - Storyboard: 
           - Storyboard: Avaliação_desenvolvimento/Nivel1/Storyboard.md
           - Planejamento da Avaliação - Storyboard: Avaliação_desenvolvimento/Nivel1/planejamento_storyboard.md
   - Apresentações:
