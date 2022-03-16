@@ -31,7 +31,10 @@
 
 ### 3.1 Entrevista 1
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BnTW7DeX2Wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 <p style="text-align: justify;">A primeira entrevista foi realizada pelo integrante Ana Carolina, dia 16 de março às 11:20, com o participante Welligton Jonathan, estudante de Engenharia de Software na Faculdade Gama - FGA. O participante alegou ter consentimento sobre a entrevista e que concordava com o termo.
 </p>
@@ -47,7 +50,9 @@
 
 ### 3.2 Entrevista 2
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q_wVkIg0SM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 
 <p style="text-align: justify;">A primeira entrevista foi realizada pela integrante Ana Carolina, dia 16 de março às 12:52, com o participante Thaísa Martins, estudante de Enfermagem da Faculdade de Ciências da Saúde - UnB. O participante alegou ter consentimento sobre a entrevista e que concordava com o termo.
@@ -56,7 +61,7 @@
 <p style="text-align: justify;">Quando perguntado sobre o primeiro storyboard, que retrata a consulta dos gabaritos do PAS (Programa de Avaliação Seriada), Thaísa diz que condiz sim com a realidade de quem vai verificar os gabaritos do PAS, e que passa as informações de maneira bem objetiva com o detalhe. Sobre a sugestão de melhoria, a participante diz que apesar de estar bem curtinho o storyboard passa bem a informação, falando tudo que precisa ser dito. Com cores bem harmonicas que chama atenção e não tem informação em excesso estando bom.
 </p>
 
-<p style="text-align: justify;">Sobre o segundo storyboard, que retrata como se inscreve em concursos, o participante alegou que a situação ilustrada retrata sim a realidade, embora ela nunca tenha feito uma inscrição em nenhum concurso, o site do cebraspe é bem explicativo sendo geralmente bem fácil de se inscrever. Sobre a sugestão ela diz que as cores não chamam muita atenção porém as informações estão claras, mudando apenas pelas cores deixando mais chamativo.
+<p style="text-align: justify;">Sobre o segundo storyboard, que retrata como se inscreve em concursos, o participante alegou que a situação ilustrada retrata sim a realidade, embora ela nunca tenha feito uma inscrição em nenhum concurso, o site do cebraspe é bem explicativo sendo geralmente bem fácil de se inscrever. Sobre a sugestão ela diz que as cores não chamam muita atenção porém as informações estão claras, mudando apenas pelas cores deixando mais chamativa.
 </p>
 
 <p style="text-align: justify;">Quando perguntado sobre o terceiro storyboard, representando o contexto de como ingressar na UnB, Thaísa diz que a situação realmente condiz com a realidade e que tem uma parte no site que ajuda a localizar como a opção de como ingressar na universidade e a sugestão de melhoria seria de acrescentar mais informações deixando o storyboard mais explícito mas que dessa forma não está ruim.
@@ -64,7 +69,11 @@
 
 ### 3.3 Entrevista 3
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ISt57ErMzD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 <p style="text-align: justify;">A terceira entrevista foi realizada pela integrante Ana Carolina, dia 16 de março às 13:10, com o participante Maicon, estudante de Engenharia de Software na Faculdade Gama - FGA. O participante alegou ter consentimento sobre a entrevista e que concordava com o termo.
 </p>
@@ -80,7 +89,11 @@
 
 ### 3.4 Entrevista 4
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YtxKSGjYeLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 <p style="text-align: justify;">A quarta entrevista foi realizada pela integrante Ana Carolina, dia 16 de março às 13:50, com o participante Vinicius Couto, estudante de Engenharia Aeroespacial na Faculdade Gama - FGA. O participante alegou ter consentimento sobre a entrevista e que concordava com o termo.
 </p>
@@ -96,7 +109,11 @@
 
 ### 3.5 Entrevista 5
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XmyFcIAXLOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 <p style="text-align: justify;">A quinta entrevista foi realizada pela integrante Ana Carolina, dia 16 de março às 16:44, com o participante Davi Matias, estudante de Engenharia de Software na Faculdade Gama - FGA. O participante alegou ter consentimento sobre a entrevista e que concordava com o termo.
 </p>
