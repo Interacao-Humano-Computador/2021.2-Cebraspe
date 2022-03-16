@@ -64,7 +64,7 @@
 | 0. Abrir o site do cebraspe | |
 | 1. Entrar em concursos |   |
 | 2. Em andamento |  |
-| 3. Escolher o curso pretendido | **Problemas**: Estar informando o período de incrição mesmo ja tendo passado o prazo <br> **Recomendação**: Passando o prazo retirar a informação da página do concurso|
+| 3. Escolher o concurso pretendido | **Problemas**: Estar informando o período de incrição mesmo ja tendo passado o prazo <br> **Recomendação**: Passando o prazo retirar a informação da página do concurso|
 | 3.1 Entrar em mais informações | **Problemas**: As informações de cargo ocupam muito espaço da tela, omitindo as informações dos processos do edital. <br> **Recomendações**: Colocar os cargos tudo em uma única linha |
 | 4. Procurar nos comunicados e informações | |
 
@@ -94,7 +94,7 @@
 
 ## 5. Conclusão e Interpretação
 
-<p align="justify">Feito a coleta de dados identificamos que o site do cebraspe é bem responsivo e de fácil entendimento, precisando de alguns ajustes na página de informações de concrusos/vestibulares, pois as vezes fica poluído com muitas informações e no acesso ao login</p>
+<p align="justify">Feito a coleta de dados identificamos que o site do cebraspe é bem responsivo e de fácil entendimento, precisando de alguns ajustes na página de informações de concursos/vestibulares, pois as vezes fica poluído com muitas informações e no acesso ao login</p>
 
 ## 6. Relato dos Resultados
 
