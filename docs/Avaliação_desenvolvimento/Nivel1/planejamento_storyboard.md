@@ -18,7 +18,10 @@
 
 ## 2. Metodologia
 
-<p style="text-align: justify;">A metodologia que foi escolhida e posteriormente utilizada na produção das atividades avaliativas do Storyboard foi o de Investigação pela Técnica de Entrevista. Esse método escolhido permite com que o avaliador consiga investigar as principais convicções do usuário durante seu uso no site do Cebraspe. Além disso, verifica as percepções das pessoas que utilizam o site e a forma com as quais interagem com a plataforma, indicando problemas e erros encontrados ou não previstos. Esse método busca compreender, através de uma entrevista composta por questionários, qual é o ponto de vista de quem está mexendo na aplicação e suas principais expectativas de uso para, assim, fazer as correções necessárias nos Storyboards, que é considerado de baixo custo. A expectativa é de realizar uma entrevista com no mínimo 5 estudantes que já utilizaram o site do Cebraspe - que é uma plataforma utilizada para consultar resultados de provas de classificação e aprovação em concursos ou universidades.
+<p style="text-align: justify;">A metodologia que foi escolhida e posteriormente utilizada na produção das atividades avaliativas do Storyboard foi o de Investigação pela Técnica de Entrevista. Esse método escolhido permite com que o avaliador consiga investigar as principais convicções do usuário durante seu uso no site do Cebraspe. Além disso, verifica as percepções das pessoas que utilizam o site e a forma com as quais interagem com a plataforma, indicando problemas e erros encontrados ou não previstos. 
+</p>
+
+<p style="text-align: justify;">Esse método busca compreender, através de uma entrevista composta por questionários, qual é o ponto de vista de quem está mexendo na aplicação e suas principais expectativas de uso para, assim, fazer as correções necessárias nos Storyboards, que é considerado de baixo custo. A expectativa é de realizar uma entrevista com no mínimo 5 estudantes que já utilizaram o site do Cebraspe - que é uma plataforma utilizada para consultar resultados de provas de classificação e aprovação em concursos ou universidades.
 </p>
 
 <p style="text-align: justify;"> Para fins éticos-profissionais, foi criado um termo de consentimento que será apresentado ao voluntário da entrevista alegando ciência quanto ao uso de suas respostas.
