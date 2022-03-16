@@ -41,3 +41,5 @@
 ## 5. Bibliografia
 
 >BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+
+>BCE. Disponível em:https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_4/plan_aval_storyboard. Acesso em: 16/03/2022.
