@@ -21,7 +21,7 @@ Este documento tem como objetivo verificar e detectar os erros no documento de N
 |7|Uso de versionamento e revisor|OK|
 |8|Descrição da metodologia|OK|
 |9|Introdução clara e objetiva|OK|
-|10|Possui rastreabilidade|OK|
+|10|Possui rastreabilidade|OK| 
 
 ### 2.2. Legenda
 |Símbolo|Descrição|
