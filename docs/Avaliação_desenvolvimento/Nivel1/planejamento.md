@@ -30,7 +30,7 @@ Para aplicar a avaliação, serão seguidas as etapas a seguir:
 |Atividade|Tarefas|
 |--|--|
 |Preparação|- Definir as tarefas que serão avaliadas;<br>- Definir o perfil do usuário e identificar a persona que será utilizada na avaliação;<br>- Descrever as ações que serão necessárias para realizar a tarefa;<br>- Realizar um teste piloto.|
-|Coleta de dados|- Percorrer a interface de acordo com a sequência de ações necessárias para realizar cada tarefa;<br>- Para cada ação enumerada, analisar se o usuário executaria a ação corretamente, respondendo e justificando a resposta às seguintes perguntas:<br>- P1: Essa ação está representada de alguma forma no diagrama HTA?<br>- P2: Os objetivos e operações estão corretamente representados e descritos?<br>- P3: As relações entre os subobjetivos está correta?<br>- P4: A descrição textual está correta?|
+|Coleta de dados|- Percorrer a interface de acordo com a sequência de ações necessárias para realizar cada tarefa;<br>- Para cada ação enumerada, analisar se o usuário executaria a ação corretamente, respondendo e justificando a resposta às seguintes perguntas:<br>- P1(CTT e HTA): Essa ação está representada de alguma forma no diagrama CTT?<br>- P2(CTT e HTA): A tarefa está descrita como sua função ? e Os objetivos e operações estão corretamente representados e descritos<br>- P3(CTT e HTA): As ligações com outras tarefas estão corretas e subobjetivos?<br>|
 |Interpretação e Consolidação dos resultados|Sintetizar resultados sobre:<br>- A conformidade do diagrama e da descrição do HTA com a realidade;<br>- O que precisa ser modificado no diagrama e na descrição do hta.|
 |Relato dos resultados|O relato dos resultados do percurso cognitivo podem conter:<br>- Os objetivos e escopo da avaliação;<br>- Uma breve descrição do método de percurso cognitivo, incluindo as perguntas que devem ser respondidas;<br>- O número e o perfil de avaliadores;<br>- A descrição das tarefas analisadas.<br>Para cada tarefa analisada, o relatório deve conter:<br>- Um resumo de como o diagrama e a descrição do hta estão ou não condizentes com a realidade;<br>- Um resumo do que precisa ser modificado no diagrama e na descrição do hta;<br>- Sugestões de solução.|
 
@@ -56,9 +56,9 @@ Para aplicar a avaliação, serão seguidas as etapas a seguir:
 8. Navegar pelo PDF do resultado.
 
 
-Tarefa: <a href "https://interacao-humano-computador.github.io/2021.2-Cebraspe/An%C3%A1lise_de_requisitos/An%C3%A1lise_de_tarefas/HTA/">Verificar o gabarito de uma prova do PAS</a>
+### Tarefa: <a href "https://interacao-humano-computador.github.io/2021.2-Cebraspe/An%C3%A1lise_de_requisitos/An%C3%A1lise_de_tarefas/HTA/">Verificar o gabarito de uma prova do PAS</a>
 
-Persona:<a href "https://interacao-humano-computador.github.io/2021.2-Cebraspe/An%C3%A1lise_de_requisitos/Personas/personas/">Nezuko Kamado</a>
+### Persona:<a href "https://interacao-humano-computador.github.io/2021.2-Cebraspe/An%C3%A1lise_de_requisitos/Personas/personas/">Zenitsu Agatsuma</a>
 
 **Ações:**
 
@@ -93,8 +93,8 @@ Para cada ação, o avaliador deverá responder, justificar a resposta, para as 
 ## 8. Conclusão
 <p align = "justify">Em sequência estão os resultados das avaliações com suas etapas detalhadas e os resultados de cada tarefa avaliada</p>
 
-* Avaliação 1;
-* Avaliação 2;
+* [Avaliação 1: Consultar média final do PAS](avaliacao1.md)
+* [Avaliação 2: Verificar o Gabarito de uma Prova do PAS](avaliacao2.md)
 
 ## 5. Bibliografia
 
