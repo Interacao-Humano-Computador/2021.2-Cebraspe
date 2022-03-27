@@ -35,9 +35,11 @@ nav:
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
         - Análise de Tarefas:
-          - Planejamento da avaliação de análise de tarefas: Avaliação_desenvolvimento/Nivel1/planejamento.md
+          - Planejamento da Avaliação de Análise de Tarefas: Avaliação_desenvolvimento/Nivel1/planejamento.md
           - Entrevista: Avaliação_desenvolvimento/Nivel1/entrevista.md
-          - Avaliação de análise de Tarefas: Avaliação_desenvolvimento/Nivel1/avaliacao.md
+          - Relato dos Resultados da Avaliação de Análise de Tarefas:
+            - Avaliação da Tarefa 1: Avaliação_desenvolvimento/Nivel1/avaliacao1.md
+            - Avaliação da Tarefa 2: Avaliação_desenvolvimento/Nivel1/avaliacao2.md
         - Storyboard: 
           - Planejamento da Avaliação - Storyboard: Avaliação_desenvolvimento/Nivel1/planejamento_storyboard.md
           - Storyboard: Avaliação_desenvolvimento/Nivel1/Storyboard.md
