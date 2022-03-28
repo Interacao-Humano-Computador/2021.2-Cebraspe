@@ -38,12 +38,16 @@ nav:
           - Planejamento da Avaliação de Análise de Tarefas: Avaliação_desenvolvimento/Nivel1/planejamento.md
           - Entrevista: Avaliação_desenvolvimento/Nivel1/entrevista.md
           - Relato dos Resultados da Avaliação de Análise de Tarefas:
+            - Planejamento do Relato - Análise de Tarefas: Avaliação_desenvolvimento/Nivel1/planejamento_relato_analise_tarefas.md
             - Avaliação da Tarefa 1: Avaliação_desenvolvimento/Nivel1/avaliacao1.md
             - Avaliação da Tarefa 2: Avaliação_desenvolvimento/Nivel1/avaliacao2.md
         - Storyboard: 
           - Planejamento da Avaliação - Storyboard: Avaliação_desenvolvimento/Nivel1/planejamento_storyboard.md
           - Storyboard: Avaliação_desenvolvimento/Nivel1/Storyboard.md
           - Avaliação do Storyboard: Avaliação_desenvolvimento/Nivel1/avaliacao_storyboard.md
+      - Nível 2:
+        - Protótipo de papel: 
+          - Planejamento da Avaliação - Protótipo de papel: Avaliação_desenvolvimento/Nivel2/planejamento_prótipo_papel.md
   - Apresentações:
       - Apresentação 1: Apresentacoes/Apresentacao1.md
       - Apresentação 2: Apresentacoes/Apresentacao2.md
