@@ -30,149 +30,166 @@ A metodologia de produção utilizada para a realização desse documento foi de
   </figcaption>
 </p></center></br>
 
+<center>
 <img src="https://i.ibb.co/RQtMKX3/prototipo-2.png">
   <figcaption align='center'>
     <b>Protótipo de tela 2: Tela inicial com mouse em cima da opção de Acesso a Universidade</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/wz7tZYy/prototipo-3.png">
   <figcaption align='center'>
     <b>Protótipo de tela 3: Tela inicial clicando na opção PAS|UnB</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/2yGBdzc/prototipo-4.png">
   <figcaption align='center'>
     <b>Protótipo de tela 4: Tela do PAS|UnB</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/wQZyj4s/prototipo-5.png">
   <figcaption align='center'>
     <b>Protótipo de tela 5: Tela do PAS|UnB clicando em Subprogramas</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/8Pd7cp9/prototipo-6.png">
   <figcaption align='center'>
     <b>Protótipo de tela 6: Mensagem caso seja clicado em algum componente fora do fluxo da tarefa</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/4f12Xpv/prototipo-7.png">
   <figcaption align='center'>
     <b>Protótipo de tela 7: Tela do PAS|UnB clicando em Subprogramas e depois em Mais Informações</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/47KCnWK/prototipo-8.png" alt="prototipo-8">
   <figcaption align='center'>
     <b>Protótipo de tela 8: Tela de informações de um subprograma com acesso a Download do gabarito </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
 ## 3.2 Tarefa 2: Inscrever em um Concurso
 
+<center>
 <img src="https://i.ibb.co/g9XCWq8/t2-prototipo-1.png">
   <figcaption align='center'>
     <b>Protótipo de tela 1: Tela inicial do site do Cebraspe passando o mouse em Concursos</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/8j4Zvfq/t2-prototipo-2.png">
   <figcaption align='center'>
     <b>Protótipo de tela 2: Tela inicial do site do Cebraspe passando o mouse em Concursos e depois em Inscrições abertas</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/4N7RqbB/t2-prototipo-3.png">
   <figcaption align='center'>
     <b>Protótipo de tela 3: Tela de Inscrições abertas clicando em Mais Informações</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/TqHjVS7/t2-prototipo-4.png">
   <figcaption align='center'>
     <b>Protótipo de tela 4: Tela de informações de um concurso clicando em Fazer Inscrição</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/WsCFPFV/t2-prototipo-5.png">
   <figcaption align='center'>
     <b>Protótipo de tela 5: Tela de login para fazer a inscrição no concurso</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/10gmPjD/t2-prototipo-6.png">
   <figcaption align='center'>
     <b>Protótipo de tela 6: Tela de login clicando na opção entrar</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/f22GxSd/t2-prototipo-7.png">
   <figcaption align='center'>
     <b>Protótipo de tela 7: Tela de confirmação de dados para confirmar a inscrição no concurso</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
+<center>
 <img src="https://i.ibb.co/dQ7nQpx/t2-prototipo-8.png" alt="prototipo-8">
   <figcaption align='center'>
     <b>Protótipo de tela 8: Tela de inscrição com os dados confirmados </b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
 ## 4. Fluxo de telas
 
 ### 4.1 Tarefa 1: Consultar gabarito do subprograma 2019-2021 do PAS 1
 
+<center>
 <img src="">
   <figcaption align='center'>
     <b>Fluxo de tela 1</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
 ### 4.2 Tarefa 2: Inscrever em um Concurso
 
+<center>
 <img src="">
   <figcaption align='center'>
     <b>Fluxo de tela 2</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
 ## 5. Conclusão
 
