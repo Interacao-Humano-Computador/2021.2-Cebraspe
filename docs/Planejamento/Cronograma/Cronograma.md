@@ -5,12 +5,13 @@
 |    Data    | Versão |  Descrição       | Autor  | Revisor  |
 | :--------: | :----: | :--------------: | :----: | :------: |
 | 11.02.2022 |  0.1   | Criação do cronograma do projeto, Adição do cronograma específico, Adição de legendas nas imagens | Ana Carolina, Daniel e Ricardo |      Erick e Gustave      |
-| 12.02.2022 |  0.2   |                             Adição do cronograma da primeira entrega                              |          Ana Carolina          | Daniel, Gustave e Ricardo |
-| 12.02.2022 |  0.3   |                                       Revisão do documento                                        |         Erick, Gustave         |    Ana Carolina, Erick    |
-| 23.02.2022 |  0.4   |                                      Arrumando bibliografia                                       |             Daniel             |           Erick           |
-| 25.02.2022 |  0.5   |                             Inclusão do cronograma da segunda entrega                             |          Ana Carolina          |           Erick           |
-| 10.03.2022 |  0.6   |                            Inclusão do cronograma da terceira entrega                             |          Ana Carolina          |           Erick           |
-| 15.03.2022 |  0.7   |                            Inclusão do cronograma da quarta entrega                             |          Ana Carolina          |           Ricardo           |
+| 12.02.2022 |  0.2   | Adição do cronograma da primeira entrega  |  Ana Carolina | Daniel, Gustave e Ricardo |
+| 12.02.2022 |  0.3   |   Revisão do documento  | Erick, Gustave |    Ana Carolina, Erick    |
+| 23.02.2022 |  0.4   | Arrumando bibliografia    |  Daniel | Erick |
+| 25.02.2022 |  0.5   | Inclusão do cronograma da segunda entrega |  Ana Carolina | Erick |
+| 10.03.2022 |  0.6   | Inclusão do cronograma da terceira entrega  | Ana Carolina |  Erick |
+| 15.03.2022 |  0.7   | Inclusão do cronograma da quarta entrega | Ana Carolina |  Ricardo |
+| 30.03.2022 |  0.8   | Inclusão do cronograma da quinta entrega  | Ana Carolina  |  Erick  |
 
 ## 1. Cronograma geral
 
@@ -99,6 +100,6 @@ Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
 
 ---
 
-## 6. Bibliografia
+## 7. Bibliografia
 
 > Prime Video. Disponível em: https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/planejamento/cronograma.md .Acesso em: 12/02/2022.
