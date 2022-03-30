@@ -21,13 +21,14 @@ A metodologia de produção utilizada para a realização desse documento foi de
 
 ### 3.1 Tarefa 1: Consultar gabarito do subprograma 2019-2021 do PAS 1
 
+<center>
 <img src="https://i.ibb.co/XWsdzPy/prototipo-1.png">
   <figcaption align='center'>
     <b>Protótipo de tela 1: Tela inicial do site do Cebraspe</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
-</p></br>
+</p></center></br>
 
 <img src="https://i.ibb.co/RQtMKX3/prototipo-2.png">
   <figcaption align='center'>
