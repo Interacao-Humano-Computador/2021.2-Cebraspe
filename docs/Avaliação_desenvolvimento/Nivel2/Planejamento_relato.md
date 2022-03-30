@@ -64,7 +64,7 @@
 <p style="text-align: justify;">Esse documento visa facilitar a vida do avaliador durante a realização das avaliações. Desse modo, o avaliador está livre para realizar mudanças durante ou previamente a avaliação, mas sempre lembrando de manter a consistência entre os diversos participantes.
 </p>
 
-## 8. Bibliografia
+## 7. Bibliografia
 
 >BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
