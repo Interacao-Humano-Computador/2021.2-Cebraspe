@@ -9,7 +9,7 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-O objetivo desse documento é definir etapas na avaliação do protótipo em papel.
+O objetivo desse documento é definir as etapas e processos da avaliação do protótipo em papel, com o objetivo de obter o máximo de eficiência possível além de se obter dados claros e objetivos.
 </p>
  
 ## 2. Metodologia
@@ -19,7 +19,7 @@ O planejamento de avaliação do protótipo em papel foi baseado nas informaçõ
  
 | Atividade | <p style="text-indent: 20px;">Tarefa</p> |
 |:--|:---|
-| Preparação | <ul><li>Definir tarefas à serem executadas</li> <li>Definir o perfil dos participantes e recrutá-los</li><li>Criar protótipos em papel da interface para serem executadas as tarefas</li></ul> |
+| Preparação | <ul><li>Definir tarefas a serem executadas</li> <li>Definir o perfil dos participantes e recrutá-los</li><li>Criar protótipos em papel da interface para serem executadas as tarefas</li></ul> |
 | Coleta e interpretação de dados |  <ul><li>O usuário executa as tarefas interagindo com os protótipos em papel, mediado pelo avaliador</li><li>O avaliador deve listar os problemas encontrados; e refinar os protótipos em papel</li> </ul> |
 | Consolidação dos resultados | <ul><li>Priorizar a correção dos problemas não resolvidos e sugerir correções</li></ul> |
 | Relato dos resultados | <ul><li>Relatar os problemas encontrados e sugestões de correção</li></ul> |
@@ -38,7 +38,7 @@ O seguinte termo de consentimento deve ser apresentado ao voluntário para que e
 Somos o grupo 1 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise do site do Cebraspe. Buscamos conhecer melhor o que o usuário deseja da plataforma e alinhar a interface com o cliente final do produto. O grupo realizará pesquisas, dentre elas as entrevistas. Para confirmar o seu consentimento de participação nesta atividade é de suma importância a ciência dos seguintes aspectos: 
 </p>
 
-<ul><li>Os dados coletados durante a entrevista seram destinados somente para fins acadêmicos e equipe de interface do site do Cebraspe.</li></ul>
+<ul><li>Os dados coletados durante a entrevista serão destinados somente para fins acadêmicos e equipe de interface do site do Cebraspe.</li></ul>
 
 <ul><li>Para a divulgação dos resultados das entrevistas suas informações pessoais estarão seguras e anônimas, sendo compartilhados apenas seu nome e ocupação.</li></ul>
 
@@ -73,7 +73,7 @@ Elaborar o protótipo de papel para a execução das tarefas.
  
 ## 5. Coleta de dados e interpretação
  
-<p style="text-indent: 20px; text-align: justify"> Para ser feita a coleta de dados é necessário realizar a valiação com o consentimento do participante com os termos propostos.
+<p style="text-indent: 20px; text-align: justify"> Para ser feita a coleta de dados é necessário realizar avaliação com o consentimento do participante com os termos propostos.
 </p>
  
 <p style="text-indent: 20px; text-align: justify">
