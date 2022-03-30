@@ -11,107 +11,67 @@
 | 16.03.2022 |  0.5   | Adição da entrevista 4 | Ana Carolina | Gustave |
 
 ## 1. Introdução
-<p style="text-align: justify;">"A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente." (Barbosa e Silva, 2019, p. 286).
+<p style="text-align: justify;">"A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente." (Barbosa e Silva, 2019, p. 286). O objetivo deste documento é validar se os contextos descritos pelos storyboards representam a realidade vivenciada pelos usuários do Cebraspe. As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas podem ser verificadas no planejamento da avaliação dos storyboards.
 </p>
 
 ## 2. Metodologia
-<p style="text-align: justify;">O storyboard é um tipo de protótipo de baixa fidelidade e consiste em uma série de desenhos que demonstram como o usuário podem progredir em uma tarefa utilizando o produto que está sendo desenvolvido ou avaliado. Os storyboards criados para este projeto representam contextos em que o sistema pode ser utilizado para que os usuários atinjam os objetivos de "consultar o gabarito do PAS", "Inscrever-se em um concurso" e "Ingressar na UnB".  Para verificar o Storyboard levantamos um roteiro de perguntas anteriormente no planejamento. Então, decidimos utilizar como técnica, previamente o teste-piloto para detectar erros e posteriormente utilizamos o método da entrevista.
+<p style="text-align: justify;">O storyboard é um tipo de protótipo de baixa fidelidade e consiste em uma série de desenhos que demonstram como o usuário podem progredir em uma tarefa utilizando o produto que está sendo desenvolvido ou avaliado. Os storyboards criados para este projeto representam contextos em que o sistema pode ser utilizado para que os usuários atinjam os objetivos de "consultar o gabarito do PAS", "Inscrever-se em um concurso" e "Ingressar na UnB".  Para verificar o Storyboard levantamos um roteiro de perguntas anteriormente no planejamento.
 </p>
 
-## 3. Entrevistas
-<p style="text-align: justify;">De acordo com Barbosa e Silva (2010), entrevistas permitem ao avaliador coletar dados detalhados e profundos das experiências individuais do grupo de foco. Essa abordagem permite a coleta de muitas informações e possui um formato flexível, que facilita o direcionamento da coleta de dados de acordo com o cenário do usuário.
+<p style="text-align: justify;">De acordo com Barbosa e Silva (2010), entrevistas permitem ao avaliador coletar dados detalhados e profundos das experiências individuais do grupo de foco. Essa abordagem permite a coleta de muitas informações e possui um formato flexível, que facilita o direcionamento da coleta de dados de acordo com o cenário do usuário. Portanto, essa foi a técnica escolhida pelo grupo para realizar essa atividade. Julgamos ser a técnica correta de acordo com a avaliação de inspeção que a partir da definição do perfil de usuário, a entrevista poderá trazer informações úteis e concretas a respeito dos storyboards, e por conseguinte ajudando na melhoria e/ou adaptação no projeto.
 </p>
 
-<p style="text-align: justify;">O elenco de entrevistados conta com pessoas que utilizam ou já utilizaram o site do Cebraspe, porém, não foi exigido que os usuários possuíssem experiência em questão de uso do sistema ou familiaridade com as questões de usabilidade do site. Apenas que conhecessem os sistemas disponíveis e já os tivessem utilizado em algum momento.
+## 3. Participantes
+
+<p style="text-align: justify;">Após o período de captura por voluntários para serem entrevistados acerca deste tema, o grupo encontrou 3 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os cuidados éticos necessários. São:
 </p>
 
-<p style="text-align: justify;">Ao todo foram realizadas 4 entrevistas com estudantes de graduação da Universidade de Brasília do campus de engenharia da Faculdade Gama - FGA.
+- Welligton Jonathan, aluno do 6º semestre do curso de Engenharia de Software da UnB (que satisfaz o perfil de usuário de estudante);
+- Thaísa Martins, aluna do 6º semestre do curso de Enfermagem da UnB (satisfazendo o perfil de usuário de estudante);
+- Maicon, aluno do 5º semestre do curso de Engenharia de software da UnB (satisfazendo o perfil de usuário de estudante);
+
+## 4. Ambiente de avaliação
+<p style="text-align: justify;">Para a realização das entrevistas escolhemos realizá-las remotamente, para cumprir com as normas de saúde vigentes atualmente, por motivo da pandemia do Covid-19. Os entrevistados voluntários necessitaram de utilizar seus próprios equipamentos, no caso, seus computadores ou smartphones, para a realização da entrevista. As ferramentas e requisitos para participação pelos voluntários foi:
 </p>
 
-### 3.1 Entrevista 1
+- Conexão com a internet, para uso do navegador tanto pelo entrevistador quanto para o participante;
+- Computador ou smartphone, para acesso as entrevistas para os entrevistador e participante;
+- Microfone para os entrevistador e participante capturação de áudio;
+- Plataforma de reunião utilizada para a entrevista com os participantes: Jitsi Meet;
+- Ferramenta para gravar a reunião: OBS Studio.
 
-<center>
+## 5. Sumário dos dados coletados
+As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BnTW7DeX2Wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+- Entrevista com o Welligton Jonathan: [link](Nivel1/entrevista1.md)
+- Entrevista com a Thaísa Martins:[link](Nivel1/entrevista2.md)
+- Entrevista com o Maicon: [link](Nivel1/entrevista3.md)
 
-<p style="text-align: justify;">A primeira entrevista foi realizada pela integrante Ana Carolina, dia 16 de março às 11:20, com o participante Welligton Jonathan, estudante de Engenharia de Software na Faculdade Gama - FGA. O participante alegou ter consentimento sobre a entrevista e que concordava com o termo.
+## 6. Entrevistas
+
+<p style="text-align: justify;">O resultados serão relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo definiu no planejamento.
 </p>
 
-<p style="text-align: justify;">Quando perguntado sobre o primeiro storyboard, que retrata a consulta dos gabaritos do PAS (Programa de Avaliação Seriada), Welligton diz que condiz com a realidade de quem vai verificar os gabaritos do PAS, porém para adicionar melhorias ele diz que poderia ter alguns quadros a mais explicando detalhadamente como é a execução da atividade - o passo a passo de como obter o gabarito na página do Cebraspe. 
+### 6.1 Entrevista sobre o primeiro storyboard
+
+<p style="text-align: justify;">O entrevistado avaliou os três storyboard e confirmou que eles são condizentes com a proposta do site do Cebraspe. O entrevistado disse que o 1º storyboard é próximo da realidade. Analisando então a nossa solução por meio dos storyboards o entrevistado respondeu que a solução é eficaz. Respondendo então a última pergunta o entrevistado falou que sentiu falta no storyboard como melhoramento: ele diz que poderia ter alguns quadros a mais explicando detalhadamente como é a execução da atividade - o passo a passo de como obter o gabarito na página do Cebraspe.
 </p>
 
-<p style="text-align: justify;">Sobre o segundo storyboard, que retrata como se inscreve em concursos, o participante alegou que a situação ilustrada não retrata bem a realidade e que falta definir em qual parte do site o personagem do quadrinho tem que verificar e como ele faz esse processo de inscrição.
+### 6.2 Entrevista sobre o segundo storyboard
+
+<p style="text-align: justify;">A entrevistada confirmou que todos os storyboards apresentados são próximos da realidade proposta pelo projeto do site do Cebraspe, e sobre o segundo storyboard ela diz que no site tem uma opção que pode ajudar o estudante a localizar escolhendo a forma de como ingressar na universidade. Com relação a melhoria, a entrevistada analisando nossa solução por meio dos storyboards respondeu que a solução é eficaz, mas que poderia estar muito mais detalhado, deixando cada passo mais exposto no storyboard.
 </p>
 
-<p style="text-align: justify;">Quando perguntado sobre o terceiro storyboard, representando o contexto de como ingressar na UnB, Welligton diz que a situação realmente condiz com a realidade e a sugestão de melhoria seria informar de alguns cursos que são para ingressar na UnB.
+### 6.3 Entrevista sobre o terceiro storyboard
+
+<p style="text-align: justify;">O entrevistado confirmou que todos os storyboards apresentados são condizentes com a proposta do site do Cebraspe. Em relação ao terceiro storyboard ele diz que a situação realmente condiz muito com a realidade e que teve uma nostalgia do tempo em que ele ingressou na Universidade e que não teria sugestão de melhoria e que esse já condiz bastante com a realidade. Mas comentou depois que paramos a gravação que o storyboard poderia colocar umas opções de como entrar em cada curso.
 </p>
 
-### 3.2 Entrevista 2
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q_wVkIg0SM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
-
-<p style="text-align: justify;">A segunda entrevista foi realizada pela integrante Ana Carolina, dia 16 de março às 12:52, com a participante Thaísa Martins, estudante de Enfermagem da Faculdade de Ciências da Saúde - UnB. A participante alegou ter consentimento sobre a entrevista e que concordava com o termo.
+## 7. Conclusão
+<p style="text-align: justify;">Após realizadas todas as entrevistas, podemos perceber que de acordo com as declarações dos participantes os storyboards tem que passar por algumas melhorias para integrar, intensificar e chegar mais próximo da realidade do que seria no site. Durante a entrevista não obtivemos relatos de erros nos storyboards, isso foi por que na realização dos storyboards relatamos apenas como seria a interação com o site do Cebraspe, tendo a implementação de soluções acerca dos erros mostrados durante todo esse projeto, e assim, durante as entrevistas, os participantes na maioria de suas respostas acerca da proximidade com a realidade do site atual não compararam com a realidade do site. Portanto, a partir de agora a equipe possui um entendimento mais aprofundado e detalhado sobre a usabilidade do site do Cebraspe e nos propomos a implementar as mudanças propostas como melhorias de design à plataforma que devem poder prosseguir para a fase de verificação dos artefatos.
 </p>
 
-<p style="text-align: justify;">Quando perguntada sobre o primeiro storyboard, que retrata a consulta dos gabaritos do PAS (Programa de Avaliação Seriada), Thaísa diz que condiz sim com a realidade de quem vai verificar os gabaritos do PAS, e que passa as informações de maneira bem objetiva com os detalhes. Sobre a sugestão de melhoria, a participante diz que apesar de estar bem curtinho o storyboard passa bem a informação, falando tudo que precisa ser dito. Com cores bem harmônicas que chama atenção e não tem informação em excesso.
-</p>
-
-<p style="text-align: justify;">Sobre o segundo storyboard, que retrata como se inscreve em concursos, a participante alegou que a situação ilustrada retrata sim a realidade, embora ela nunca tenha feito uma inscrição em nenhum concurso, o site do cebraspe é bem explicativo sendo geralmente bem fácil de se inscrever. Sobre a sugestão ela diz que as cores não chamam muita atenção porém as informações estão claras, mudando apenas as cores deixando-as mais chamativa.
-</p>
-
-<p style="text-align: justify;">Quando perguntada sobre o terceiro storyboard, representando o contexto de como ingressar na UnB, Thaísa diz que a situação realmente condiz com a realidade e que tem uma parte no site que ajuda a localizar a opção de como ingressar na universidade e a sugestão de melhoria seria de acrescentar mais informações deixando o storyboard mais explícito mas que dessa forma não está ruim.
-</p>
-
-### 3.3 Entrevista 3
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ISt57ErMzD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</center>
-
-<p style="text-align: justify;">A terceira entrevista foi realizada pela integrante Ana Carolina, dia 16 de março às 13:10, com o participante Maicon, estudante de Engenharia de Software na Faculdade Gama - FGA. O participante alegou ter consentimento sobre a entrevista e que concordava com o termo.
-</p>
-
-<p style="text-align: justify;">Quando perguntado sobre o primeiro storyboard, que retrata a consulta dos gabaritos do PAS (Programa de Avaliação Seriada), Maicon diz que acredita que condiz com a realidade de quem vai verificar os gabaritos do PAS, e que com ele foi dessa forma que aconteceu. E não teve nenhuma sugestão de melhoria, dizendo que ele já estava bem explicativo. 
-</p>
-
-<p style="text-align: justify;">Sobre o segundo storyboard, que retrata como se inscrever em concursos, o participante alegou que já tinha se inscrito em alguns concursos e que a situação ilustrada retrata bem a realidade e que não falta nada.
-</p>
-
-<p style="text-align: justify;">Quando perguntado sobre o terceiro storyboard, representando o contexto de como ingressar na UnB, Maicon diz que a situação realmente condiz muito com a realidade e que teve uma nostalgia do tempo em que ele ingressou na Universidade e que não teria sugestão de melhoria e que esse já condiz bastante com a realidade.
-</p>
-
-### 3.4 Entrevista 4
-
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XmyFcIAXLOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</center>
-
-<p style="text-align: justify;">A quarta entrevista foi realizada pela integrante Ana Carolina, dia 16 de março às 16:44, com o participante Davi Matias, estudante de Engenharia de Software na Faculdade Gama - FGA. O participante alegou ter consentimento sobre a entrevista e que concordava com o termo.
-</p>
-
-<p style="text-align: justify;">Quando perguntado sobre o primeiro storyboard, que retrata a consulta dos gabaritos do PAS (Programa de Avaliação Seriada), Davi diz que essa situação ilustrada condiz com a realidade, de como acha o gabarito do PAS, o contexto do site que o usuário precisa entrar. E que se não for em casa, o usuário pode receber mandar mensagem e nela vai estar dando essas mesmas informações na parte de acesso ao PAS, UnB e de acesso ao gabarito. Sem nenhuma sugestão de melhoria a ser feita.
-</p>
-
-<p style="text-align: justify;">Sobre o segundo storyboard, que retrata como se inscrever em concursos, o participante alegou que a situação ilustrada retrata a realidade como ele entendeu e viu. E também sem nenhuma sugestão de melhoria, estando legal também.
-</p>
-
-<p style="text-align: justify;">Quando perguntado sobre o terceiro storyboard, representando o contexto de como ingressar na UnB, Davi diz que ao ver dele essa situação condiz com a realidade e que aba de acesso a universidade tem muitas informações para quem tem dúvida uma prima que fez a inscrição e que foi dessa mesma forma, não tendo nenhuma sugestão de melhoria.
-</p>
-
-
-## 4. Conclusão
-<p style="text-align: justify;">Após realizadas todas as entrevistas, pode-se perceber que alguns dos usuários declararam estar de acordo com as situações ilustradas pelos storyboards. E outros propuseram melhorias para integrar e beneficiar nosso storyboard. Portanto, a partir de agora a equipe possui um entendimento mais aprofundado e detalhado sobre a usabilidade do site do Cebraspe e após implementar as mudanças propostas deve poder prosseguir com as avaliações para propor melhorias de design à plataforma.
-</p>
-
-## 5. Bibliografia
+## 8. Bibliografia
 
 >BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
