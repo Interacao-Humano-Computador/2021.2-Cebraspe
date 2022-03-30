@@ -2,9 +2,10 @@
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |     Autor      | Revisor |
-| :--------: | :----: | :------------------: | :------------: | :-----: |
-| 29.03.2022 |  0.1   | Criação do documento | Gustave, Erick |   Ana   |
+|    Data    | Versão |       Descrição       |     Autor      | Revisor |
+| :--------: | :----: | :-------------------: | :------------: | :-----: |
+| 29.03.2022 |  0.1   | Criação do documento  | Gustave, Erick |   Ana   |
+| 30.03.2022 |  0.2   | Criação dos diagramas | Gustave, Erick |   Ana   |
 
 ## 1. Introdução
 
