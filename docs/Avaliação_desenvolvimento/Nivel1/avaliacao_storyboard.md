@@ -9,10 +9,10 @@
 | 16.03.2022 |  0.3   | Adição da entrevista 2 | Ana Carolina | Gustave |
 | 16.03.2022 |  0.4   | Adição da entrevista 3 | Ana Carolina | Gustave |
 | 16.03.2022 |  0.5   | Adição da entrevista 4 | Ana Carolina | Gustave |
-| 30.03.2022 |  0.6   | Edição das entrevistas | Ana Carolina | Gustave |
-| 30.03.2022 |  0.7   | Inclusão dos tópicos de participantes, ambiente e sumário | Ana Carolina | Gustave |
-| 30.03.2022 |  0.8   | Correção da conclusão | Ana Carolina | Gustave |
-| 30.03.2022 |  0.9   | Separação das entrevistas | Ana Carolina | Gustave |
+| 30.03.2022 |  0.6   | Edição das entrevistas | Ana Carolina | Erick |
+| 30.03.2022 |  0.7   | Inclusão dos tópicos de participantes, ambiente e sumário | Ana Carolina | Erick |
+| 30.03.2022 |  0.8   | Correção da conclusão | Ana Carolina | Erick |
+| 30.03.2022 |  0.9   | Separação das entrevistas | Ana Carolina | Erick |
 
 
 ## 1. Introdução
