@@ -72,15 +72,28 @@
 | Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
 | :--------------------------: | :----------------------------: | :--------------------: | :-------: |
 | 14/03 - 16/03 | Ajustes do feedback do monitor |         Todos          |   Todos   |
-| 10/03 | Planejamento do Relato dos resultados da avaliação do Storyboard |      Ana Carolina      |  -  |
-| 15/03 |  Planejamento de Avaliação de Storyboard      |        Gustave         |  -   |
-| 15/03 |  Storyboard |  Erick  |  -   |
-| 11/03 |  Planejamento de Avaliação de Análise de tarefas         | Daniel |  -  |
-| 11/03 |  Planejamento do Relato dos resultados da avaliação de Análise de tarefas | Ricardo |  -  |
+| 10/03 | Planejamento do Relato dos resultados da avaliação do Storyboard |      Ana Carolina      |  Gustave  |
+| 15/03 |  Planejamento de Avaliação de Storyboard      |        Gustave         |  Ana Carolina  |
+| 15/03 |  Storyboard |  Erick  |  Ricardo  |
+| 11/03 |  Planejamento de Avaliação de Análise de tarefas         | Daniel e Ricardo |  Erick  |
+| 11/03 |  Planejamento do Relato dos resultados da avaliação de Análise de tarefas | Ricardo |  Erick  |
 | 15/03 |         Ata de reunião         |      Ana Carolina      |  Erick   |
 | 15/03 | Cronograma da quarta entrega   |      Ana Carolina      |   Ricardo   |
 
 <center> <figcaption>Tabela 5: Quarta entrega.</figcaption> </center>
+
+## 6. Quinta entrega
+
+| Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
+| :--------------------------: | :----------------------------: | :--------------------: | :-------: |
+| 29/03 | Ajustes do feedback do monitor |         Todos          |   Todos   |
+| 24/03 | Fazer o planejamento da avaliação do protótipo de papel |      Daniel      |  Erick  |
+| 30/03 |  Fazer o planejamento do relato do protótipo de papel     |        Ana Carolina         |  Erick  |
+| 25/03 - 27/03 |  Fazer o protótipo de papel |  Gustave e Erick  |  Ana Carolina  |
+| 30/03 |         Ata de reunião         |      Ana Carolina      |  Erick   |
+| 30/03 | Cronograma da quinta entrega   |      Ana Carolina      |   Erick   |
+
+<center> <figcaption>Tabela 6: Quinta entrega.</figcaption> </center>
 
 Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
 
