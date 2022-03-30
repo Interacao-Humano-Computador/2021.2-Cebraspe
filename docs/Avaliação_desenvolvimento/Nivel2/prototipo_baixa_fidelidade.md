@@ -169,10 +169,10 @@ A metodologia de produção utilizada para a realização desse documento foi de
 
 ## 4. Fluxo de telas
 
-### 4.1 Tarefa 1: Consultar gabarito do subprograma 2019-2021 do PAS 1
+### 4.1 Fluxograma das Tarefas 1 e 2
 
 <center>
-<img src="">
+<img src="https://i.ibb.co/DtM9pMX/Diagrama-de-fluxo.jpg" width="100%">
   <figcaption align='center'>
     <b>Fluxo de tela 1</b>
     </br>
@@ -180,12 +180,34 @@ A metodologia de produção utilizada para a realização desse documento foi de
   </figcaption>
 </p></center></br>
 
-### 4.2 Tarefa 2: Inscrever em um Concurso
+### 4.2 Fluxograma de interconexão 1
 
 <center>
-<img src="">
+<img src="https://i.ibb.co/k2mMdc2/Diagrama-de-fluxo-1.jpg" width="60%">
   <figcaption align='center'>
     <b>Fluxo de tela 2</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></center></br>
+
+### 4.2 Fluxograma de interconexão 2
+
+<center>
+<img src="https://i.ibb.co/tpY0nQs/Diagrama-de-fluxo-2.jpg" width="50%">
+  <figcaption align='center'>
+    <b>Fluxo de tela 3</b>
+    </br>
+    <small>Fonte: Autor</small>
+  </figcaption>
+</p></center></br>
+
+### 4.3 Legenda
+
+<center>
+<img src="https://i.ibb.co/d6RjQ4C/Diagrama-de-fluxo-3.jpg" width="50%">
+  <figcaption align='center'>
+    <b>Tabela de Legendas</b>
     </br>
     <small>Fonte: Autor</small>
   </figcaption>
