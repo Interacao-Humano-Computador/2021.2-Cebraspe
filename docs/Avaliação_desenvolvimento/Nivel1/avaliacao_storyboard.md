@@ -9,6 +9,11 @@
 | 16.03.2022 |  0.3   | Adição da entrevista 2 | Ana Carolina | Gustave |
 | 16.03.2022 |  0.4   | Adição da entrevista 3 | Ana Carolina | Gustave |
 | 16.03.2022 |  0.5   | Adição da entrevista 4 | Ana Carolina | Gustave |
+| 30.03.2022 |  0.6   | Edição das entrevistas | Ana Carolina | Gustave |
+| 30.03.2022 |  0.7   | Inclusão dos tópicos de participantes, ambiente e sumário | Ana Carolina | Gustave |
+| 30.03.2022 |  0.8   | Correção da conclusão | Ana Carolina | Gustave |
+| 30.03.2022 |  0.9   | Separação das entrevistas | Ana Carolina | Gustave |
+
 
 ## 1. Introdução
 <p style="text-align: justify;">"A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente." (Barbosa e Silva, 2019, p. 286). O objetivo deste documento é validar se os contextos descritos pelos storyboards representam a realidade vivenciada pelos usuários do Cebraspe. As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas podem ser verificadas no planejamento da avaliação dos storyboards.
@@ -43,9 +48,9 @@
 ## 5. Sumário dos dados coletados
 As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
 
-- Entrevista com o Welligton Jonathan: [link](Nivel1/entrevista1.md)
-- Entrevista com a Thaísa Martins:[link](Nivel1/entrevista2.md)
-- Entrevista com o Maicon: [link](Nivel1/entrevista3.md)
+- Entrevista com o Welligton Jonathan: [link](/docs/Avaliação_desenvolvimento/Nivel1/entrevista1.md)
+- Entrevista com a Thaísa Martins:[link](/docs/Avaliação_desenvolvimento/Nivel1/entrevista2.md)
+- Entrevista com o Maicon: [link](/docs/Avaliação_desenvolvimento/Nivel1/entrevista3.md)
 
 ## 6. Entrevistas
 
