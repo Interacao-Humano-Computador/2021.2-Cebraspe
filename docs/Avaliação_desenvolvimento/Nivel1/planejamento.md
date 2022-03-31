@@ -29,7 +29,7 @@ Para aplicar a avaliação, serão seguidas as etapas a seguir:
 
 |Atividade|Tarefas|
 |--|--|
-|Preparação|- Definir as tarefas que serão avaliadas;<br>- Definir o perfil do usuário e identificar a persona que será utilizada na avaliação;<br>- Descrever as ações que serão necessárias para realizar a tarefa;<br>- Realizar um teste piloto.|
+|Preparação|- Definir as tarefas que serão avaliadas;<br>- Definir o perfil do usuário e identificar a persona que será utilizada na avaliação;<br>- Descrever as ações que serão necessárias para realizar a tarefa;|
 |Coleta de dados|- Percorrer a interface de acordo com a sequência de ações necessárias para realizar cada tarefa;<br>- Para cada ação enumerada, analisar se o usuário executaria a ação corretamente, respondendo e justificando a resposta às seguintes perguntas:<br>- P1(CTT e HTA): Essa ação está representada de alguma forma no diagrama CTT?<br>- P2(CTT e HTA): A tarefa está descrita como sua função ? e Os objetivos e operações estão corretamente representados e descritos<br>- P3(CTT e HTA): As ligações com outras tarefas estão corretas e subobjetivos?<br>|
 |Interpretação e Consolidação dos resultados|Sintetizar resultados sobre:<br>- A conformidade do diagrama e da descrição do HTA com a realidade;<br>- O que precisa ser modificado no diagrama e na descrição do hta.|
 |Relato dos resultados|O relato dos resultados do percurso cognitivo podem conter:<br>- Os objetivos e escopo da avaliação;<br>- Uma breve descrição do método de percurso cognitivo, incluindo as perguntas que devem ser respondidas;<br>- O número e o perfil de avaliadores;<br>- A descrição das tarefas analisadas.<br>Para cada tarefa analisada, o relatório deve conter:<br>- Um resumo de como o diagrama e a descrição do hta estão ou não condizentes com a realidade;<br>- Um resumo do que precisa ser modificado no diagrama e na descrição do hta;<br>- Sugestões de solução.|
@@ -38,7 +38,7 @@ Para aplicar a avaliação, serão seguidas as etapas a seguir:
 
 ## 3. Preparação 
 
-<p align = "justify">Nesta etapa da preparação, o avaliador deve organizar os objetos de estudo, assim preparando o material de apoio e realizar um teste piloto.</p>
+<p align = "justify">Nesta etapa da preparação, o avaliador deve organizar os objetos de estudo, assim preparando o material de apoio.</p>
 
 ### Tarefa: <a href "https://interacao-humano-computador.github.io/2021.2-Cebraspe/An%C3%A1lise_de_requisitos/An%C3%A1lise_de_tarefas/CTT/">Consultar média final do PAS</a>
 
@@ -73,9 +73,7 @@ Para aplicar a avaliação, serão seguidas as etapas a seguir:
 9. Escolher qual o tipo de gabarito
 10. Navegar pelo PDF do resultado
 
-## 4. Teste Piloto
-
-## 5. Coleta de Dados
+## 4. Coleta de Dados
 
 <p align = "justify">Na atividade de coleta de dados, o avaliador se põe no lugar do usuário de forma a levar em consideração e se baseando na persona definida para a tarefa que será avaliada. Após issom deverá ser feita a <strong>simulação da execução das tarefas</strong> que fazem parte do escopo de avaliação.
 Para cada ação, o avaliador deverá responder, justificar a resposta, para as perguntas a seguir:</p>
@@ -84,19 +82,17 @@ Para cada ação, o avaliador deverá responder, justificar a resposta, para as 
 * As relações entre os subobjetivos está correta ?
 * A descrição está correta ?
 
-## 6. Interpretação e Consolidação dos Resultados
+## 5. Interpretação e Consolidação dos Resultados
 <p align = "justify">Nesta etapa, os avaliadores devem <strong>analisar as histórias de sucesso e insucesso</strong> sobre a realização das tarefas tendo em vista a consideração a confirmidade do diagrama e da descrição do HTA com a realidade e o que precisa ser modificado no diagrama e na descrição do HTA.</p>
 
-## 7. Relato dos Resultados
+## 6. Relato dos Resultados
 <p align = "justify"> No relato dos resultados, o avaliador terá que redigir um relatório sintetizando as percepções que ele obteve na avaliação e consolidando os problemas encontrados e as sugestões de correção.</p>
 
-## 8. Conclusão
+## 7. Conclusão
 <p align = "justify">Em sequência estão os resultados das avaliações com suas etapas detalhadas e os resultados de cada tarefa avaliada</p>
 
 * [Avaliação 1: Consultar média final do PAS](avaliacao1.md)
 * [Avaliação 2: Verificar o Gabarito de uma Prova do PAS](avaliacao2.md)
-
-## 5. Bibliografia
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*
