@@ -7,7 +7,7 @@
 | 0.1 | 05/04/2022  | Criação do documento de verificação de Entrevista 1 | Daniel |  Erick |
 
 ## 1. Introdução
-<p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Com isso, temos o objetivo de verificar os erros encontrados no documento de Entrevista 1.
+<p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos objetivos do documento. Com isso, temos o objetivo de verificar os erros encontrados no documento de Entrevista 3.
 </p>
 
 ## 2. Metodologia
