@@ -5,7 +5,7 @@
 
 |  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | :----:  |
-| 06.04.2022 | 0.1 | Criação do documento | Ana | Erick |
+| 06.04.2022 | 0.1 | Criação do documento | Ana | Ricardo |
 
 ## 1. Introdução
 <p style="text-align: justify;">Usando como método a Inspeção, um checklist foi criado para a verificação de Guia de estilo.
@@ -35,3 +35,6 @@
 ## 3. Conclusão
 <p style="text-align: justify;">O documento de Guia de estilo está de acordo com o conteúdo da bibliografia da disciplina de IHC. Porém, falta apenas a metodologia para ser utilizada no documento de guia de estilo.
 </p>
+
+## 4. Bibliografia
+> Serrano, M., Requisitos - Aula 23.
