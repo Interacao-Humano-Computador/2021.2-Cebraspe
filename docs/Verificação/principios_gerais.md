@@ -1,4 +1,4 @@
-# Verificação - Guia de estilo
+# Verificação - Principios Gerais
 
 ## Histórico de Versão
 
