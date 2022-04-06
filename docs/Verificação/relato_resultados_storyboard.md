@@ -42,3 +42,7 @@
 
 <p style="text-align: justify;">O documento do Planejamento do Relato dos Resultados do Storyboard está correto, porém com a necessidade de uma melhor rastreabilidade dos documentos que estão correlatos à entrevista.
 </p>
+
+## 4. Bibliografia
+
+> Serrano, M., Requisitos - Aula 23.

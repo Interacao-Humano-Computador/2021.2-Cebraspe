@@ -35,3 +35,7 @@
 
 <p style="text-align: justify;">O documento do Planejamento do Relato da Análise de Tarefas está correto, porém contém pouca profundidade e detalhamento acerca do tema.
 </p>
+
+## 4. Bibliografia
+
+> Serrano, M., Requisitos - Aula 23.
