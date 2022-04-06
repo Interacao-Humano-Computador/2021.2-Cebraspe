@@ -6,39 +6,50 @@
 | :--: | :--: | :--: | :--: | :--:  |
 | 0.1 | 05/04/2022  | Criação do documento de verificação de Perfil de Usuário | Daniel |  Gustave |
 
+
 ## 1. Introdução
-<p style="text-align: justify;"> A Verificação é uma atividade, a qual envolve a análise de um sistema para certificar se este atende aos objetivos do documento. Com isso, temos o objetivo de verificar os erros encontrados no documento de Perfil de Usuário.
+<p style="text-indent: 20px; text-align: justify">
+Usando como método a Inspeção, um checklist foi criado para a verificação do <a href="https://interacao-humano-computador.github.io/2021.2-Cebraspe/An%C3%A1lise_de_requisitos/Perfil_do_usuario/perfil_do_usuario/" target="_blank">Perfil do Usuário</a>, artefato este que tem como autor(es):
 </p>
-
-## 2. Metodologia
-<p style="text-align: justify;">Para realizar a verificação foi utilizado a técnica de inspeção por checklist que pode ser definida como: "Trata-se de um Método gerencial de reuniões, as quais objetivam o descobrimento de Defeitos em documentos. É um processo de detecção de defeitos bem definidos. Após um defeito ser descoberto, é necessário corrigir o sistema e revalidá-lo. A partir daí, será necessário novas Inspeções no sistema, testes de regressões e análises". Ele foi utilizado por ser simples, objetivo e no qual irá atender nossos propósitos.
+- Ana Carolina
+<p style="text-indent: 20px; text-align: justify">
+e inspetor:
 </p>
+- Gustave, Erick e Daniel
 
-## 3. Checklist
+## 2. Checklist
 
-### 3.1. Legenda
-|Símbolo|Descrição|
-|--|--|
-|OK|Contém|
-|X|Não Contém|
+<center>
 
-### 3.2. Resultados
+| ID | Questão | Possível respostas |
+|: -- :| ------- |: ------------------ :|
+| 1 | Os resultados estão livre de erros ortográficos ou gramaticais? | Sim ou Não |
+| 2 | A descrição dos resultados estão clara e inequívoca? | Sim ou Não |
+| 3 | Os usuários identificados fazem sentido com os resultados coletados? | Sim ou Não |
+| 4 | Conseguiu definir os usuários? | Sim ou Não |
+| 5 | Os resultados obtidos são fáceis de se identificar? | Sim ou Não |
+| 6 | O usuário foi definido? | Sim ou Não |
 
-| Número | Item | Resposta |
-| :--: | -- | :--: |
-| 1 | Roteiro pré-determinado pelo documento? | OK |
-| 2 | Ortografia segue padrão? | OK |
-| 3 | Existe uma introdução? | OK |
-| 4 | Imagens possuem legenda? | OK |
-| 5 | Existe rastreabilidade? | OK |
-| 6 | As perguntas elaboradas no roteiro ajudam a obter informações para a realização de outras etapas do projeto? | OK |
-| 7 | Documento segue padrão do projeto? | OK |
-| 8 | Usuário foi definido? | OK |
+</center>
+
+## 3. Resultados
+
+<center>
+
+| ID da questão | Resposta |
+|: ------------- :|: -------- :|
+| 1 | Sim |
+| 2 | Sim |
+| 3 | Sim |
+| 4 | Sim |
+| 5 | Sim |
+| 6 | Sim |
+
+</center>
 
 ### 4. Conclusão
 <p style="text-align: justify;">Ao analisar o documento, foi possível concluir que a priorização está de acordo com o proposto.
 </p>
-
 
 ## 5. Bibliografia
 
