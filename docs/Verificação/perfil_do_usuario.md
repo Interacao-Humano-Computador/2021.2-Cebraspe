@@ -10,6 +10,7 @@
 ## 1. Introdução
 <p style="text-indent: 20px; text-align: justify">
 Usando como método a Inspeção, um checklist foi criado para a verificação do <a href="https://interacao-humano-computador.github.io/2021.2-Cebraspe/An%C3%A1lise_de_requisitos/Perfil_do_usuario/perfil_do_usuario/" target="_blank">Perfil do Usuário</a>.
+</p>
 
 
 ## 2. Checklist
