@@ -35,3 +35,6 @@
 ## 3. Conclusão
 <p style="text-align: justify;">O documento de Guia de estilo está de acordo com o conteúdo da bibliografia da disciplina de IHC. Porém, falta apenas a metodologia para ser utilizada no documento de guia de estilo.
 </p>
+
+## 4. Bibliografia
+> Serrano, M., Requisitos - Aula 23.

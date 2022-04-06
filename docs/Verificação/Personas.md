@@ -35,3 +35,6 @@
 ## 3. Conclusão
 <p style="text-align: justify;">O documento das personas estão de acordo com o conteúdo da bibliografia da disciplina de IHC.
 </p>
+
+## 4. Bibliografia
+> Serrano, M., Requisitos - Aula 23.
