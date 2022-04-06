@@ -5,7 +5,7 @@
 
 |  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | :----:  |
-| 06.04.2022 | 0.1 | Criação do documento | Ana | Erick |
+| 06.04.2022 | 0.1 | Criação do documento | Ana | Ricardo |
 
 ## 1. Introdução
 <p style="text-align: justify;">Usando como método a Inspeção, um checklist foi criado para a verificação de Guia de estilo.
