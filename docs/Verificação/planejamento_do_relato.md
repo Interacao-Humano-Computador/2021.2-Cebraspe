@@ -31,5 +31,5 @@
 |5|O documento descreve as tarefas executadas ?|OK|
 
 ## 3. Conclusão
-<p style="text-align: justify;">O documento do Planejamento do Relato do Protótipo de Papel está correto, porém contém alguns erros ortográficos.
+<p style="text-align: justify;">O documento do Planejamento do Relato do Protótipo de Papel está correto, e de acordo com o conteúdo da blibliografia de IHC porém contém alguns erros ortográficos.
 </p>

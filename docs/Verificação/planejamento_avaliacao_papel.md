@@ -32,5 +32,5 @@
 |6|O Termo de Consentimento está disponível no documento?|OK|
 
 ## 3. Conclusão
-<p style="text-align: justify;">Concluí-se do checklist do Planejamento da avaliação do Protótipo de Papel, está com alguns erros ortográficos, mas o planejamento foi feito com êxito.
+<p style="text-align: justify;">Concluí-se do checklist do Planejamento da avaliação do Protótipo de Papel, está com alguns erros ortográficos, mas o planejamento foi feito com êxito e esta de acordo com o conteúdo da bibliografia de IHC.
 </p>

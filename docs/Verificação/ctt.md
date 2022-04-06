@@ -31,6 +31,7 @@
 |5|Há uma explicação das nomeclaturas de relacionamento?|OK|
 |6|A explicação do diagrama está correta?|OK|
 
+
 ## 3. Conclusão
 <p style="text-align: justify;">O documento do CTT está de acordo com o conteúdo da bibliografia da disciplina de IHC.
 </p>
