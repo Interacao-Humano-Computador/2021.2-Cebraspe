@@ -28,9 +28,7 @@
 |2|Está gramaticalmente correto?|OK|
 |3|As Metas de Usabilidade estão de acordo com o conteúdo da bibliografia da disciplina de IHC?|OK|
 |4|As Metas de Usabilidade abrangem os problemas encontrados no site escolhido em todas as metas?|OK|
-|5|O documento apresenta as referências bibliográficas?|OK|
-|6|As Metas de Usabilidade estão de acordo com o conteúdo da disciplina de IHC?|OK|
-|7|As perguntas Metas de Usabilidade estão descritas de forma clara e compreensiva?|OK|
+|5|As perguntas Metas de Usabilidade estão descritas de forma clara e compreensiva?|OK|
 
 ## 3. Conclusão
 <p style="text-align: justify;">O documento das Metas de Usabilidade está de acordo com o conteúdo da bibliografia da disciplina de IHC.
