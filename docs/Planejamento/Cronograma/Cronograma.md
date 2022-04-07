@@ -96,6 +96,36 @@
 
 <center> <figcaption>Tabela 6: Quinta entrega.</figcaption> </center>
 
+
+## 7. Sexta entrega
+
+| Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
+| :--------------------------: | :----------------------------: | :--------------------: | :-------: |
+|06/04| Verificação  | Ana Carolina  | Daniel |
+|06/04| Perfil de Usuário | Daniel  | Gustave |
+|06/04| Personas  | Ana Carolina  | Daniel |
+|06/04| CTT | Ricardo | Gustave |
+|06/04| HTA | Erick | Daniel |
+|06/04| Princípios Gerais | Gustave | Daniel |
+|06/04| Guia de Estilo | Ana Carolina | Ricardo |
+|06/04| Metas de Usabilidade | Ricardo  | Gustave |
+|06/04| Planejamento da Avaliação de Análise de Tarefas | Erick | Gustave |
+|06/04| Entrevista da Análise de tarefas | Erick  | Ana Carolina |
+|06/04|  Planejamento do Relato do Análise de Tarefas | Gustave  | Ricardo |
+|06/04|  Avaliação da T1 | Daniel  | Gustave |
+|06/04|  Avaliação da T2 | Daniel  | Ricardo |
+|06/04|  Planejamento da Avaliação do Storyboard | Erick  | Ricardo |
+|06/04|  Storyboard | Ana Carolina  | Erick |
+|06/04|  Relato dos resultados da avaliação do Storyboard | Gustave | Erick |
+|06/04|  Entrevistas 1,2 e 3 | Daniel  | Erick |
+|06/04|  Planejamento da avaliação do Protótipo de papel | Ricardo  | Gustave |
+|06/04|  Protótipo de baixa fidelidade | Ana Carolina | Erick |
+|06/04|  Planejamento do relato do Protótipo de papel | Ricardo  | Gustave |
+|06/04| Ata da reunião | Ana Carolina | Erick |
+|06/04| Cronograma sexta entrega | Ana Carolina | Ricardo |
+
+<center> <figcaption>Tabela 7: Sexta entrega.</figcaption> </center>
+
 Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
 
 ---
