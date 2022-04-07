@@ -43,9 +43,9 @@ Para a realização das entrevistas escolhemos realizá-las remotamente, para cu
 <p style="text-indent: 20px; text-align: justify">
 As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelos links abaixo:</p>
 
-- Entrevista com a Thaísa Martins: COLOCAR LINK
-- Entrevista com o Douglas Renan: COLOCAR LINK
-- Entrevista com o Amanda Carvalho: COLOCAR LINK
+- Entrevista com a Thaísa Martins: <a href="https://youtu.be/5boHatrO1So">link</a>
+- Entrevista com o Douglas Renan: <a href="https://youtu.be/ltrGLzrgPm0">link</a>
+- Entrevista com o Amanda Carvalho: <a href="https://youtu.be/8131NcAfmug">link</a>
 
 ## 6. Entrevistas
 
@@ -65,29 +65,17 @@ Algumas perguntas foram realizadas durante a entrevista para abstrair a experiê
 
 ### 6.1 Thaísa Martins
 
-<center>
-<iframe width="560" height="315" src="https://youtu.be/5boHatrO1So" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
 <p style="text-indent: 20px; text-align: justify">
 A participante Thaisa realizou as duas tarefas de forma rápida e precisa, sem muitas dúvidas nos caminhos que percorreu. Ela citou que já havia acessado a plataforma anteriormente, mas que fazia um certo tempo que não mexia. Para as respostas das perguntas que a foram direcionadas, avaliou em '4' o nível de familiaridade com a plataforma cebraspe, em '2' o nível de dificuldade para realizar a Tarefa 1 e em '1' para realizar a tarefa 2. Ademais, respondeu que não cometeu erros ou teve dúvidas em realizar quaisquer das tarefas. A voluntária também não viu necessidade de observações adicionais alegando que o protótipo estava bem intuitivo.
 </p>
 
 ### 6.2 Douglas Renan
 
-<center>
-<iframe width="560" height="315" src="https://youtu.be/ltrGLzrgPm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
 <p style="text-indent: 20px; text-align: justify">
 O participante Douglas realizou as duas tarefas de forma rápida e precisa, sem muitas dúvidas nos caminhos que percorreu. Ele citou que já havia acessado a plataforma anteriormente e tinha uma boa percepção do site. Para as respostas das perguntas que o foram direcionadas, avaliou em '3' o nível de familiaridade com a plataforma cebraspe, em '1' o nível de dificuldade para realizar a Tarefa 1 e em '1' para realizar a tarefa 2. Ademais, respondeu que não cometeu erros ou teve dúvidas em realizar quaisquer das tarefas. O participante optou por não fazer comentários a parte por achar que o protótipo estava completo e intuitivo.
 </p>
 
 ### 6.3 Amanda Carvalho
-
-<center>
-<iframe width="853" height="480" src="https://youtu.be/8131NcAfmug"  allowfullscreen></iframe>
-</center>
 
 <p style="text-indent: 20px; text-align: justify">
 A participante Amanda realizou as duas tarefas de forma rápida e precisa, sem muitas dúvidas nos caminhos que percorreu. Ela citou que já havia acessado a plataforma anteriormente e tinha uma boa percepção do site. Para as respostas das perguntas que a foram direcionadas, avaliou em '5' o nível de familiaridade com a plataforma cebraspe, em '1' o nível de dificuldade para realizar a Tarefa 1 e em '1' para realizar a tarefa 2. Ademais, respondeu que não cometeu erros ou teve dúvidas em realizar quaisquer das tarefas. A prticipante optou por não realizar observações adicionais por alegar que o protótipo estava coerente e preciso.
