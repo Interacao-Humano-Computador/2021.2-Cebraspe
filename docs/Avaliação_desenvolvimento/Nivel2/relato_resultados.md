@@ -86,7 +86,7 @@ O participante Douglas realizou as duas tarefas de forma rápida e precisa, sem 
 ### 6.3 Amanda Carvalho
 
 <center>
-<iframe width="560" height="315" src="https://youtu.be/8131NcAfmug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://youtu.be/8131NcAfmug"  allowfullscreen></iframe>
 </center>
 
 <p style="text-indent: 20px; text-align: justify">
