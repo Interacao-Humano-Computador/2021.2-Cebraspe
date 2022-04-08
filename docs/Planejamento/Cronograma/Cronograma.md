@@ -126,10 +126,23 @@
 
 <center> <figcaption>Tabela 7: Sexta entrega.</figcaption> </center>
 
+## 8. Sétima entrega
+
+| Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
+| :--------------------------: | :----------------------------: | :--------------------: | :-------: |
+|07/04| Relato dos resultados da avaliação do protótipo de baixa fidelidade | Gustave | Ana Carolina |
+|-| Planejamento da Avaliação do protótipo de alta fidelidade | Ricardo | - |
+|08/04| Protótipo de alta fidelidade | Daniel e Erick | Gustave |
+|08/04| Planejamento da Avaliação do relato dos resultados da avaliação do protótipo de alta fidelidade | Ana Carolina  | - |
+|08/04| Relato dos resultados da avaliação do protótipo de alta fidelidade | Ana Carolina | - |
+|08/04| Cronograma da sétima entrega | Ana Carolina | Ricardo |
+
+<center> <figcaption>Tabela 8: Sétima entrega.</figcaption> </center>
+
 Vale lembrar que o cronograma apresentado acima está sujeito a alterações.
 
 ---
 
-## 7. Bibliografia
+## 9. Bibliografia
 
 > Prime Video. Disponível em: https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/planejamento/cronograma.md .Acesso em: 12/02/2022.
