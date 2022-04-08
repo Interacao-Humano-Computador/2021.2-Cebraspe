@@ -12,6 +12,8 @@
 | 10.03.2022 |  0.6   | Inclusão do cronograma da terceira entrega  | Ana Carolina |  Erick |
 | 15.03.2022 |  0.7   | Inclusão do cronograma da quarta entrega | Ana Carolina |  Ricardo |
 | 30.03.2022 |  0.8   | Inclusão do cronograma da quinta entrega  | Ana Carolina  |  Erick  |
+| 06.04.2022 |  0.9   | Inclusão do cronograma da sexta entrega  | Ana Carolina  |  Erick  |
+| 08.04.2022 |  1.0   | Inclusão do cronograma da sétima entrega  | Ana Carolina  |  Erick  |
 
 ## 1. Cronograma geral
 
