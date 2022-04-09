@@ -47,7 +47,7 @@
 - Computador ou smartphone, para acesso as entrevistas para os entrevistador e participante;
 - Microfone para os entrevistador e participante capturação de áudio;
 - Plataforma de reunião utilizada para a entrevista com os participantes: Jitsi Meet;
-<p style="text-align: justify;">- Ferramenta para gravar a reunião: OBS Studio. </p>
+- Ferramenta para gravar a reunião: OBS Studio.
 
 ## 5. Sumário dos dados coletados
 
@@ -57,7 +57,7 @@
 - Entrevista com o Augusto Gabriel: <a href="../Nivel3/teste_piloto/## 4. Vídeo" target="_blank">Vídeo</a>
 - Entrevista com o Welligton Jonathan: 
 - Entrevista com a Thaísa Martins:
-<p style="text-align: justify;">- Entrevista com o Maicon:</p>
+- Entrevista com o Maicon:
 
 
 ## 6. Entrevistas
