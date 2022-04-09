@@ -1,13 +1,15 @@
 # Teste Piloto
 
 ## 1. Introdução
-É uma prévia de entrevista para a avaliação do planejamento principal, com o objetivo de assegurar que o estudo é viável e permitirá coletar dados desejados e realizar as análises planejadas. O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. (Barbosa e Silva, 2010)
+<p style="text-align: justify;">É uma prévia de entrevista para a avaliação do planejamento principal, com o objetivo de assegurar que o estudo é viável e permitirá coletar dados desejados e realizar as análises planejadas. O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. (Barbosa e Silva, 2010)
+</p>
 
 ## 2. Metodologia
-O teste foi realizado de maneira convecional conduzindo a avaliação como uma sessão normal.
+<p style="text-align: justify;">O teste foi realizado de maneira convecional conduzindo a avaliação como uma sessão normal.</p>
 
 ## 3. Participante
-O teste piloto foi realizado no dia 08/04 e no horário 15:09 pela plataforma do Jitsimeet, sendo gravado pela ferramenta do OBS. O participante foi o Augusto Gabriel, um ex-aluno do Uniceub do curso de Arquitetura.
+<p style="text-align: justify;">O teste piloto foi realizado no dia 08/04 e no horário 15:09 pela plataforma do Jitsimeet, sendo gravado pela ferramenta do OBS. O participante foi o Augusto Gabriel, um ex-aluno do Uniceub do curso de Arquitetura.
+</p>
 
 ## 4. Vídeo
 <center>

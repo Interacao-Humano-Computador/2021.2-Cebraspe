@@ -49,11 +49,13 @@
 - Plataforma de reunião utilizada para a entrevista com os participantes: Jitsi Meet;
 - Ferramenta para gravar a reunião: OBS Studio.
 
+
 ## 5. Sumário dos dados coletados
 
-As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
+<p style="text-align: justify;">As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
+</p>
 
-- Entrevista com o Augusto Gabriel: <a href="../Nivel3/##4.Vídeo" target="_blank">Vídeo</a>
+- Entrevista com o Augusto Gabriel: <a href="../Nivel3/teste_piloto/##4.Vídeo" target="_blank">Vídeo</a>
 - Entrevista com o Welligton Jonathan: 
 - Entrevista com a Thaísa Martins:
 - Entrevista com o Maicon:
@@ -69,20 +71,6 @@ As entrevistas realizadas pelo grupo estão disponíveis para a visualização p
 
 <p style="text-align: justify;">O entrevistado realizou o teste tanto na plataforma real que é o site do Cebraspe quanto no protótipo de alta fidelidade. Teve a condução correta dos passos tanto no site como no protótipo e interagiu de maneira positiva sem ter dificuldade ao realizar as tarefas pedidas. Ele relatou que utiliza a plataforma com frequência mas que já havia utilizado e por isso para a pergunta um ele deu nota 1 que não estava muito familiarizado com a plataforma. Com relação a dificuldade encontrada ao realizar as tarefas ele considerou a nota 5 como sendo normal. Não houve nenhum desconforto e nem erros, como também teve o pensamento de achar simples a tarefa. Confirmou que as funcionalidades do protótipo estão claras e que não teria nenhuma sugestão de melhora.
 </p>
-
-
-### 6.2 Entrevista sobre a tarefa 1
-
-
-
-
-### 6.3 Entrevista sobre a tarefa 2
-
-
-
-
-## 7. Conclusão
-
 
 
 ## 8. Bibliografia
