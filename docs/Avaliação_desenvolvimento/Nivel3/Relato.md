@@ -14,6 +14,7 @@
 
 ## 2. Metodologia
 <p style="text-align: justify;">De acordo com Barbosa e Silva (2010), entrevistas permitem ao avaliador coletar dados detalhados e profundos das experiências individuais do grupo de foco. Essa abordagem permite a coleta de muitas informações e possui um formato flexível, que facilita o direcionamento da coleta de dados de acordo com o cenário do usuário.
+</p>
 
 <p style="text-align: justify;">Por ter essa característica mais pessoal, as entrevistas demandam maior preparo dos entrevistadores e mais tempo, pois é preciso que todas as entrevistas sigam um mesmo roteiro para que o foco da pesquisa seja mantido e todos os participante gerem dados que possam ser comparados.
 </p>
@@ -46,7 +47,7 @@
 - Computador ou smartphone, para acesso as entrevistas para os entrevistador e participante;
 - Microfone para os entrevistador e participante capturação de áudio;
 - Plataforma de reunião utilizada para a entrevista com os participantes: Jitsi Meet;
-- Ferramenta para gravar a reunião: OBS Studio.
+<p style="text-align: justify;">- Ferramenta para gravar a reunião: OBS Studio. </p>
 
 ## 5. Sumário dos dados coletados
 
@@ -56,7 +57,7 @@
 - Entrevista com o Augusto Gabriel: <a href="../Nivel3/teste_piloto/## 4. Vídeo" target="_blank">Vídeo</a>
 - Entrevista com o Welligton Jonathan: 
 - Entrevista com a Thaísa Martins:
-- Entrevista com o Maicon:
+<p style="text-align: justify;">- Entrevista com o Maicon:</p>
 
 
 ## 6. Entrevistas
