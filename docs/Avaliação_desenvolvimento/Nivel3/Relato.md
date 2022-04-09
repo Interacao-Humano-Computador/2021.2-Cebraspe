@@ -54,7 +54,8 @@
 <p style="text-align: justify;">As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
 </p>
 
-- Entrevista com o Augusto Gabriel: <a href="../Nivel3/teste_piloto/## 4. Vídeo" target="_blank">Vídeo</a>
+- Entrevista com o Augusto Gabriel: [Vídeo](../../../Nivel3/teste_piloto/#-4.-Vídeo)
+<!-- <a href="../Nivel3/teste_piloto/## 4. Vídeo" target="_blank">Vídeo</a> -->
 - Entrevista com o Welligton Jonathan: 
 - Entrevista com a Thaísa Martins:
 - Entrevista com o Maicon:
