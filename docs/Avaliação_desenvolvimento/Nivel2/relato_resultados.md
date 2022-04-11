@@ -50,9 +50,9 @@ As entrevistas realizadas pelo grupo estão disponíveis para a visualização p
 ## 6. Entrevistas
 
 <p style="text-indent: 20px; text-align: justify">
-O resultados serão relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo definiu no documento de planejamento.
+Os resultados serão relatados seguindo um roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo definiu no documento de planejamento.
 
-Algumas perguntas foram realizadas durante a entrevista para abstrair a experiência dos usuários com os protótipos:</p>
+Algumas perguntas foram realizadas durante a entrevista para abstrair a experiência dos usuários com os protótipos, como:</p>
 
 | Numero |                                 Perguntas                                  |                                                                     Resposta                                                                     |
 | :----: | :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: |
