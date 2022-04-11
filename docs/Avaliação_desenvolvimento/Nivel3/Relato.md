@@ -25,7 +25,7 @@
 
 ## 3. Participantes
 
-<p style="text-align: justify;">Os participantes selecionados foram aqueles que já utilizaram os serviços do Cebraspe, e dessa forma, já possuíam algum conhecimento prévio do sistema vigente. Foram acordados data e horário para a entrevista, esclarecidos o propósito da reunião e a maneira como seria executada. Após o esclarecimento dos detalhes da entrevista, foi apresentado um termo de consentimento e, caso o participante estivesse de acordo, a entrevista era iniciada. Após o período de captura por voluntários para serem entrevistados acerca deste tema, o grupo encontrou 3 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os cuidados éticos necessários. São:
+<p style="text-align: justify;">Os participantes selecionados foram aqueles que já utilizaram os serviços do Cebraspe, e dessa forma, já possuíam algum conhecimento prévio do sistema vigente. Foram acordados data e horário para a entrevista, esclarecidos o propósito da reunião e a maneira como seria executada. Após o esclarecimento dos detalhes da entrevista, foi apresentado um termo de consentimento e, caso o participante estivesse de acordo, a entrevista era iniciada. Após o período de captura por voluntários para serem entrevistados acerca deste tema, o grupo encontrou 2 pessoas para serem entrevistadas, todos de acordo com o termo de consentimento, estabelecidos os cuidados éticos necessários. São:
 </p>
 
 - Augusto Gabriel, ex-aluno do curso de Arquitetura do Uniceub (que satisfaz o perfil de usuário de estudante);
