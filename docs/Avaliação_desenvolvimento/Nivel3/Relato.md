@@ -32,7 +32,7 @@
 - Maicon, aluno do 5º semestre do curso de Engenharia de software da UnB (satisfazendo o perfil de usuário de estudante);
 
 
-<p style="text-align: justify;"> De acordo com Nielsen a quantidade necessária de participantes para realizar a entrevista é cinco participantes. Mostrando que com 5 participantes é possível encontrar 80% dos problemas de uma interface. Com isso é importante salientar que a quantidade de participantes alcançadas pelo grupo para a realização dessa entrevista foi acreditarmos que o número três seria necessário para que cada pessoa realizasse uma tarefa especifica.
+<p style="text-align: justify;"> De acordo com Nielsen a quantidade necessária de participantes para realizar a entrevista é cinco participantes. Mostrando que com 5 participantes é possível encontrar 80% dos problemas de uma interface. Com isso é importante salientar que a quantidade de participantes alcançadas pelo grupo para a realização dessa entrevista foi acreditarmos que o número dois seria necessário para que cada pessoa realizasse uma tarefa especifica.
 </p> 
 
 
