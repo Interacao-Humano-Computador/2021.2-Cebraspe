@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |  Autor  |   Revisor    |
 | :--------: | :----: | :------------------: | :-----: | :----------: |
 | 09.04.2022 |  0.1   | Criação do documento | Ana Carolina | Gustave |
+| 11.04.2022 |  0.2   | Adição do relato da entrevista 2 | Ana Carolina | Gustave |
 
 
 ## 1. Introdução
@@ -28,8 +29,6 @@
 </p>
 
 - Augusto Gabriel, ex-aluno do curso de Arquitetura do Uniceub (que satisfaz o perfil de usuário de estudante);
-- Welligton Jonathan, aluno do 6º semestre do curso de Engenharia de Software da UnB (que satisfaz o perfil de usuário de estudante);
-- Thaísa Martins, aluna do 6º semestre do curso de Enfermagem da UnB (satisfazendo o perfil de usuário de estudante);
 - Maicon, aluno do 5º semestre do curso de Engenharia de software da UnB (satisfazendo o perfil de usuário de estudante);
 
 
@@ -55,10 +54,7 @@
 </p>
 
 - Entrevista com o Augusto Gabriel: [Vídeo](./teste_piloto.md)
-<!-- <a href="../Nivel3/teste_piloto/## 4. Vídeo" target="_blank">Vídeo</a> -->
-- Entrevista com o Welligton Jonathan: 
-- Entrevista com a Thaísa Martins:
-- Entrevista com o Maicon:
+- Entrevista com o Maicon:[Vídeo]
 ## 6. Entrevistas
 
 <p style="text-align: justify;">O resultados serão relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo definiu no planejamento.
@@ -67,6 +63,11 @@
 ### 6.1 Entrevista sobre o teste piloto
 
 <p style="text-align: justify;">O entrevistado realizou o teste tanto na plataforma real que é o site do Cebraspe quanto no protótipo de alta fidelidade. Teve a condução correta dos passos tanto no site como no protótipo e interagiu de maneira positiva sem ter dificuldade ao realizar as tarefas pedidas. Ele relatou que utiliza a plataforma com frequência mas que já havia utilizado e por isso para a pergunta um ele deu nota 1 que não estava muito familiarizado com a plataforma. Com relação a dificuldade encontrada ao realizar as tarefas ele considerou a nota 5 como sendo normal. Não houve nenhum desconforto e nem erros, como também teve o pensamento de achar simples a tarefa. Confirmou que as funcionalidades do protótipo estão claras e que não teria nenhuma sugestão de melhora.
+</p>
+
+### 6.1 Entrevista sobre o protótipo de alta fidelidade
+
+<p style="text-align: justify;">O entrevistado realizou as tarefas tanto na plataforma real que é o site do Cebraspe quanto no protótipo de alta fidelidade. Teve a condução correta dos passos tanto no site como no protótipo e interagiu de maneira positiva sem ter dificuldade ao realizar as tarefas pedidas. Ele relatou que utiliza a plataforma com um pouco de frequência e por isso para a pergunta um ele deu nota 5 que estava familiarizado com a plataforma. Com relação a dificuldade encontrada ao realizar as tarefas ele escolheu a nota 5 como sendo normal utilizar o site. Não houve nenhum desconforto e nem erros, como também teve o pensamento de achar simples a tarefa. Ele afirmou que o protótipo estaria mais claro e muito mais simples levando o usuário diretamente para a tarefa ou o lugar desejado sem erros como poderia ocorrer no site. Segundo ele, as funcionalidades do protótipo estão claras e que não teria nenhuma sugestão de melhora.
 </p>
 
 
