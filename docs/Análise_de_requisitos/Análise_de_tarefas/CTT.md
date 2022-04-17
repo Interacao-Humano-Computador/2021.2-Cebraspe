@@ -6,8 +6,15 @@
 | :--------: | :----: | :----------------------: | :-----: | :-----: |
 | 25.02.2022 |  0.1   | Criação do Documento CTT |  Erick  | Ricardo |
 | 25.02.2022 |  0.2   |   Revisando Documento    | Ricardo |    -    |
+| 17.04.2022 |  0.3   | Adicionando metodologia e conclusão |  Erick  | Ana Carolina |
 
 ## 1. Introdução
+
+<p align="justify">
+A análise de tarefas tem como objetivo entender quais atividades o usuário irá realizar, como e por quê. Para isso, as tarefas são definidas com base em um objetivo que um usuário deseja e a partir de uma lista de ações a serem seguidas para alcançá-lo.
+</p>
+
+## 2. Metodologia
 
 <p align="justify">
 Para auxiliar na avaliação de IHC e no design, utilizamos o modelo de análise de tarefas chamado árvores de tarefas concorrentes (CouncurTaskTrees - CTT). Com ele é possível representar relações entre tarefas utilizando gráficos, a partir dos seguintes tipos de tarefas (representadas na Figura 1):
@@ -30,7 +37,7 @@ Para auxiliar na avaliação de IHC e no design, utilizamos o modelo de análise
   <br><small><i>Fonte: Barbosa e Silva(2010)</i></small>
 </p>
 
-## 2. Nomenclatura de Relacionamento
+## 3. Nomenclatura de Relacionamento
 
 No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li>
 
@@ -54,10 +61,10 @@ No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li
 
 </ul>
   
-## 3. Resultados
+## 4. Resultados
 <p align = "justify">Para criar a árvore de tarefas para o nosso projeto, escolhemos um cenário em que o usuário deseja saber sua nota final após já ter realizado as três etapas do PAS. Foi gerada, então, a árvore apresentada na Figura 2.</p>
 
-### 3.1. CTT Consultar média final no PAS
+### 4.1. CTT Consultar média final no PAS
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48844857/155748522-db7f1d3b-3d68-4620-9c32-f35774929aca.jpg">
@@ -65,6 +72,10 @@ No modelo CTT, existem 8 possíveis relações entre as tarefas, sendo elas:</li
   <br><small><i>Fonte: própria</i></small>
 </p>
 
-## 4. Bibliografia
+## 5. Conclusão
+
+<p align = "justify">Com base no conteúdo apresentado, é possível avaliar os passos que o usuário irá seguir para realizar uma determinada tarefa. Portanto, isso permite a elaboração de documentos mais complexos como os de design, a partir da utilização da tarefa levantada acima como exemplo.</p>
+
+## 6. Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021.
