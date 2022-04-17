@@ -4,19 +4,20 @@
 
 |    Data    | Versão |                   Descrição                    |            Autor            |     Revisor     |
 | :--------: | :----: | :--------------------------------------------: | :-------------------------: | :-------------: |
-| 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto | Gustave Persijn, Erick Melo |     Daniel      |
+| 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto |       Gustave, Erick        |     Daniel      |
 | 12.02.2022 |  0.2   |              Revisão do documento              |    Ana Carolina, Daniel     |        -        |
-| 23.02.2022 |  0.3   |             Correções ortográficas             |         Erick Melo          | Gustave Persijn |
-| 23.02.2022 |  0.4   |              Revisão do documento              |       Gustave Persijn       |        -        |
+| 23.02.2022 |  0.3   |             Correções ortográficas             |            Erick            |     Gustave     |
+| 23.02.2022 |  0.4   |              Revisão do documento              |           Gustave           |        -        |
+| 17.04.2022 |  0.5   |     Corrigindo nomenclatura dos tópicos        |            Erick            |     Ricardo     |
 
   </br>
  
-## 1. Objetivos
+## 1. Introdução
 
 <p style="text-align: justify;"> Com o intuito de selecionar um site para análise durante a disciplina de Interação Humano Computador pela Universidade de Brasília, foram listados alguns sites com potenciais aspectos qualitativos da heurística. Assim, o grupo empenhou-se em procurar sites que possam atender os objetivos avaliativos, das quais foram selecionados e serão mostrados a seguir. Por fim, a equipe chegou a um consenso de qual site poderia ser melhor trabalhado e que atendesse de forma geral tais requisitos. Dessa forma, buscou-se, principalmente, visar aqueles que poderíamos propor melhorias.
 </p>
 
-## 2. Avaliação dos Sites
+## 2. Metodologia
 
 <p style="text-align: justify;"> Foram escolhidos 3 sites em conjunto em que cada integrante da equipe ficou responsável em avaliar cada site exclusivamente. A tabela abaixo representa a divisão e a escolha desses sites.
 </p>
