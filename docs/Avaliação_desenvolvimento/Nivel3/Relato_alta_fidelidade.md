@@ -6,6 +6,7 @@
 | :--------: | :----: | :------------------: | :-----: | :----------: |
 | 09.04.2022 |  0.1   | Criação do documento | Ana Carolina | Gustave |
 | 18.04.2022 |  0.2   | Inclusão do relato da entrevista 1 | Ana Carolina | Gustave |
+| 18.04.2022 |  0.3   | Inclusão da conclusão | Ana Carolina | Gustave |
 
 
 ## 1. Introdução
@@ -71,6 +72,8 @@
 <p style="text-align: justify;">O entrevistado realizou o teste tanto na plataforma real que é o site do Cebraspe quanto no protótipo de alta fidelidade. Teve a condução correta dos passos tanto no site como no protótipo e interagiu de maneira positiva sem ter dificuldade ao realizar as tarefas pedidas. Ele disse que já havia utilizado o site e por isso para a pergunta um ele deu nota 5 que estava muito familiarizado com a plataforma. Com relação a dificuldade encontrada ao realizar as tarefas ele optou pela nota 5 por não encontrar dificuldades ao realizar a atividade proposta, não tendo nenhum desconforto e nem erros. Afirmou que as funcionalidades do protótipo estão claras e que deu uma opinião sobre o protótipo bem positiva: "O protótipo feito por vocês está bem mais direto ao ponto e muito simples em se poder realizar as tarefas sem ter que ficar tendo redundâncias nos cliques".
 </p>
 
+## 7. Conclusão
+Após realizados o teste piloto e a entrevista, podemos perceber que de acordo com as declarações dos participantes o protótipo de alta fidelidade está bem feito e com atividades claras e simples. Não obtivemos dificuldades ou desencontros com as atividades propostas, nem menos com a realização das atividades no protótipo. Uma pequena dificuldade encontrada foi apenas pelo fato do usuário do teste piloto não ter se lembrado da sua senha e a atualização de senha da plataforma demora muito, então fizemos o empréstimo de uma conta para que ele pudesse realizar as atividades propostas. Portanto, a ideia do planejamento do protótipo se fez de maneira correta e concluímos fazendo novamente a verificação de artefatos que não foram feitos anteriormente.
 
-## 7. Bibliografia
+## 8. Bibliografia
 >BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
