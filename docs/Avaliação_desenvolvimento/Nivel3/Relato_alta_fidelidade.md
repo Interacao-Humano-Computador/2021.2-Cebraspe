@@ -7,6 +7,7 @@
 | 09.04.2022 |  0.1   | Criação do documento | Ana Carolina | Gustave |
 | 18.04.2022 |  0.2   | Inclusão do relato da entrevista 1 | Ana Carolina | Gustave |
 | 18.04.2022 |  0.3   | Inclusão da conclusão | Ana Carolina | Gustave |
+| 18.04.2022 |  0.4   | Teste de carregamento | Ana Carolina | Gustave |
 
 
 ## 1. Introdução
