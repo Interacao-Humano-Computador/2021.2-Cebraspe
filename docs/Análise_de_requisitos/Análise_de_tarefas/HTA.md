@@ -8,6 +8,7 @@
 | 25.02.2022 |  0.2   |         Ajustando Documento          |     Erick e Daniel      |   Ricardo    |
 | 25.02.2022 |  0.3   | Ajustando Pages e legenda de imagens | Erick, Daniel e Gustave | Ana Carolina |
 | 25.02.2022 |  0.4   |           Ajustando Tabela           |     Erick e Daniel      |   Gustave    |
+| 18.04.2022 |  0.5   |            Revisão Geral             |         Gustave         |      -       |
 
 ## 1. Introdução
 
@@ -82,7 +83,7 @@ Segundo Barbosa e Silva (2010, p.193; 194):
 </center>
 
 | Objetivos \ Operações                                  | Problemas e recomendações                                                                                                                                                                                     |
-|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 0. Acesso à Universidade                               | **Input**: página principal da Cebraspe aberta; <br> **Action**: mouse em cima da opção; <br> **Feedback**: aparecerá as opções de Acesso à Universidade.                                                     |
 | 1. Entre em PAS \| UnB                                 | **Action**: mouse em cima da opção; <br> **Feedback**: aparecerá as opções de Acesso à Universidade.                                                                                                          |
 | 2. Entre em subprograma                                | **Action**: clicar na opção de subprogramas; <br> **Feedback**: aparecerá as opções de Subprograma.                                                                                                           |
@@ -91,7 +92,7 @@ Segundo Barbosa e Silva (2010, p.193; 194):
 | 3. Identifique a sessão "GABARITOS E PROVAS"           | **Input**: lista de provas e gabaritos.                                                                                                                                                                       |
 | 3.1 Escolha a parte da prova que você quer             | **Action**: procurar parte da prova desejada.                                                                                                                                                                 |
 | 3.2 Escolha qual tipo de gabarito você está procurando | **Action**: verificar se o gabarito é da prova objetiva ou de questões tipo D; <br> **Problema**: se for um gabarito preliminar é possível que a resposta mude.                                               |
-| 4. Acessar o documento no formato .pdf                 | **Action**: clique no gabarito escolhido; <br> **Feedback**: um gabarito em .pdf será gerado em uma nova aba.                                                                                                 |                                                                                              |
+| 4. Acessar o documento no formato .pdf                 | **Action**: clique no gabarito escolhido; <br> **Feedback**: um gabarito em .pdf será gerado em uma nova aba.                                                                                                 |     |
 
 ### 5.2 Objetivo de Realizar Inscrição em um Concurso
 
@@ -135,6 +136,12 @@ Segundo Barbosa e Silva (2010, p.193; 194):
 | 3.8. Informar como ficou sabendo do evento que está se inscrevendo        | **Input**: lista com os meios de comunicação;<br> **Action**: escolher um meio pelo qual ficou sabendo do concurso.                                                                                                                                                                  |
 | 3.9. Concordar com os termos e condições                                  | **Action**: marcar a opção "De acordo" e clicar em "Concluir"; <br> **Feedback**: um gabarito em .pdf será gerado em uma nova aba.                                                                                                                                                   |
 
-## 6. Bibliografia
+## 6. Conclusão
+
+<p align = "justify"> 
+Após os levantamentos apresentados nos tópicos 4 e 5 desse presente documento, entende-se que o documento HTA satisfez com a análise hierárquica de tarefas, através da representação textual dos objetivos de Verificar Gabarito de uma prova do PAS, como também do objetivo de Realizar Inscrição em um Concurso. O mesmo foi realizado na representação gráfica desses mesmos objetivos.
+</p>
+
+## 7. Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021.
