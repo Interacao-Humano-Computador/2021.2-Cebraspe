@@ -27,8 +27,6 @@
 </p>
 
 - Augusto Gabriel, ex-aluno do curso de Arquitetura do Uniceub (que satisfaz o perfil de usuário de estudante);
-- Welligton Jonathan, aluno do 6º semestre do curso de Engenharia de Software da UnB (que satisfaz o perfil de usuário de estudante);
-- Thaísa Martins, aluna do 6º semestre do curso de Enfermagem da UnB (satisfazendo o perfil de usuário de estudante);
 - Maicon, aluno do 5º semestre do curso de Engenharia de software da UnB (satisfazendo o perfil de usuário de estudante);
 
 
@@ -53,9 +51,7 @@
 <p style="text-align: justify;">As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
 </p>
 
-- Entrevista com o Augusto Gabriel: <a href="../Nivel3/teste_piloto/##4.Vídeo" target="_blank">Vídeo</a>
-- Entrevista com o Welligton Jonathan: 
-- Entrevista com a Thaísa Martins:
+- Entrevista com o Augusto Gabriel: 
 - Entrevista com o Maicon:
 
 
