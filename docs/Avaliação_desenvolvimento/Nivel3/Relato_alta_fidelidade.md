@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |  Autor  |   Revisor    |
 | :--------: | :----: | :------------------: | :-----: | :----------: |
 | 09.04.2022 |  0.1   | Criação do documento | Ana Carolina | Gustave |
+| 18.04.2022 |  0.2   | Inclusão do relato da entrevista 1 | Ana Carolina | Gustave |
 
 
 ## 1. Introdução
@@ -51,8 +52,8 @@
 <p style="text-align: justify;">As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
 </p>
 
-- Entrevista com o Augusto Gabriel: 
-- Entrevista com o Maicon:
+- Entrevista com o Augusto Gabriel: [Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel3/teste_piloto/)
+- Entrevista com o Maicon: [Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel3/Entrevista1/)
 
 
 ## 6. Entrevistas
@@ -63,6 +64,11 @@
 ### 6.1 Entrevista sobre o teste piloto
 
 <p style="text-align: justify;">O entrevistado realizou o teste tanto na plataforma real que é o site do Cebraspe quanto no protótipo de alta fidelidade. Teve a condução correta dos passos tanto no site como no protótipo e interagiu de maneira positiva sem ter dificuldade ao realizar as tarefas pedidas. Ele relatou que utiliza a plataforma com frequência mas que já havia utilizado e por isso para a pergunta um ele deu nota 1 que não estava muito familiarizado com a plataforma. Com relação a dificuldade encontrada ao realizar as tarefas ele considerou a nota 5 como sendo normal. Não houve nenhum desconforto e nem erros, como também teve o pensamento de achar simples a tarefa. Confirmou que as funcionalidades do protótipo estão claras e que não teria nenhuma sugestão de melhora.
+</p>
+
+### 6.2 Entrevista 1
+
+<p style="text-align: justify;">O entrevistado realizou o teste tanto na plataforma real que é o site do Cebraspe quanto no protótipo de alta fidelidade. Teve a condução correta dos passos tanto no site como no protótipo e interagiu de maneira positiva sem ter dificuldade ao realizar as tarefas pedidas. Ele disse que já havia utilizado o site e por isso para a pergunta um ele deu nota 5 que estava muito familiarizado com a plataforma. Com relação a dificuldade encontrada ao realizar as tarefas ele optou pela nota 5 por não encontrar dificuldades ao realizar a atividade proposta, não tendo nenhum desconforto e nem erros. Afirmou que as funcionalidades do protótipo estão claras e que deu uma opinião sobre o protótipo bem positiva: "O protótipo feito por vocês está bem mais direto ao ponto e muito simples em se poder realizar as tarefas sem ter que ficar tendo redundâncias nos cliques".
 </p>
 
 
