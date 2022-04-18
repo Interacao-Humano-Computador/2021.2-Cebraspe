@@ -6,6 +6,8 @@
 | :--------: | :----: | :------------------: | :-----: | :----------: |
 | 09.04.2022 |  0.1   | Criação do documento | Ana Carolina | Gustave |
 | 11.04.2022 |  0.2   | Adição do relato da entrevista 2 | Ana Carolina | Gustave |
+| 18.04.2022 |  0.2   | Inclusão do relato da entrevista 1 | Ana Carolina | Gustave |
+| 18.04.2022 |  0.3   | Inclusão da conclusão | Ana Carolina | Gustave |
 
 
 ## 1. Introdução
@@ -53,8 +55,8 @@
 <p style="text-align: justify;">As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
 </p>
 
-- Entrevista com o Augusto Gabriel: [Vídeo](./teste_piloto.md)
-- Entrevista com o Maicon:[Vídeo]
+- Entrevista com o Augusto Gabriel: [Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel3/teste_piloto/)
+- Entrevista com o Maicon: [Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel3/Entrevista1/)
 ## 6. Entrevistas
 
 <p style="text-align: justify;">O resultados serão relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo definiu no planejamento.
@@ -65,11 +67,14 @@
 <p style="text-align: justify;">O entrevistado realizou o teste tanto na plataforma real que é o site do Cebraspe quanto no protótipo de alta fidelidade. Teve a condução correta dos passos tanto no site como no protótipo e interagiu de maneira positiva sem ter dificuldade ao realizar as tarefas pedidas. Ele relatou que utiliza a plataforma com frequência mas que já havia utilizado e por isso para a pergunta um ele deu nota 1 que não estava muito familiarizado com a plataforma. Com relação a dificuldade encontrada ao realizar as tarefas ele considerou a nota 5 como sendo normal. Não houve nenhum desconforto e nem erros, como também teve o pensamento de achar simples a tarefa. Confirmou que as funcionalidades do protótipo estão claras e que não teria nenhuma sugestão de melhora.
 </p>
 
-### 6.1 Entrevista sobre o protótipo de alta fidelidade
+### 6.2 Entrevista sobre o protótipo de alta fidelidade
 
-<p style="text-align: justify;">O entrevistado realizou as tarefas tanto na plataforma real que é o site do Cebraspe quanto no protótipo de alta fidelidade. Teve a condução correta dos passos tanto no site como no protótipo e interagiu de maneira positiva sem ter dificuldade ao realizar as tarefas pedidas. Ele relatou que utiliza a plataforma com um pouco de frequência e por isso para a pergunta um ele deu nota 5 que estava familiarizado com a plataforma. Com relação a dificuldade encontrada ao realizar as tarefas ele escolheu a nota 5 como sendo normal utilizar o site. Não houve nenhum desconforto e nem erros, como também teve o pensamento de achar simples a tarefa. Ele afirmou que o protótipo estaria mais claro e muito mais simples levando o usuário diretamente para a tarefa ou o lugar desejado sem erros como poderia ocorrer no site. Segundo ele, as funcionalidades do protótipo estão claras e que não teria nenhuma sugestão de melhora.
+<p style="text-align: justify;">O entrevistado realizou o teste tanto na plataforma real que é o site do Cebraspe quanto no protótipo de alta fidelidade. Teve a condução correta dos passos tanto no site como no protótipo e interagiu de maneira positiva sem ter dificuldade ao realizar as tarefas pedidas. Ele disse que já havia utilizado o site e por isso para a pergunta um ele deu nota 5 que estava muito familiarizado com a plataforma. Com relação a dificuldade encontrada ao realizar as tarefas ele optou pela nota 5 por não encontrar dificuldades ao realizar a atividade proposta, não tendo nenhum desconforto e nem erros. Afirmou que as funcionalidades do protótipo estão claras e que deu uma opinião sobre o protótipo bem positiva: "O protótipo feito por vocês está bem mais direto ao ponto e muito simples em se poder realizar as tarefas sem ter que ficar tendo redundâncias nos cliques".
 </p>
 
+## 7. Conclusão
+<p style="text-align: justify;">Após realizados o teste piloto e a entrevista, podemos perceber que de acordo com as declarações dos participantes o protótipo de alta fidelidade está bem feito e com atividades claras e simples. Não obtivemos dificuldades ou desencontros com as atividades propostas, nem menos com a realização das atividades no protótipo. Uma pequena dificuldade encontrada foi apenas pelo fato do usuário do teste piloto não ter se lembrado da sua senha e a atualização de senha da plataforma demora muito, então fizemos o empréstimo de uma conta para que ele pudesse realizar as atividades propostas. Portanto, a ideia do planejamento do protótipo se fez de maneira correta e concluímos fazendo novamente a verificação de artefatos que não foram feitos anteriormente.
+</p>
 
-## 7. Bibliografia
+## 8. Bibliografia
 >BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
