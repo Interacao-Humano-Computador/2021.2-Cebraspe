@@ -2,14 +2,15 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |                                           Descrição                                            |             Autor              | Revisor |
-| :--------: | :----: | :--------------------------------------------------------------------------------------------: | :----------------------------: | :-----: |
+|    Data    | Versão | Descrição  |  Autor | Revisor |
+| :--------: | :----: | :--------: | :----: | :-----: |
 | 10.02.2022 |  0.1   | Criação do documento de processo de design, Adição de figuras, legendas, fontes e bibliografia | Ana Carolina, Daniel e Ricardo | Gustave |
-| 12.02.2022 |  0.2   |                                      Revisão do documento                                      |         Erick, Gustave         |    -    |
-| 23.02.2022 |  0.3   |                                     Correções ortográficas                                     |             Erick              | Daniel  |
-| 23.02.2022 |  0.4   |                                      Revisão do documento                                      |             Daniel             |    -    |
+| 12.02.2022 |  0.2   |   Revisão do documento | Erick, Gustave |    -    |
+| 23.02.2022 |  0.3   |  Correções ortográficas  | Erick | Daniel  |
+| 23.02.2022 |  0.4   | Revisão do documento | Daniel |    -    |
+| 18.04.2022 |  0.5   | Correção dos tópicos | Ana Carolina | Erick |
 
-## 1.Introdução
+## 1. Introdução
 
 <p align="justify">
 Um processo de design envolve o detalhamento das três atividades básicas: análise
@@ -23,7 +24,7 @@ permitindo refinamentos sucessivos da análise da situação atual e da proposta
 intervenção.
 </p>
 
-## 2.Objetivo
+## 2. Metodologia
 
 <p align="justify">
 Este documento tem como objetivo principal expor diferentes ciclos de intervenção
@@ -33,7 +34,7 @@ juntamente com a análise sobre as necessidades do site eleito para a disciplina
 permitiu que a escolha do modelo mais adequado fosse escolhido.
 </p>
 
-## 3.Modelos de Design
+## 3. Modelos de Design
 
 ### 3.1 Ciclo de Vida em Estrela
 
@@ -125,7 +126,7 @@ Deborah Mayhew (1999) propôs um ciclo de vida que tem uma visão holística, es
 </figcaption>
 </center>
 
-### 4. Processo de design selecionado
+### 4. Conclusão
 
 <p align="justify">
 De acordo com os modelos estudados e analisados, o Ciclo de Mayhew foi avaliado como o mais adequado para a condução do projeto por seus artefatos serem mais simples e completos e acreditando que a ideia clara do ciclo seja mais interativa e conexa pode ser justificada pela escolha do grupo.
