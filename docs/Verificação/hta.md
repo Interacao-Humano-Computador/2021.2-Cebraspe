@@ -6,6 +6,7 @@
 |  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | :----:  |
 | 06.04.2022 | 0.1 | Criação do documento | Erick | Daniel |
+| 17.04.2022 |  0.2   |  Revisão   |      Daniel      |    -    |
 
 ## 1. Introdução
 <p style="text-align: justify;">Usando como método a Inspeção, um checklist foi criado para a verificação de <a href="https://interacao-humano-computador.github.io/2021.2-Cebraspe/An%C3%A1lise_de_requisitos/An%C3%A1lise_de_tarefas/HTA/">HTA</a>.

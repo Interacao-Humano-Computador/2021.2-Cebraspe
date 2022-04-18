@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |      Autor       | Revisor |
 | :--------: | :----: | :------------------: | :--------------: | :-----: |
 | 27.03.2022 |  0.1   | Criação do documento |      Daniel     | Erick   |
+| 17.04.2022 |  0.2   |  Correção de erros   |      Daniel      |    -    |
 
 ## 1. Introdução
 <p style="text-indent: 20px; text-align: justify">
@@ -21,8 +22,20 @@ Foi escolhido o método de percurso cognitivo para realizar o relato das ativida
 As atividades selecionadas para a avaliação foram:
 </p>
 
-* Consultar média final do PAS;
-* Verificar o Gabarito de uma Prova do PAS;
+### 3.1 Consultar média final do PAS
+
+<p style="text-align: justify;">A verificação de média final consiste em pesquisar pela média alcançada pelo aluno que fez a prova do PAS. Para alcançar esse objetivo deve clicar na opção PAS|UnB e logo depois clicar na sub-aba Subprogramas do Cebraspe. Essa opção irá listar diversos opções sobre os subprogramas de cada ano, após clicar sobre uma determinada opção o usuário deverá informar CPF e senha e navegar pelo PDF do resultado.
+</p>
+
+### 3.2 Consultar média final do PAS
+
+<p style="text-align: justify;">A verificação de gabaritos sobre uma respectiva prova pelo PAS consiste em pesquisar por uma determinada prova de um ano qualquer na opção PAS|UnB e logo depois clicar na sub-aba Subprogramas do Cebraspe. Essa opção irá listar diversos opções sobre os subprogramas de cada ano, após clicar sobre uma determinada opção irá mostrar vários arquivos sobre as provas, os gabaritos, os editais e outros.
+</p>
+
+## 4. Conclusão
+
+<p style="text-align: justify;">Esse documento visa facilitar a vida do analisador durante a realização das análises das tarefas. Sempre lembrando de manter a consistência entre os diversos pontos estabelecidos.
+</p>
  
 ## 4. Bibliografia
 

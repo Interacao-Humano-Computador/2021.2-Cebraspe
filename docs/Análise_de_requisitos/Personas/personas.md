@@ -7,12 +7,17 @@
 | 24.02.2022 |  0.1   | Criação do documento | Daniel e Ricardo | Gustave |
 | 02.03.2022 |  0.2   |  Correção de erros   |   Ana Carolina   | Ricardo |
 | 12.03.2022 |  0.3   |  Correção de erros   |      Daniel      |    -    |
+| 17.04.2022 |  0.4   |  Correção de erros   |      Daniel      |    -    |
 
 ## 1. Introdução
 
-<p style="text-align: justify;"> Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.</p>
+<p style="text-align: justify;">Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário.</p>
 
-## 2. Personas
+## 2. Metodologia
+
+<p style="text-align: justify;">Para criar as personas foi necessário uma releitura do documento de perfil de usuário. Assim possibilitando a identificação de grupos característicos de usuários. Após a identificação desses grupos e de suas características predominantes, foi utilizado o site thispersondoesnotexist para criar as fotos de cada persona.</p>
+
+## 3. Personas
 
 #### Persona Primária: Nezuko Kamado <a id="NezukoKamado"></a>
 
@@ -199,6 +204,10 @@
 
 <center> <figcaption>Tabela 3: Antipersona.</figcaption> </center>
 
-## 3. Bibliografia
+## 4. Conclusão
+
+<p style="text-align: justify;">Após ler novamente o documento de perfil de usuários e identificar as personas conclui-se que os tipos de usuários do site foram corretamente identificados.</p>
+
+## 5. Bibliografia
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira; **Engenharia de Requisitos**: Software orientado ao negócio. 1. ed. Brasil: Brasport, 2016.

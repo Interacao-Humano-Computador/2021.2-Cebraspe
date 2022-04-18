@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |  Autor  | Revisor |
 | :--------: | :----: | :------------------: | :-----: | :-----: |
 | 12.03.2022 |  0.1   | Criação do documento | Gustave | Daniel  |
+| 17.04.2022 |  0.2   |  Revisão   |      Daniel      |    -    |
 
 ## 1. Introdução
 

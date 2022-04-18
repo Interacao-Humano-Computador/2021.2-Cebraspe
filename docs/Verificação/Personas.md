@@ -6,6 +6,7 @@
 |  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | :----:  |
 | 06.04.2022 | 0.1 | Criação do documento | Ana | Daniel |
+| 17.04.2022 |  0.2   |  Revisão   |      Daniel      |    -    |
 
 ## 1. Introdução
 <p style="text-align: justify;">Usando como método a Inspeção, um checklist foi criado para a verificação de Personas.

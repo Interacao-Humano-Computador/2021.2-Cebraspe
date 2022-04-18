@@ -12,7 +12,12 @@
 A funcionalidade de documento é de registrar as entrevistas que foram feitas a partir das personas já identificadas.
 </p>
 
-## 2. Entrevistas 
+## 2. Metodologia
+<p style="text-indent: 20px; text-align: justify">
+De acordo com Barbosa e Silva (2010), entrevistas permitem ao avaliador coletar dados detalhados e profundos das experiências individuais do grupo de foco. Essa abordagem permite a coleta de muitas informações e possui um formato flexível, que facilita o direcionamento da coleta de dados de acordo com o cenário do usuário.
+</p>
+
+## 3. Entrevistas 
 ### Persona 1 - Nezuko Kamado
 | Número| <center> Pergunta                                  | <center> Opções de resposta                   |
 |:-----:|:---------------------------------------------------|:----------------------------------------------|
@@ -53,3 +58,8 @@ A funcionalidade de documento é de registrar as entrevistas que foram feitas a 
 | 15    | Foi relevante para você? | Sim |
 | 16   | Sua experiência foi interessante? Como foi? | O site de acompanhamento não é uma experiência agradável. |
 
+## 4. Conclusão
+<p style="text-indent: 20px; text-align: justify">Conclui-se, ao realizar a entrevista proposta, que a equipe possui um entendimento correto sobre a usabilidade do site e pode prosseguir com as avaliações para propor melhorias de design à plataforma.</p>
+
+## 5. Bibliografia
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*

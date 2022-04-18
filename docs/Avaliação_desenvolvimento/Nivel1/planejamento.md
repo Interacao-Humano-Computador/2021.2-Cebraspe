@@ -7,7 +7,7 @@
 | 15.03.2022 |  0.1   | Criação do documento | Daniel e Ricardo | Erick   |
 | 15.03.2022 |  0.2   | Revisão do documento | Erick            | -       |
 | 26.03.2022 |  0.3   | Documento refeito    | Ricardo          | Erick   |
-
+| 17.04.2022 |  0.4   |  Correção de erros   |      Daniel      |    -    |
 ## 1. Introdução
 
 <p align="justify">
@@ -94,5 +94,5 @@ Para cada ação, o avaliador deverá responder, justificar a resposta, para as 
 * [Avaliação 1: Consultar média final do PAS](avaliacao1.md)
 * [Avaliação 2: Verificar o Gabarito de uma Prova do PAS](avaliacao2.md)
 
-## Bibliografia
+## 8. Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.*

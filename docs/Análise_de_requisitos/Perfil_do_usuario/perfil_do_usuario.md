@@ -10,6 +10,7 @@
 | 10.03.2022 |  0.4   |            Falar sobre os participantes do questionário no documento Perfil de Usuário             | Ana Carolina | Daniel  |
 | 10.03.2022 |  0.5   |                               Correção de erros do grupo de usuários                               | Ana Carolina | Daniel  |
 | 10.03.2022 |  0.6   | Adicionar um tópico fazendo correlações entre os resultados obtidos no documento Perfil de Usuário | Ana Carolina | Daniel  |
+| 17.04.2022 |  0.7   | Revisão | Daniel | -  |
 
 ## 1. Introdução
 
