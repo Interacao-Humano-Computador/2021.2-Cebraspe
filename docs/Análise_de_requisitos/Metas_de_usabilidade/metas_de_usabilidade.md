@@ -2,10 +2,11 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |      Descrição       |  Autor  | Revisor |
-| :--------: | :----: | :------------------: | :-----: | :-----: |
-| 12.03.2022 |  0.1   | Criação do documento | Gustave | Daniel  |
-| 17.04.2022 |  0.2   |       Revisão        | Daniel  |    -    |
+|    Data    | Versão |       Descrição       |  Autor  | Revisor |
+| :--------: | :----: | :-------------------: | :-----: | :-----: |
+| 12.03.2022 |  0.1   | Criação do documento  | Gustave | Daniel  |
+| 17.04.2022 |  0.2   |        Revisão        | Daniel  |    -    |
+| 18.04.2022 |  0.3   | Correção da monitoria | Gustave |    -    |
 
 ## 1. Introdução
 

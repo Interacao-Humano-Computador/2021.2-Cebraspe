@@ -6,16 +6,17 @@
 | :--------: | :----: | :-------------------: | :------------: | :-----: |
 | 29.03.2022 |  0.1   | Criação do documento  | Gustave, Erick |   Ana   |
 | 30.03.2022 |  0.2   | Criação dos diagramas | Gustave, Erick |   Ana   |
+| 18.04.2022 |  0.3   | Correção da monitoria |    Gustave     |    -    |
 
 ## 1. Introdução
 
-<p style="text-indent: 20px; text-align: justify">
+<p style="text-align: justify">
 A metodologia da prototipagem em papel é amplamente utilizada no processo de criação da interface e é centrada no usuário, da qual permite os desenvolvedores terem uma melhor visão sistêmica da aplicação. Dessa forma, serve também de apoio e consulta não só para os programadores, mas também para os stakeholders avaliarem se o design dessa plataforma atende às expectativas e necessidades do usuário. Além de também auxiliar na criação e testes de interface. O principal objetivo desse processo é de identificar os potenciais problemas de usabilidade através da interação dos usuários do sistema. Sendo, assim, material de consulta no processo da atividade de validação.
 </p>
  
 ## 2. Metodologia
-<p style="text-indent: 20px; text-align: justify">
-A metodologia de produção utilizada para a realização desse documento foi de reunir dois membros da equipe para elaborarem em conjunto um protótipo de baixa fidelidade do Cebraspe, que é o objeto de análise escolhido pelo grupo da disciplina. Dessa forma, a ferramenta que será utilizada na realização dessa tarefa foi o balsamiq - uma plataforma que permite fazer esse tipo de protótipo "em papel".
+<p style=" text-align: justify">
+A metodologia de produção utilizada para a realização desse documento foi de reunir dois membros da equipe para elaborarem em conjunto um protótipo de baixa fidelidade do Cebraspe, que é o objeto de análise escolhido pelo grupo da disciplina. Dessa forma, a ferramenta que será utilizada na realização dessa tarefa foi o <a href="https://balsamiq.com/">balsamiq</a>.  - uma plataforma que permite fazer esse tipo de protótipo "em papel".
 </p>
 
 ## 3. Protótipos
@@ -216,7 +217,7 @@ A metodologia de produção utilizada para a realização desse documento foi de
 
 ## 5. Conclusão
 
-<p style="text-indent: 20px; text-align: justify">
+<p style="text-align: justify">
 É verossímil afirmar que a realização dos protótipos de baixa fidelidade apresentou uma melhor visão sistêmica de usabilidade do Cebraspe. Dessa forma, pode-se concluir que com a produção desses protótipos tornou-se possível analisar e visualizar de forma mais sintática o mapeamento de ações para cada uma das tarefas listadas. Assim, esse documento se torna aplicável para consulta nos processos de avaliação de design e usabilidade.
 </p>
 
