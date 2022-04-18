@@ -2,13 +2,14 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |                                             Descrição                                             |             Autor             | Revisor |
-| :--------: | :----: | :-----------------------------------------------------------------------------------------------: | :---------------------------: | :-----: |
+|    Data    | Versão |  Descrição |  Autor | Revisor |
+| :--------: | :----: | :--------: | :----: | :-----: |
 | 11.02.2022 |  0.1   | Criação do cronograma do projeto, Adição do cronograma específico, Adição de legendas nas imagens | Ana Carolina, Daniel, Ricardo | Gustave |
-| 12.02.2022 |  0.2   |                             Adição do cronograma da primeira entrega                              |         Ana Carolina          |  Erick  |
-| 12.02.2022 |  0.3   |                                       Revisão do documento                                        |        Erick, Gustave         | Ricardo |
+| 12.02.2022 |  0.2   |  Adição do cronograma da primeira entrega |         Ana Carolina          |  Erick  |
+| 12.02.2022 |  0.3   |  Revisão do documento |        Erick, Gustave         | Ricardo |
+| 18.04.2022 |  0.4   |  Correção do artefato: exclusão do objetivo, concerto do espaçamento entre os números e os títulos, adição da conclusão e alteração da numeração dos tópicos  | Ana Carolina  | Ricardo |
 
-## 1.Introdução
+## 1. Introdução
 
 <p align="justify">O documento de metodologia busca descrever as abordagens utilizadas durante o
 processo de desenvolvimento desse projeto. Nele será descrito quais metodologias
@@ -17,12 +18,7 @@ contexto. Esse documento também visa explorar como a equipe se organizou e
 comunicou durante o projeto.
 </p>
 
-## 2.Objetivo
-
-<p align="justify">Esse documento tem como objetivo documentar as metodologias utilizadas, assim
-como todos os processos adotados durante o desenvolvimento do projeto.</p>
-
-## 3.Metodologias
+## 2. Metodologia
 
 <p align="justify">Os métodos ágeis são projetados para produzir software útil rapidamente.
 Eles são baseados no desenvolvimento incremental. Os incrementos são
@@ -38,7 +34,7 @@ metodologias adotadas para o desenvolvimento do projeto relacionam-se
 com os princípios com base no manifesto ágil.
 </p>
 
-## 4.Scrum
+## 3. Scrum
 
 <p align="justify">Scrum é um método ágil, iterativo e incremental para gerenciamento de
 projetos, que não necessariamente precisam ser projetos de
@@ -62,7 +58,7 @@ Review.
 </figcaption>
 </p>
 
-## 4.1.Product backlog
+## 3.1. Product backlog
 
 <p align="justify">Product backlog é um dos artefatos descritos pelo SCRUM. É uma lista
 dinâmica de requisitos do projeto, sendo as atividades e limitações que o
@@ -72,7 +68,7 @@ que descrevem o que deve ser feito e as limitações como o tempo e as
 pessoas alocadas.
 </p>
 
-## 4.2.Sprint
+## 3.2. Sprint
 
 <p align="justify">É uma unidade básica de desenvolvimento na metodologia Scrum. As
 sprints podem durar entre uma semana e um mês, e são um esforço
@@ -82,7 +78,7 @@ trabalho. As nossas sprints foram definidas entre 5 a 7 dias, justamente
 para não ocupar tempo a mais em outras disciplinas.
 </p>
 
-## 4.3.Sprint Planning
+## 3.3. Sprint Planning
 
 <p align="justify">É um evento de planejamento onde será definido quais issues do product
 backlog são as próximas a serem feitas. Como o projeto já está detalhado
@@ -94,7 +90,7 @@ Assim que as atividades são definidas, é adicionado o responsável e a data
 para entrega da sprint.
 </p>
 
-## 4.4.Sprint Review
+## 3.4. Sprint Review
 
 <p align="justify">É um evento de validação e verificação que ocorre antes do Sprint
 Planning. É analisada as entregas das sprints anteriores e a sua qualidade.
@@ -103,7 +99,7 @@ colocada para revisão/correção. Explicitando as dificuldades encontradas e
 quais são as melhorias que devemos fazer
 </p>
 
-## 5.Kanban
+## 4. Kanban
 
 <p align="justify">O método Kanban é projetado para causar mudanças evolutivas em seu
 gerenciamento de maneira não disruptiva. Implementando pequenas
@@ -133,7 +129,7 @@ próximo passo. Por isso, Kanban é chamado de um sistema pull.
 </figcaption>
 </p>
 
-## 6. Extreme Programming (XP)
+## 5. Extreme Programming (XP)
 
 <p align="justify">Extreme Programming, mais conhecido como XP, é uma metodologia
 ágil de desenvolvimento de software que tem como objetivo produzir
@@ -163,6 +159,11 @@ curto intervalo de tempo entre as releases do sistema.
     <b>Figura 3: Ciclo de release da XP.</b>
     <br><small>Fonte: UFMG</small>
 </figcaption>
+</p>
+
+
+## 6. Conclusão
+<p align="justify">De acordo com o que foi decido acima, as formas e maneiras de se estabelecer planos de gerenciamento de atividades, decisão de responsabilidade, estimativa de tempo para a realização das atividades pretendidas e a forma como iremos lidar com as políticas de correção e inserção do repositório da disciplina, foram tomadas por decisão do grupo e esclarecidas que podem ser alteradas ou feitas de outro modo conforme o desenvolvimento do projeto e o cronograma da disciplina.
 </p>
 
 ## 7. Bibliografia
