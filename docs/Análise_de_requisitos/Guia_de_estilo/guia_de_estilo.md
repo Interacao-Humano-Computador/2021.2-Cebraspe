@@ -44,7 +44,7 @@
 
 <p align=justify>O site utiliza grids no html para a disposição do layout das páginas, porém existem modelos diferentes de grids, o que leva a padrões de páginas diferentes e, portanto, faz-se necessário a análise de todos esses modelos. Desse modo, foram separados dois modelos de grids principais no site:</p>
 
-#### 3.1.1. Homepage
+### 3.1.1. Homepage
 
 <p align=justify>A homepage é bem simples, apresentando as principais opções e notícias em destaque primeiramente, e em seguida algumas outras opções e notícias que podem ser de interesse do usuário. Esta página é bem agradável e confortável e por isso mantivemos o mesmo layout do site.</p>
 
@@ -54,7 +54,7 @@
   <br><small><i>Fonte: Autores</i></small>
 </p>
 
-#### 3.1.2. Área de uma opção principal
+### 3.1.2. Área de uma opção principal
 
 <p align=justify>Esta página também é bem simples, conservando alguns elementos do layout da homepage. Contém apenas as informações da opção selecionada previamente no lugar das notícias e sub-opções, o que a torna mais simples e agradável ao usuário.</p>
 
@@ -103,7 +103,7 @@
 
 ### 3.5. Cores
 
-#### 3.5.1. Principais cores
+### 3.5.1. Principais cores
 
 <p align=justify>As cores utilizadas em todo o site seguem o padrão de cores do símbolo do cebraspe e algumas variações delas, como mostra as figuras 3 e 4.</p>
 
