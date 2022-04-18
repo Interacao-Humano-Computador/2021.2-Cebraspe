@@ -2,10 +2,11 @@
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |  Autor  |   Revisor    |
-| :--------: | :----: | :------------------: | :-----: | :----------: |
-| 30.03.2022 |  0.1   | Criação do documento | Ana Carolina | Gustave |
+|    Data    | Versão |       Descrição        |    Autor     | Revisor |
+| :--------: | :----: | :--------------------: | :----------: | :-----: |
+| 30.03.2022 |  0.1   |  Criação do documento  | Ana Carolina | Gustave |
 | 30.03.2022 |  0.2   | Adição da entrevista 3 | Ana Carolina | Gustave |
+| 18.04.2022 |  0.3   | Revisão da v0.1 a v0.2 |   Gustave    |    -    |
 
 ## 1. Vídeo
 

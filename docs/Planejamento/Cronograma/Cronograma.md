@@ -2,18 +2,19 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |  Descrição       | Autor  | Revisor  |
-| :--------: | :----: | :--------------: | :----: | :------: |
+|    Data    | Versão |                                             Descrição                                             |             Autor              |          Revisor          |
+| :--------: | :----: | :-----------------------------------------------------------------------------------------------: | :----------------------------: | :-----------------------: |
 | 11.02.2022 |  0.1   | Criação do cronograma do projeto, Adição do cronograma específico, Adição de legendas nas imagens | Ana Carolina, Daniel e Ricardo |      Erick e Gustave      |
-| 12.02.2022 |  0.2   | Adição do cronograma da primeira entrega  |  Ana Carolina | Daniel, Gustave e Ricardo |
-| 12.02.2022 |  0.3   |   Revisão do documento  | Erick, Gustave |    Ana Carolina, Erick    |
-| 23.02.2022 |  0.4   | Arrumando bibliografia    |  Daniel | Erick |
-| 25.02.2022 |  0.5   | Inclusão do cronograma da segunda entrega |  Ana Carolina | Erick |
-| 10.03.2022 |  0.6   | Inclusão do cronograma da terceira entrega  | Ana Carolina |  Erick |
-| 15.03.2022 |  0.7   | Inclusão do cronograma da quarta entrega | Ana Carolina |  Ricardo |
-| 30.03.2022 |  0.8   | Inclusão do cronograma da quinta entrega  | Ana Carolina  |  Erick  |
-| 06.04.2022 |  0.9   | Inclusão do cronograma da sexta entrega  | Ana Carolina  |  Erick  |
-| 08.04.2022 |  1.0   | Inclusão do cronograma da sétima entrega  | Ana Carolina  |  Erick  |
+| 12.02.2022 |  0.2   |                             Adição do cronograma da primeira entrega                              |          Ana Carolina          | Daniel, Gustave e Ricardo |
+| 12.02.2022 |  0.3   |                                       Revisão do documento                                        |         Erick, Gustave         |    Ana Carolina, Erick    |
+| 23.02.2022 |  0.4   |                                      Arrumando bibliografia                                       |             Daniel             |           Erick           |
+| 25.02.2022 |  0.5   |                             Inclusão do cronograma da segunda entrega                             |          Ana Carolina          |           Erick           |
+| 10.03.2022 |  0.6   |                            Inclusão do cronograma da terceira entrega                             |          Ana Carolina          |           Erick           |
+| 15.03.2022 |  0.7   |                             Inclusão do cronograma da quarta entrega                              |          Ana Carolina          |          Ricardo          |
+| 30.03.2022 |  0.8   |                             Inclusão do cronograma da quinta entrega                              |          Ana Carolina          |           Erick           |
+| 06.04.2022 |  0.9   |                              Inclusão do cronograma da sexta entrega                              |          Ana Carolina          |           Erick           |
+| 08.04.2022 |  1.0   |                             Inclusão do cronograma da sétima entrega                              |          Ana Carolina          |           Erick           |
+| 18.04.2022 |  1.1   |                                       Revisão da v0.1 a 1.0                                       |            Gustave             |             -             |
 
 ## 1. Cronograma geral
 
@@ -72,72 +73,71 @@
 
 ## 5. Quarta entrega
 
-| Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
-| :--------------------------: | :----------------------------: | :--------------------: | :-------: |
-| 14/03 - 16/03 | Ajustes do feedback do monitor |         Todos          |   Todos   |
-| 10/03 | Planejamento do Relato dos resultados da avaliação do Storyboard |      Ana Carolina      |  Gustave  |
-| 15/03 |  Planejamento de Avaliação de Storyboard      |        Gustave         |  Ana Carolina  |
-| 15/03 |  Storyboard |  Erick  |  Ricardo  |
-| 11/03 |  Planejamento de Avaliação de Análise de tarefas         | Daniel e Ricardo |  Erick  |
-| 11/03 |  Planejamento do Relato dos resultados da avaliação de Análise de tarefas | Ricardo |  Erick  |
-| 15/03 |         Ata de reunião         |      Ana Carolina      |  Erick   |
-| 15/03 | Cronograma da quarta entrega   |      Ana Carolina      |   Ricardo   |
+| Data da realização da tarefa |                         Planejamento do projeto                          |   Responsáveis   |  Revisores   |
+| :--------------------------: | :----------------------------------------------------------------------: | :--------------: | :----------: |
+|        14/03 - 16/03         |                      Ajustes do feedback do monitor                      |      Todos       |    Todos     |
+|            10/03             |     Planejamento do Relato dos resultados da avaliação do Storyboard     |   Ana Carolina   |   Gustave    |
+|            15/03             |                 Planejamento de Avaliação de Storyboard                  |     Gustave      | Ana Carolina |
+|            15/03             |                                Storyboard                                |      Erick       |   Ricardo    |
+|            11/03             |             Planejamento de Avaliação de Análise de tarefas              | Daniel e Ricardo |    Erick     |
+|            11/03             | Planejamento do Relato dos resultados da avaliação de Análise de tarefas |     Ricardo      |    Erick     |
+|            15/03             |                              Ata de reunião                              |   Ana Carolina   |    Erick     |
+|            15/03             |                       Cronograma da quarta entrega                       |   Ana Carolina   |   Ricardo    |
 
 <center> <figcaption>Tabela 5: Quarta entrega.</figcaption> </center>
 
 ## 6. Quinta entrega
 
-| Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
-| :--------------------------: | :----------------------------: | :--------------------: | :-------: |
-| 29/03 | Ajustes do feedback do monitor |         Todos          |   Todos   |
-| 24/03 | Fazer o planejamento da avaliação do protótipo de papel |      Daniel      |  Erick  |
-| 30/03 |  Fazer o planejamento do relato do protótipo de papel     |        Ana Carolina         |  Erick  |
-| 25/03 - 27/03 |  Fazer o protótipo de papel |  Gustave e Erick  |  Ana Carolina  |
-| 30/03 |         Ata de reunião         |      Ana Carolina      |  Erick   |
-| 30/03 | Cronograma da quinta entrega   |      Ana Carolina      |   Erick   |
+| Data da realização da tarefa |                 Planejamento do projeto                 |  Responsáveis   |  Revisores   |
+| :--------------------------: | :-----------------------------------------------------: | :-------------: | :----------: |
+|            29/03             |             Ajustes do feedback do monitor              |      Todos      |    Todos     |
+|            24/03             | Fazer o planejamento da avaliação do protótipo de papel |     Daniel      |    Erick     |
+|            30/03             |  Fazer o planejamento do relato do protótipo de papel   |  Ana Carolina   |    Erick     |
+|        25/03 - 27/03         |               Fazer o protótipo de papel                | Gustave e Erick | Ana Carolina |
+|            30/03             |                     Ata de reunião                      |  Ana Carolina   |    Erick     |
+|            30/03             |              Cronograma da quinta entrega               |  Ana Carolina   |    Erick     |
 
 <center> <figcaption>Tabela 6: Quinta entrega.</figcaption> </center>
 
-
 ## 7. Sexta entrega
 
-| Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
-| :--------------------------: | :----------------------------: | :--------------------: | :-------: |
-|06/04| Verificação  | Ana Carolina  | Daniel |
-|06/04| Perfil de Usuário | Daniel  | Gustave |
-|06/04| Personas  | Ana Carolina  | Daniel |
-|06/04| CTT | Ricardo | Gustave |
-|06/04| HTA | Erick | Daniel |
-|06/04| Princípios Gerais | Gustave | Daniel |
-|06/04| Guia de Estilo | Ana Carolina | Ricardo |
-|06/04| Metas de Usabilidade | Ricardo  | Gustave |
-|06/04| Planejamento da Avaliação de Análise de Tarefas | Erick | Gustave |
-|06/04| Entrevista da Análise de tarefas | Erick  | Ana Carolina |
-|06/04|  Planejamento do Relato do Análise de Tarefas | Gustave  | Ricardo |
-|06/04|  Avaliação da T1 | Daniel  | Gustave |
-|06/04|  Avaliação da T2 | Daniel  | Ricardo |
-|06/04|  Planejamento da Avaliação do Storyboard | Erick  | Ricardo |
-|06/04|  Storyboard | Ana Carolina  | Erick |
-|06/04|  Relato dos resultados da avaliação do Storyboard | Gustave | Erick |
-|06/04|  Entrevistas 1,2 e 3 | Daniel  | Erick |
-|06/04|  Planejamento da avaliação do Protótipo de papel | Ricardo  | Gustave |
-|06/04|  Protótipo de baixa fidelidade | Ana Carolina | Erick |
-|06/04|  Planejamento do relato do Protótipo de papel | Ricardo  | Gustave |
-|06/04| Ata da reunião | Ana Carolina | Erick |
-|06/04| Cronograma sexta entrega | Ana Carolina | Ricardo |
+| Data da realização da tarefa |             Planejamento do projeto              | Responsáveis |  Revisores   |
+| :--------------------------: | :----------------------------------------------: | :----------: | :----------: |
+|            06/04             |                   Verificação                    | Ana Carolina |    Daniel    |
+|            06/04             |                Perfil de Usuário                 |    Daniel    |   Gustave    |
+|            06/04             |                     Personas                     | Ana Carolina |    Daniel    |
+|            06/04             |                       CTT                        |   Ricardo    |   Gustave    |
+|            06/04             |                       HTA                        |    Erick     |    Daniel    |
+|            06/04             |                Princípios Gerais                 |   Gustave    |    Daniel    |
+|            06/04             |                  Guia de Estilo                  | Ana Carolina |   Ricardo    |
+|            06/04             |               Metas de Usabilidade               |   Ricardo    |   Gustave    |
+|            06/04             | Planejamento da Avaliação de Análise de Tarefas  |    Erick     |   Gustave    |
+|            06/04             |         Entrevista da Análise de tarefas         |    Erick     | Ana Carolina |
+|            06/04             |   Planejamento do Relato do Análise de Tarefas   |   Gustave    |   Ricardo    |
+|            06/04             |                 Avaliação da T1                  |    Daniel    |   Gustave    |
+|            06/04             |                 Avaliação da T2                  |    Daniel    |   Ricardo    |
+|            06/04             |     Planejamento da Avaliação do Storyboard      |    Erick     |   Ricardo    |
+|            06/04             |                    Storyboard                    | Ana Carolina |    Erick     |
+|            06/04             | Relato dos resultados da avaliação do Storyboard |   Gustave    |    Erick     |
+|            06/04             |               Entrevistas 1,2 e 3                |    Daniel    |    Erick     |
+|            06/04             | Planejamento da avaliação do Protótipo de papel  |   Ricardo    |   Gustave    |
+|            06/04             |          Protótipo de baixa fidelidade           | Ana Carolina |    Erick     |
+|            06/04             |   Planejamento do relato do Protótipo de papel   |   Ricardo    |   Gustave    |
+|            06/04             |                  Ata da reunião                  | Ana Carolina |    Erick     |
+|            06/04             |             Cronograma sexta entrega             | Ana Carolina |   Ricardo    |
 
 <center> <figcaption>Tabela 7: Sexta entrega.</figcaption> </center>
 
 ## 8. Sétima entrega
 
-| Data da realização da tarefa |    Planejamento do projeto     |      Responsáveis      | Revisores |
-| :--------------------------: | :----------------------------: | :--------------------: | :-------: |
-|07/04| Relato dos resultados da avaliação do protótipo de baixa fidelidade | Gustave | Ana Carolina |
-|-| Planejamento da Avaliação do protótipo de alta fidelidade | Ricardo | - |
-|08/04| Protótipo de alta fidelidade | Daniel e Erick | Gustave |
-|08/04| Planejamento da Avaliação do relato dos resultados da avaliação do protótipo de alta fidelidade | Ana Carolina  | - |
-|08/04| Relato dos resultados da avaliação do protótipo de alta fidelidade | Ana Carolina | - |
-|08/04| Cronograma da sétima entrega | Ana Carolina | Ricardo |
+| Data da realização da tarefa |                                     Planejamento do projeto                                     |  Responsáveis  |  Revisores   |
+| :--------------------------: | :---------------------------------------------------------------------------------------------: | :------------: | :----------: |
+|            07/04             |               Relato dos resultados da avaliação do protótipo de baixa fidelidade               |    Gustave     | Ana Carolina |
+|              -               |                    Planejamento da Avaliação do protótipo de alta fidelidade                    |    Ricardo     |      -       |
+|            08/04             |                                  Protótipo de alta fidelidade                                   | Daniel e Erick |   Gustave    |
+|            08/04             | Planejamento da Avaliação do relato dos resultados da avaliação do protótipo de alta fidelidade |  Ana Carolina  |      -       |
+|            08/04             |               Relato dos resultados da avaliação do protótipo de alta fidelidade                |  Ana Carolina  |      -       |
+|            08/04             |                                  Cronograma da sétima entrega                                   |  Ana Carolina  |   Ricardo    |
 
 <center> <figcaption>Tabela 8: Sétima entrega.</figcaption> </center>
 

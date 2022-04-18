@@ -2,25 +2,27 @@
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |  Autor  |   Revisor    |
-| :--------: | :----: | :------------------: | :-----: | :----------: |
-| 16.03.2022 |  0.1   | Criação do documento | Ana Carolina | Gustave |
-| 16.03.2022 |  0.2   | Adição da entrevista 1 | Ana Carolina | Gustave |
-| 16.03.2022 |  0.3   | Adição da entrevista 2 | Ana Carolina | Gustave |
-| 16.03.2022 |  0.4   | Adição da entrevista 3 | Ana Carolina | Gustave |
-| 16.03.2022 |  0.5   | Adição da entrevista 4 | Ana Carolina | Gustave |
-| 30.03.2022 |  0.6   | Edição das entrevistas | Ana Carolina | Erick |
-| 30.03.2022 |  0.7   | Inclusão dos tópicos de participantes, ambiente e sumário | Ana Carolina | Erick |
-| 30.03.2022 |  0.8   | Correção da conclusão | Ana Carolina | Erick |
-| 30.03.2022 |  0.9   | Separação das entrevistas | Ana Carolina | Erick |
-| 18.04.2022 |  1.0   | Correção dos links quebrados | Ana Carolina | Ricardo |
-
+|    Data    | Versão |                         Descrição                         |    Autor     | Revisor |
+| :--------: | :----: | :-------------------------------------------------------: | :----------: | :-----: |
+| 16.03.2022 |  0.1   |                   Criação do documento                    | Ana Carolina | Gustave |
+| 16.03.2022 |  0.2   |                  Adição da entrevista 1                   | Ana Carolina | Gustave |
+| 16.03.2022 |  0.3   |                  Adição da entrevista 2                   | Ana Carolina | Gustave |
+| 16.03.2022 |  0.4   |                  Adição da entrevista 3                   | Ana Carolina | Gustave |
+| 16.03.2022 |  0.5   |                  Adição da entrevista 4                   | Ana Carolina | Gustave |
+| 30.03.2022 |  0.6   |                  Edição das entrevistas                   | Ana Carolina |  Erick  |
+| 30.03.2022 |  0.7   | Inclusão dos tópicos de participantes, ambiente e sumário | Ana Carolina |  Erick  |
+| 30.03.2022 |  0.8   |                   Correção da conclusão                   | Ana Carolina |  Erick  |
+| 30.03.2022 |  0.9   |                 Separação das entrevistas                 | Ana Carolina |  Erick  |
+| 18.04.2022 |  1.0   |               Correção dos links quebrados                | Ana Carolina | Ricardo |
+| 18.04.2022 |  1.1   |                  Revisão da v0.1 a v1.0                   |   Gustave    |    -    |
 
 ## 1. Introdução
+
 <p style="text-align: justify;">"A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. Ela orienta o avaliador a fazer um julgamento de valor sobre a qualidade de uso da solução de IHC e a identificar problemas na interação e na interface que prejudiquem a experiência particular do usuário durante o uso do sistema. Assim, é possível corrigir os problemas relacionados com a qualidade de uso antes de inserir o sistema interativo no cotidiano dos usuários, seja um sistema novo ou uma nova versão de algum sistema existente." (Barbosa e Silva, 2019, p. 286). O objetivo deste documento é validar se os contextos descritos pelos storyboards representam a realidade vivenciada pelos usuários do Cebraspe. As informações detalhadas a respeito do planejamento e das perguntas que serão realizadas durante as entrevistas podem ser verificadas no planejamento da avaliação dos storyboards.
 </p>
 
 ## 2. Metodologia
+
 <p style="text-align: justify;">O storyboard é um tipo de protótipo de baixa fidelidade e consiste em uma série de desenhos que demonstram como o usuário podem progredir em uma tarefa utilizando o produto que está sendo desenvolvido ou avaliado. Os storyboards criados para este projeto representam contextos em que o sistema pode ser utilizado para que os usuários atinjam os objetivos de "consultar o gabarito do PAS", "Inscrever-se em um concurso" e "Ingressar na UnB".  Para verificar o Storyboard levantamos um roteiro de perguntas anteriormente no planejamento.
 </p>
 
@@ -37,6 +39,7 @@
 - Maicon, aluno do 5º semestre do curso de Engenharia de software da UnB (satisfazendo o perfil de usuário de estudante);
 
 ## 4. Ambiente de avaliação
+
 <p style="text-align: justify;">Para a realização das entrevistas escolhemos realizá-las remotamente, para cumprir com as normas de saúde vigentes atualmente, por motivo da pandemia do Covid-19. Os entrevistados voluntários necessitaram de utilizar seus próprios equipamentos, no caso, seus computadores ou smartphones, para a realização da entrevista. As ferramentas e requisitos para participação pelos voluntários foi:
 </p>
 
@@ -47,6 +50,7 @@
 - Ferramenta para gravar a reunião: OBS Studio.
 
 ## 5. Sumário dos dados coletados
+
 As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
 
 - Entrevista com o Welligton Jonathan: [Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel1/entrevista1/)
@@ -74,11 +78,12 @@ As entrevistas realizadas pelo grupo estão disponíveis para a visualização p
 </p>
 
 ## 7. Conclusão
+
 <p style="text-align: justify;">Após realizadas todas as entrevistas, podemos perceber que de acordo com as declarações dos participantes os storyboards tem que passar por algumas melhorias para integrar, intensificar e chegar mais próximo da realidade do que seria no site. Durante a entrevista não obtivemos relatos de erros nos storyboards, isso foi por que na realização dos storyboards relatamos apenas como seria a interação com o site do Cebraspe, tendo a implementação de soluções acerca dos erros mostrados durante todo esse projeto, e assim, durante as entrevistas, os participantes na maioria de suas respostas acerca da proximidade com a realidade do site atual não compararam com a realidade do site. Portanto, a partir de agora a equipe possui um entendimento mais aprofundado e detalhado sobre a usabilidade do site do Cebraspe e nos propomos a implementar as mudanças propostas como melhorias de design à plataforma que devem poder prosseguir para a fase de verificação dos artefatos.
 </p>
 
 ## 8. Bibliografia
 
->BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
->BCE. Disponível em:https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_4/plan_aval_storyboard. Acesso em: 16/03/2022.
+> BCE. Disponível em:https://interacao-humano-computador.github.io/2020.1-BCE/#/pages/ponto_de_controle_4/plan_aval_storyboard. Acesso em: 16/03/2022.

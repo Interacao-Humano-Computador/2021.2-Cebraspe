@@ -2,12 +2,13 @@
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |      Autor       | Revisor |
-| :--------: | :----: | :------------------: | :--------------: | :-----: |
-| 24.02.2022 |  0.1   | Criação do documento | Daniel e Ricardo | Gustave |
-| 02.03.2022 |  0.2   |  Correção de erros   |   Ana Carolina   | Ricardo |
-| 12.03.2022 |  0.3   |  Correção de erros   |      Daniel      |    -    |
-| 17.04.2022 |  0.4   |  Correção de erros   |      Daniel      |    -    |
+|    Data    | Versão |       Descrição        |      Autor       | Revisor |
+| :--------: | :----: | :--------------------: | :--------------: | :-----: |
+| 24.02.2022 |  0.1   |  Criação do documento  | Daniel e Ricardo | Gustave |
+| 02.03.2022 |  0.2   |   Correção de erros    |   Ana Carolina   | Ricardo |
+| 12.03.2022 |  0.3   |   Correção de erros    |      Daniel      |    -    |
+| 17.04.2022 |  0.4   |   Correção de erros    |      Daniel      |    -    |
+| 18.04.2022 |  0.5   | Revisão da v0.1 a v0.4 |     Gustave      |    -    |
 
 ## 1. Introdução
 

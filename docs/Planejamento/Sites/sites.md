@@ -2,13 +2,14 @@
 
 ### Histórico de Versão
 
-|    Data    | Versão |                   Descrição                    |            Autor            |     Revisor     |
-| :--------: | :----: | :--------------------------------------------: | :-------------------------: | :-------------: |
-| 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto |       Gustave, Erick        |     Daniel      |
-| 12.02.2022 |  0.2   |              Revisão do documento              |    Ana Carolina, Daniel     |        -        |
-| 23.02.2022 |  0.3   |             Correções ortográficas             |            Erick            |     Gustave     |
-| 23.02.2022 |  0.4   |              Revisão do documento              |           Gustave           |        -        |
-| 17.04.2022 |  0.5   |     Corrigindo nomenclatura dos tópicos        |            Erick            |     Ricardo     |
+|    Data    | Versão |                   Descrição                    |        Autor         | Revisor |
+| :--------: | :----: | :--------------------------------------------: | :------------------: | :-----: |
+| 10.02.2022 |  0.1   | Documentação da escolha do site para o projeto |    Gustave, Erick    | Daniel  |
+| 12.02.2022 |  0.2   |              Revisão do documento              | Ana Carolina, Daniel |    -    |
+| 23.02.2022 |  0.3   |             Correções ortográficas             |        Erick         | Gustave |
+| 23.02.2022 |  0.4   |              Revisão do documento              |       Gustave        |    -    |
+| 17.04.2022 |  0.5   |      Corrigindo nomenclatura dos tópicos       |        Erick         | Ricardo |
+| 18.04.2022 |  0.6   |             Revisão da v0.1 a v0.5             |       Gustave        |    -    |
 
   </br>
  

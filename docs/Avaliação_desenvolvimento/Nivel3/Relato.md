@@ -2,20 +2,21 @@
 
 ## Histórico de Versão
 
-|    Data    | Versão |      Descrição       |  Autor  |   Revisor    |
-| :--------: | :----: | :------------------: | :-----: | :----------: |
-| 09.04.2022 |  0.1   | Criação do documento | Ana Carolina | Gustave |
-| 11.04.2022 |  0.2   | Adição do relato da entrevista 2 | Ana Carolina | Gustave |
-| 18.04.2022 |  0.2   | Inclusão do relato da entrevista 1 | Ana Carolina | Gustave |
-| 18.04.2022 |  0.3   | Inclusão da conclusão | Ana Carolina | Gustave |
-
+|    Data    | Versão |             Descrição              |    Autor     | Revisor |
+| :--------: | :----: | :--------------------------------: | :----------: | :-----: |
+| 09.04.2022 |  0.1   |        Criação do documento        | Ana Carolina | Gustave |
+| 11.04.2022 |  0.2   |  Adição do relato da entrevista 2  | Ana Carolina | Gustave |
+| 18.04.2022 |  0.3   | Inclusão do relato da entrevista 1 | Ana Carolina | Gustave |
+| 18.04.2022 |  0.4   |       Inclusão da conclusão        | Ana Carolina | Gustave |
+| 18.04.2022 |  0.5   |       Revisão da v0.1 a v0.4       |   Gustave    |    -    |
 
 ## 1. Introdução
+
 <p style="text-align: justify;">Esse documento contém os resultados das entrevistas realizadas. Em cada entrevista será apresentado o vídeo da entrevista, as informações obtidas de cada um dos participantes, e as conclusões do entrevistador.
 </p>
 
-
 ## 2. Metodologia
+
 <p style="text-align: justify;">De acordo com Barbosa e Silva (2010), entrevistas permitem ao avaliador coletar dados detalhados e profundos das experiências individuais do grupo de foco. Essa abordagem permite a coleta de muitas informações e possui um formato flexível, que facilita o direcionamento da coleta de dados de acordo com o cenário do usuário.
 </p>
 
@@ -33,11 +34,8 @@
 - Augusto Gabriel, ex-aluno do curso de Arquitetura do Uniceub (que satisfaz o perfil de usuário de estudante);
 - Maicon, aluno do 5º semestre do curso de Engenharia de software da UnB (satisfazendo o perfil de usuário de estudante);
 
-
 <p style="text-align: justify;"> De acordo com Nielsen a quantidade necessária de participantes para realizar a entrevista é cinco participantes. Mostrando que com 5 participantes é possível encontrar 80% dos problemas de uma interface. Com isso é importante salientar que a quantidade de participantes alcançadas pelo grupo para a realização dessa entrevista foi acreditarmos que o número dois seria necessário para que cada pessoa realizasse uma tarefa especifica.
-</p> 
-
-
+</p>
 
 ## 4. Ambiente de avaliação
 
@@ -57,6 +55,7 @@
 
 - Entrevista com o Augusto Gabriel: [Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel3/teste_piloto/)
 - Entrevista com o Maicon: [Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel3/Entrevista1/)
+
 ## 6. Entrevistas
 
 <p style="text-align: justify;">O resultados serão relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo definiu no planejamento.
@@ -73,8 +72,10 @@
 </p>
 
 ## 7. Conclusão
+
 <p style="text-align: justify;">Após realizados o teste piloto e a entrevista, podemos perceber que de acordo com as declarações dos participantes o protótipo de alta fidelidade está bem feito e com atividades claras e simples. Não obtivemos dificuldades ou desencontros com as atividades propostas, nem menos com a realização das atividades no protótipo. Uma pequena dificuldade encontrada foi apenas pelo fato do usuário do teste piloto não ter se lembrado da sua senha e a atualização de senha da plataforma demora muito, então fizemos o empréstimo de uma conta para que ele pudesse realizar as atividades propostas. Portanto, a ideia do planejamento do protótipo se fez de maneira correta e concluímos fazendo novamente a verificação de artefatos que não foram feitos anteriormente.
 </p>
 
 ## 8. Bibliografia
->BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
+
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
