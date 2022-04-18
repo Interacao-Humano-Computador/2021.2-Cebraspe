@@ -13,6 +13,7 @@
 | 30.03.2022 |  0.7   | Inclusão dos tópicos de participantes, ambiente e sumário | Ana Carolina | Erick |
 | 30.03.2022 |  0.8   | Correção da conclusão | Ana Carolina | Erick |
 | 30.03.2022 |  0.9   | Separação das entrevistas | Ana Carolina | Erick |
+| 18.04.2022 |  1.0   | Correção dos links quebrados | Ana Carolina | Ricardo |
 
 
 ## 1. Introdução
