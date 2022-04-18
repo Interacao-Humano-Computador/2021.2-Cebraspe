@@ -1,39 +1,40 @@
-## Guia de Estilo
+# Guia de Estilo
 
 ## Histórico de Versão
 
-| Versão | Data       | Modificação                  | Autor                   | Revisor |
-| ------ | ---------- | ---------------------------- | ----------------------- | ------- |
-| 0.1    | 10/03/2022 | Criação do documento         | Daniel, Erick e Ricardo | Gustave |
-| 0.2    | 11/03/2022 | Atualização do documento     | Daniel, Erick e Ricardo | Gustave |
-| 0.3    | 12/03/2022 | Arrumando cores              | Daniel, Erick e Ricardo | Gustave |
-| 0.4    | 14/03/2022 | Revisão da v0.1, v0.2 e v0.3 | Gustave                 | -       |
+| Data       | Versão | Modificação                        | Autor                   | Revisor      |
+| ---------- | ------ | ---------------------------------- | ----------------------- | ------------ |
+| 10.03.2022 | 0.1    | Criação do documento               | Daniel, Erick e Ricardo | Gustave      |
+| 11.03.2022 | 0.2    | Atualização do documento           | Daniel, Erick e Ricardo | Gustave      |
+| 12.03.2022 | 0.3    | Arrumando cores                    | Daniel, Erick e Ricardo | Gustave      |
+| 14.03.2022 | 0.4    | Revisão da v0.1, v0.2 e v0.3       | Gustave                 | -            |
+| 18.04.2022 | 0.5    | Correção da estrutura do documento | Erick                   | Ana Carolina |
 
-### 1. Introdução
+## 1. Introdução
 
-### 1.1 Objetivo do guia de estilo
+## 1.1. Objetivo do guia de estilo
 
 <p align=justify>Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto.</p>
 
-### 1.2 Organização e conteúdo do guia de estilo
+### 1.2. Organização e conteúdo do guia de estilo
 
 <p align=justify>Para organização do guia de estilo, teremos como base o ciclo de vida de Mayhew, o que sugere que o guia de estilo seja refinado a cada ciclo.</p>
 
-### 1.3 Público alvo do guia de estilo
+### 1.3. Público alvo do guia de estilo
 
 <p align=justify>O público alvo deste guia de estilo são os membros deste grupo e possíveis desenvolvedores que desejarem realizar correções nos elementos identificados.</p>
 
-### 1.4 Como utilizar o guia
+### 1.4. Como utilizar o guia
 
 <p align=justify>Este guia deve ser utilizado para a elaboração do protótipo e a melhoria do site, a cada etapa dentro do ciclo de Mayhew deve-se aplicar este guia de estilo ao projeto.</p>
 
-### 1.5 Como manter o guia
+### 1.5. Como manter o guia
 
 <p align=justify>Como determina o cilco de Meyhew, o guia vai sendo atualizado ao final de cada etapa, tornando-se assim possível a sua evolução no decorrer do projeto.</p>
 
 ## 2. Resultado da análise
 
-### 2.1 Descrição do ambiente de trabalho
+### 2.1. Descrição do ambiente de trabalho
 
 <p align=justify>Após o levantamento e análise do guia de estilo, por ser um site baseado em avaliações, ele contém informações de acompanhamento de certames já iniciados ou se pretender se inscrever em algum que esteja aberto, logo abaixo temos várias informações acerca do institucional do cebraspe, concursos, certificações e acesso a universidade, sendo que a página de acompanhamento carece de informações, tela muito vaga e algumas melhorias para a plataforma mobile, assim infringindo diversas metas de usabilidade e características essenciais.</p>
 
@@ -102,7 +103,7 @@
 
 ### 3.5. Cores
 
-#### 3.5.1 Principais cores
+#### 3.5.1. Principais cores
 
 <p align=justify>As cores utilizadas em todo o site seguem o padrão de cores do símbolo do cebraspe e algumas variações delas, como mostra as figuras 3 e 4.</p>
 
@@ -138,33 +139,33 @@ No site são utilizados os seguintes tipos de interação
 
 ### 4.2. Seleção de um estilo
 
-<p style="text-indent: 20px;" align=justify>
+<p align=justify>
 O estilo que se encontra predominante por todo o site é o de menu.
 </p>
 
 ### 4.3. Aceleradores (teclas de atalho)
 
-<p style="text-indent: 20px;" align=justify>
+<p align=justify>
 O site não possui nenhuma tecla de atalho.
 </p>
 
-## 5 Elementos de ação
+## 5. Elementos de ação
 
 ### 5.1. Preenchimento de campos
 
-<p style="text-indent: 20px;" align=justify>
+<p align=justify>
 Os campos de preenchimento que aparecem por todo o site, e devem ser preenchido manualmente, não existe a opção de preenchimento automático.
 </p>
 
 ### 5.2. Seleção
 
-<p style="text-indent: 20px;" align=justify>
+<p align=justify>
 Algumas seleções são bloqueadas no site, tanto por questões de creedenciais necessitando estar logado para fazer o uso, quanto por questões de disponibilidade, como por exemplo se a inscrição de um curso está aberta.
 </p>
 
 ### 5.3. Ativação
 
-<p style="text-indent: 20px;" align=justify>
+<p align=justify>
 O usuário tem uma série de limitações pelo site necessitando estar logado para ter acesso completo as funcionalidades disponíveis.
 </p>
 
@@ -172,22 +173,27 @@ O usuário tem uma série de limitações pelo site necessitando estar logado pa
 
 ### 6.1. Terminologia
 
-<p style="text-indent: 20px;" align=justify>
+<p align=justify>
 Apesar de possuir uma liguagem de grande maioria bem simplificada, possui alguns termos técnicos. Porém, na páginal inicial do site, todos os termos são bem simples e de fácil entendimento para quem novos usuários que não possuem tanta capacidade técnica.
 </p>
 
 ### 6.2. Tipos de tela
 
-<p style="text-indent: 20px;" align=justify>
+<p align=justify>
 É utilizado a tela padrão na maioria de suas páginas dando ao usuário mais conforto e facilidade na interação. Porém isso não é verdade na página de acompanhamento de seleções e na página inicial. Na página de acompanhamento todo o layout da seção muda fazendo com que o usuário tenha dificuldade para se adaptar ao site, tendo que aprender como funciona e na página inicial apesar da navbar se manter todas os locais que as informações deveriam se manter, segundo a tela padrão são trocados.
 </p>
 
 ### 6.3. Sequências de diálogos
 
-<p style="text-indent: 20px;" align=justify>
+<p align=justify>
 Existe uma sequência de diálogos apenas na opção de se cadastrar em um curso, em que é necessário responder uma sequência de diálogos que vão sendo apresentados para conseguir se cadastrar.
 </p>
 
-## Bibliografia
+## 7. Conclusão
+
+<p align=justify> Com base no conteúdo apresentado, é possível avaliar o novo estilo e o design do site que seria agradável para o usuário, deixando-o menos confuso na execução das tarefas. Portanto, isso permite a elaboração de documentos mais complexos como um protótipo de alta fidelidade, a partir da utilização do design citado neste documento.
+</p>
+
+## 8. Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
