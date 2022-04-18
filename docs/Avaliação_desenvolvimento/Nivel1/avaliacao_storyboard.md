@@ -48,9 +48,9 @@
 ## 5. Sumário dos dados coletados
 As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo:
 
-- Entrevista com o Welligton Jonathan: [link](/docs/Avaliação_desenvolvimento/Nivel1/entrevista1.md)
-- Entrevista com a Thaísa Martins:[link](/docs/Avaliação_desenvolvimento/Nivel1/entrevista2.md)
-- Entrevista com o Maicon: [link](/docs/Avaliação_desenvolvimento/Nivel1/entrevista3.md)
+- Entrevista com o Welligton Jonathan: [Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel1/entrevista1/)
+- Entrevista com a Thaísa Martins:[Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel1/entrevista2/)
+- Entrevista com o Maicon: [Vídeo](https://interacao-humano-computador.github.io/2021.2-Cebraspe/Avalia%C3%A7%C3%A3o_desenvolvimento/Nivel1/entrevista3/)
 
 ## 6. Entrevistas
 
