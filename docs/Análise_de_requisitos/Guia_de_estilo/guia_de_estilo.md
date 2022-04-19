@@ -12,39 +12,37 @@
 
 ## 1. Introdução
 
-## 1.1. Objetivo do guia de estilo
-
 <p align=justify>Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. Guias de estilo servem de ferramenta de comunicação entre os membros da equipe de design e também com a equipe de desenvolvimento. É importante que as decisões de design possam ser facilmente consultadas e reutilizadas nas discussões sobre extensões ou versões futuras do produto.</p>
 
-### 1.2. Organização e conteúdo do guia de estilo
+### 2. Metodologia
 
 <p align=justify>Para organização do guia de estilo, teremos como base o ciclo de vida de Mayhew, o que sugere que o guia de estilo seja refinado a cada ciclo.</p>
 
-### 1.3. Público alvo do guia de estilo
+### 2.1. Público alvo do guia de estilo
 
 <p align=justify>O público alvo deste guia de estilo são os membros deste grupo e possíveis desenvolvedores que desejarem realizar correções nos elementos identificados.</p>
 
-### 1.4. Como utilizar o guia
+### 2.2. Como utilizar o guia
 
 <p align=justify>Este guia deve ser utilizado para a elaboração do protótipo e a melhoria do site, a cada etapa dentro do ciclo de Mayhew deve-se aplicar este guia de estilo ao projeto.</p>
 
-### 1.5. Como manter o guia
+### 2.3. Como manter o guia
 
 <p align=justify>Como determina o cilco de Meyhew, o guia vai sendo atualizado ao final de cada etapa, tornando-se assim possível a sua evolução no decorrer do projeto.</p>
 
-## 2. Resultado da análise
+## 3. Resultado da análise
 
-### 2.1. Descrição do ambiente de trabalho
+### 3.1. Descrição do ambiente de trabalho
 
 <p align=justify>Após o levantamento e análise do guia de estilo, por ser um site baseado em avaliações, ele contém informações de acompanhamento de certames já iniciados ou se pretender se inscrever em algum que esteja aberto, logo abaixo temos várias informações acerca do institucional do cebraspe, concursos, certificações e acesso a universidade, sendo que a página de acompanhamento carece de informações, tela muito vaga e algumas melhorias para a plataforma mobile, assim infringindo diversas metas de usabilidade e características essenciais.</p>
 
-## 3. Elementos de interface
+## 4. Elementos de interface
 
-### 3.1. Disposição espacial e grid
+### 4.1. Disposição espacial e grid
 
 <p align=justify>O site utiliza grids no html para a disposição do layout das páginas, porém existem modelos diferentes de grids, o que leva a padrões de páginas diferentes e, portanto, faz-se necessário a análise de todos esses modelos. Desse modo, foram separados dois modelos de grids principais no site:</p>
 
-### 3.1.1. Homepage
+### 4.1.1. Homepage
 
 <p align=justify>A homepage é bem simples, apresentando as principais opções e notícias em destaque primeiramente, e em seguida algumas outras opções e notícias que podem ser de interesse do usuário. Esta página é bem agradável e confortável e por isso mantivemos o mesmo layout do site.</p>
 
@@ -54,7 +52,7 @@
   <br><small><i>Fonte: Autores</i></small>
 </p>
 
-### 3.1.2. Área de uma opção principal
+### 4.1.2. Área de uma opção principal
 
 <p align=justify>Esta página também é bem simples, conservando alguns elementos do layout da homepage. Contém apenas as informações da opção selecionada previamente no lugar das notícias e sub-opções, o que a torna mais simples e agradável ao usuário.</p>
 
@@ -64,11 +62,11 @@
   <br><small><i>Fonte: Autores</i></small>
 </p>
 
-### 3.2. Janelas
+### 4.2. Janelas
 
 <p align=justify>Os protótipos possuirão as mesmas janelas do site original, com exceção da janela da página de acompanhamento, por possuir muito espaço livre sem necessidade, o que pode causar uma frustração no usuário.</p>
 
-### 3.3. Tipografia
+### 4.3. Tipografia
 
 <p align=justify>A tipografia do site utiliza três fontes principais e são elas:
 <ul>
@@ -78,7 +76,7 @@
 </ul>
 </p>
 
-### 3.4. Símbolos não tipográficos
+### 4.4. Símbolos não tipográficos
 
 <table>
     <tr>
@@ -101,9 +99,9 @@
     </tr>
 </table>
 
-### 3.5. Cores
+### 4.5. Cores
 
-### 3.5.1. Principais cores
+### 4.5.1. Principais cores
 
 <p align=justify>As cores utilizadas em todo o site seguem o padrão de cores do símbolo do cebraspe e algumas variações delas, como mostra as figuras 3 e 4.</p>
 
@@ -119,13 +117,13 @@
   <br><small><i>Fonte: Autores</i></small>
 </p>
 
-### 3.6. Animações
+### 4.6. Animações
 
 <p align=justify>Para manter o site mais simples e objetivo para o usuário, não há necessidade de animações no site, portanto, nossos protótipos não terão animações.</p>
 
-## 4. Elementos de interação
+## 5. Elementos de interação
 
-### 4.1. Estilos de interação
+### 5.1. Estilos de interação
 
 <p align=justify>
 No site são utilizados os seguintes tipos de interação
@@ -137,63 +135,63 @@ No site são utilizados os seguintes tipos de interação
 </ul>
 </p>
 
-### 4.2. Seleção de um estilo
+### 5.2. Seleção de um estilo
 
 <p align=justify>
 O estilo que se encontra predominante por todo o site é o de menu.
 </p>
 
-### 4.3. Aceleradores (teclas de atalho)
+### 5.3. Aceleradores (teclas de atalho)
 
 <p align=justify>
 O site não possui nenhuma tecla de atalho.
 </p>
 
-## 5. Elementos de ação
+## 6. Elementos de ação
 
-### 5.1. Preenchimento de campos
+### 6.1. Preenchimento de campos
 
 <p align=justify>
 Os campos de preenchimento que aparecem por todo o site, e devem ser preenchido manualmente, não existe a opção de preenchimento automático.
 </p>
 
-### 5.2. Seleção
+### 6.2. Seleção
 
 <p align=justify>
 Algumas seleções são bloqueadas no site, tanto por questões de creedenciais necessitando estar logado para fazer o uso, quanto por questões de disponibilidade, como por exemplo se a inscrição de um curso está aberta.
 </p>
 
-### 5.3. Ativação
+### 6.3. Ativação
 
 <p align=justify>
 O usuário tem uma série de limitações pelo site necessitando estar logado para ter acesso completo as funcionalidades disponíveis.
 </p>
 
-## 6. Vocabulário e padrões
+## 7. Vocabulário e padrões
 
-### 6.1. Terminologia
+### 7.1. Terminologia
 
 <p align=justify>
 Apesar de possuir uma liguagem de grande maioria bem simplificada, possui alguns termos técnicos. Porém, na páginal inicial do site, todos os termos são bem simples e de fácil entendimento para quem novos usuários que não possuem tanta capacidade técnica.
 </p>
 
-### 6.2. Tipos de tela
+### 7.2. Tipos de tela
 
 <p align=justify>
 É utilizado a tela padrão na maioria de suas páginas dando ao usuário mais conforto e facilidade na interação. Porém isso não é verdade na página de acompanhamento de seleções e na página inicial. Na página de acompanhamento todo o layout da seção muda fazendo com que o usuário tenha dificuldade para se adaptar ao site, tendo que aprender como funciona e na página inicial apesar da navbar se manter todas os locais que as informações deveriam se manter, segundo a tela padrão são trocados.
 </p>
 
-### 6.3. Sequências de diálogos
+### 7.3. Sequências de diálogos
 
 <p align=justify>
 Existe uma sequência de diálogos apenas na opção de se cadastrar em um curso, em que é necessário responder uma sequência de diálogos que vão sendo apresentados para conseguir se cadastrar.
 </p>
 
-## 7. Conclusão
+## 8. Conclusão
 
 <p align=justify> Com base no conteúdo apresentado, é possível avaliar o novo estilo e o design do site que seria agradável para o usuário, deixando-o menos confuso na execução das tarefas. Portanto, isso permite a elaboração de documentos mais complexos como um protótipo de alta fidelidade, a partir da utilização do design citado neste documento.
 </p>
 
-## 8. Bibliografia
+## 9. Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
