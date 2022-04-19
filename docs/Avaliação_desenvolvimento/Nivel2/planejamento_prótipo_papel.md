@@ -6,14 +6,15 @@
 | :--------: | :----: | :------------------: | :--------------: | :-----: |
 | 27.03.2022 |  0.1   | Criação do documento |      Daniel     | Erick   |
 | 17.04.2022 |  0.2   |  Correção de erros   |      Daniel      |    -    |
+| 19.04.2022 | 0.3 | Revisão do documento | Erick | - | 
 
 ## 1. Introdução
 
-<p style="text-indent: 20px; text-align: justify">O objetivo desse documento é definir as etapas e processos da avaliação do protótipo em papel, com o objetivo de obter o máximo de eficiência possível além de se obter dados claros e objetivos.
+<p style="text-align: justify">O objetivo desse documento é definir as etapas e processos da avaliação do protótipo em papel, com o objetivo de obter o máximo de eficiência possível além de se obter dados claros e objetivos.
 </p>
  
 ## 2. Metodologia
-<p style="text-indent: 20px; text-align: justify">O planejamento de avaliação do protótipo em papel foi baseado nas informações do Capítulo 10 do livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Logo, o escopo da avaliação será composto pelas etapas de preparação, coleta interpretação de dados, consolidação dos resultados e relato dos resultados.
+<p style="text-align: justify">O planejamento de avaliação do protótipo em papel foi baseado nas informações do Capítulo 10 do livro Interação Humano-Computador de Simone Barbosa e Bruno Silva. Logo, o escopo da avaliação será composto pelas etapas de preparação, coleta interpretação de dados, consolidação dos resultados e relato dos resultados.
 </p>
  
 | Atividade | <p style="text-indent: 20px;">Tarefa</p> |
@@ -29,10 +30,10 @@
  
 ## 3. Termo de consentimento
 
-<p style="text-indent: 20px; text-align: justify">O seguinte termo de consentimento deve ser apresentado ao voluntário para que este o aceite e esteja ciente do funcionamento das atividades e ao o que se destina a coleta de dados a ser realizada.
+<p style="text-align: justify">O seguinte termo de consentimento deve ser apresentado ao voluntário para que este o aceite e esteja ciente do funcionamento das atividades e ao o que se destina a coleta de dados a ser realizada.
 </p>
 
-<p style="text-indent: 20px; text-align: justify">Somos o grupo 1 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise do site do Cebraspe. Buscamos conhecer melhor o que o usuário deseja da plataforma e alinhar a interface com o cliente final do produto. O grupo realizará pesquisas, dentre elas as entrevistas. Para confirmar o seu consentimento de participação nesta atividade é de suma importância a ciência dos seguintes aspectos: 
+<p style="text-align: justify">Somos o grupo 1 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise do site do Cebraspe. Buscamos conhecer melhor o que o usuário deseja da plataforma e alinhar a interface com o cliente final do produto. O grupo realizará pesquisas, dentre elas as entrevistas. Para confirmar o seu consentimento de participação nesta atividade é de suma importância a ciência dos seguintes aspectos: 
 </p>
 
 <ul><li>Os dados coletados durante a entrevista serão destinados somente para fins acadêmicos e equipe de interface do site do Cebraspe.</li></ul>
@@ -45,7 +46,7 @@
 
 <ul><li>Nossa equipe encontra-se disponível para contato através do e-mail 190026375@aluno.unb.br.</li></ul>
 
-<p style="text-indent: 20px; text-align: justify">
+<p style="text-align: justify">
 Mediante esclarecimentos apresentados a equipe solicita do entrevistado as seguintes declarações:
 </p>
 
@@ -60,20 +61,20 @@ Mediante esclarecimentos apresentados a equipe solicita do entrevistado as segui
 <ul><li>Objetivo de Verificar Gabarito de uma prova do PAS</li></ul>
 <ul><li>Objetivo de Realizar Inscrição em um Concurso</li></ul>
  
-<p style="text-indent: 20px; text-align: justify">
+<p style="text-align: justify">
 Recrutar os usuários que irão participar da avaliação.
 </p>
  
-<p style="text-indent: 20px; text-align: justify">
+<p style="text-align: justify">
 Elaborar o protótipo de papel para a execução das tarefas.
 </p>
  
 ## 5. Coleta de dados e interpretação
  
-<p style="text-indent: 20px; text-align: justify">Para ser feita a coleta de dados é necessário realizar avaliação com o consentimento do participante com os termos propostos.
+<p style="text-align: justify">Para ser feita a coleta de dados é necessário realizar avaliação com o consentimento do participante com os termos propostos.
 </p>
  
-<p style="text-indent: 20px; text-align: justify">
+<p style="text-align: justify">
 O participante irá executar as tarefas indicadas na preparação, enquanto o avaliador media a interação do entrevistado.
 </p>
  
@@ -87,22 +88,22 @@ O participante irá executar as tarefas indicadas na preparação, enquanto o av
 <ul><li>Análise dos passos do participante</li></ul>
 <ul><li>Verificar se o participante conseguiu sucesso na tarefa</li></ul>
  
-<p style="text-indent: 20px; text-align: justify">
+<p style="text-align: justify">
 O avaliador irá documentar os problemas encontrados pela interação do participante com o protótipo;
 </p>
  
-<p style="text-indent: 20px; text-align: justify">
+<p style="text-align: justify">
 Após cada experiência de uso, será feita a interpretação dos dados, observando os problemas documentados;
 </p>
  
 ## 6. Consolidação dos resultados
  
-<p style="text-indent: 20px; text-align: justify">Neste ponto deve ser verificada com o objetivo de analisar o protótipo de interface, encontrar e marcar os problemas não resolvidos. Uma vez que temos uma lista de problemas podemos estabelecer uma hierarquia de quais são os principais problemas para serem corrigidos.
+<p style="text-align: justify">Neste ponto deve ser verificada com o objetivo de analisar o protótipo de interface, encontrar e marcar os problemas não resolvidos. Uma vez que temos uma lista de problemas podemos estabelecer uma hierarquia de quais são os principais problemas para serem corrigidos.
 </p>
  
 ## 7. Relato dos resultados
  
-<p style="text-indent: 20px; text-align: justify">Está etapa tem como objetivo fazer o relato das informações coletadas:
+<p style="text-align: justify">Está etapa tem como objetivo fazer o relato das informações coletadas:
 </p>
 
 * Objetivos da avaliação
@@ -118,7 +119,7 @@ Após cada experiência de uso, será feita a interpretação dos dados, observa
 * Indicação de partes do sistema que podem ser melhor elaboradas.
  
 ## 8. Conclusão
-<p style="text-indent: 20px; text-align: justify">Esse documento visa facilitar a vida do avaliador durante a realização das avaliações. Desse modo, o avaliador está livre para realizar mudanças durante ou previamente a avaliação, mas sempre lembrando de manter a consistência entre os diversos participantes.</p>
+<p style="text-align: justify">Esse documento visa facilitar a vida do avaliador durante a realização das avaliações. Desse modo, o avaliador está livre para realizar mudanças durante ou previamente a avaliação, mas sempre lembrando de manter a consistência entre os diversos participantes.</p>
 
 ## 9. Bibliografia
  

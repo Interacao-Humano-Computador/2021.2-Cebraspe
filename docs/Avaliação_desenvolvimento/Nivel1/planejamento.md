@@ -8,6 +8,8 @@
 | 15.03.2022 |  0.2   | Revisão do documento | Erick            | -       |
 | 26.03.2022 |  0.3   | Documento refeito    | Ricardo          | Erick   |
 | 17.04.2022 |  0.4   |  Correção de erros   |      Daniel      |    -    |
+| 19.04.2022 | 0.5 | Revisão do documento | Erick | - | 
+
 ## 1. Introdução
 
 <p align="justify">

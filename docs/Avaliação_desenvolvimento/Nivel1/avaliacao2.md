@@ -6,6 +6,7 @@
 | :--------: | :----: | :------------------: | :--------------: | :-----: |
 | 27.03.2022 |  0.1   | Criação do documento |      Ricardo     | Erick   |
 | 19.04.2022 |  0.2   | Adicionando metodologia e bibliografia |      Ricardo     |    Erick    |
+| 19.04.2022 | 0.3 | Revisão do documento | Erick | - | 
 
 ## 1. Introdução
 
@@ -153,7 +154,7 @@ Entretanto, com base no que foi levantado na avaliação desta tarefa, precisamo
 * Inserir no diagrama 2.1, 2.6, 2.8, 2.9
 
 
-## Bibliografia
+## 7. Bibliografia
 
 >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. Nielsen, Jakob (2000). Why You Only Need to Test with 5 Users. Disponível em: https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/. Acesso em: 26/03/2022
 

@@ -6,6 +6,7 @@
 | :--------: | :----: | :------------------: | :--------------: | :-----: |
 | 27.03.2022 |  0.1   | Criação do documento |      Daniel     | Erick   |
 | 17.04.2022 |  0.2   |  Correção de erros   |      Daniel      |    -    |
+| 19.04.2022 | 0.3 | Revisão do documento | Erick | - | 
 
 ## 1. Introdução
 <p style="text-indent: 20px; text-align: justify">
@@ -37,6 +38,6 @@ As atividades selecionadas para a avaliação foram:
 <p style="text-align: justify;">Esse documento visa facilitar a vida do analisador durante a realização das análises das tarefas. Sempre lembrando de manter a consistência entre os diversos pontos estabelecidos.
 </p>
  
-## 4. Bibliografia
+## 5. Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2010.
