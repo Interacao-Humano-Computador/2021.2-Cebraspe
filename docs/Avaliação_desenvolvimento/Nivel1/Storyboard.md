@@ -69,19 +69,19 @@ Neste storyboard, dois irmãos estão saindo da escola e indo para casa e um del
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Consultar o gabarito do PAS</td>
         </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição de qual (e como) a tarefa será ilustrada</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">A consulta do gabarito será ilustrada com dois irmãos, em que a irmã sabe consultar o gabarito do PAS e ensina seu irmão, que não sabe, o que deve ser feito para realizar essa tarefa.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">A consulta do gabarito será ilustrada com dois irmãos, em que a irmã sabe consultar o gabarito do PAS e ensina seu irmão, que não sabe, o que deve ser feito para realizar essa tarefa</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Satisfação</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição da motivação principal da pessoa que usa a aplicação</td> 
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Conseguir ver o gabarito de uma prova realizada do PAS para poder estimar o seu desempenho.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Conseguir ver o gabarito de uma prova realizada do PAS para poder estimar o seu desempenho</td>
         </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das realizações que a aplicação permite</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Permite que qualquer pessoa consulte gabaritos de provas do PAS já realizadas.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Permite que qualquer pessoa consulte gabaritos de provas do PAS já realizadas</td>
         </tr>
         </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das necessidades que a aplicação se propõe a sanar </td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Necessidade de saber o desempenho pessoal em uma prova a partir da consulta do gabarito.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Necessidade de saber o desempenho pessoal em uma prova a partir da consulta do gabarito</td>
         </tr>
     </tbody>
 </table>
@@ -130,7 +130,7 @@ Neste storyboard, dois estranhos entre si estão conversando sentados em um ôni
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Fazer a inscrição em um concurso aberto</td>
         </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição de qual (e como) a tarefa será ilustrada</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">A inscrição em um concurso será ilustrada com duas pessoas conversando em um ônibus, em que uma delas já possui um emprego e a outra ainda está buscando um e pode procurar um concurso para se inscrever.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">A inscrição em um concurso será ilustrada com duas pessoas conversando em um ônibus, em que uma delas já possui um emprego e a outra ainda está buscando um e pode procurar um concurso para se inscrever</td>
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Satisfação</td>
@@ -138,7 +138,7 @@ Neste storyboard, dois estranhos entre si estão conversando sentados em um ôni
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Conseguir se inscrever em um concurso e concorrer a uma vaga de emprego</td>
         </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das realizações que a aplicação permite</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Permite que qualquer pessoa conheça os concursos abertos e se inscreva para tentar conseguir uma vaga de emprego.</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Permite que qualquer pessoa conheça os concursos abertos e se inscreva para tentar conseguir uma vaga de emprego</td>
         </tr>
         </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das necessidades que a aplicação se propõe a sanar </td>
@@ -147,7 +147,7 @@ Neste storyboard, dois estranhos entre si estão conversando sentados em um ôni
     </tbody>
 </table>
 
-### 3.2. Ingressar na UnB
+### 3.3. Ingressar na UnB
 
 <p align="justify">
 Neste storyboard, duas amigas estão passando pela entrada da Universidade de Brasília (UnB) e uma delas comenta que estuda la. A outra amiga diz que também tem vontade de estudar na UnB e pergunta como ela pode ingressar la e, então, sua amiga lhe informa como ela pode se informar das formas de ingresso na universidade através do site do cebraspe. 
@@ -158,6 +158,55 @@ Neste storyboard, duas amigas estão passando pela entrada da Universidade de Br
   <br><b>Figura 3: Storyboard de como ingressar na UnB</b>
   <br><small><i>Fonte: Autor</i></small>
 </p>
+
+<table>
+    <thead>
+        <tr>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Atividade</th>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Tarefa</th>
+            <th style="text-align:center; border: 0.5px solid rgba(0,0,0,0.2);">Definição</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Preparo</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das pessoas envolvidas </td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Universitária Joana <br> Estudante Vitória</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição do ambiente da história</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"> Entrada da Universidade de Brasília </td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição da tarefa que será abordada</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Indicar os meios de acesso à UnB</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Sequência</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definiçaõ de quais passos estão envolvidos para a realização da tarefa</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Acessar o site do Cebraspe <br> Acessar a área de Acesso à Universidade</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição do que leva a pessoa a usar a aplicação</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Ingressar na UnB</td>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição de qual (e como) a tarefa será ilustrada</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">A indicação de como entrar na UnB será ilustrada com duas amigas na frente da universidade, em que uma delas já estuda la e ensina à sua amiga como ela pode se informar sobre as formas de conseguir ingressar na UnB também</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Satisfação</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição da motivação principal da pessoa que usa a aplicação</td> 
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Conseguir se informar de como entrar na UnB</td>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das realizações que a aplicação permite</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Permite que qualquer pessoa se informe e tente ingressar na UnB</td>
+        </tr>
+        </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Definição das necessidades que a aplicação se propõe a sanar </td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Necessidade estudar na UnB e se graduar no ensino superior</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 4. Conclusão
 
