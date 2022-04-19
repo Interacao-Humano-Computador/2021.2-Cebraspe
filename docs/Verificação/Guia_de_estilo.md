@@ -6,6 +6,7 @@
 |  Data  | Versão | Descrição | Autor | Revisor |
 | :----: | :----: | :-------: | :---: | :----:  |
 | 06.04.2022 | 0.1 | Criação do documento | Ana | Ricardo |
+| 19.04.2022 | 0.2 | Atualização do checklist | Erick | Ricardo |
 
 ## 1. Introdução
 <p style="text-align: justify;">Usando como método a Inspeção, um checklist foi criado para a verificação de Guia de estilo.
@@ -27,7 +28,7 @@
 |1|Foram documentados as alternativas de design do site?|OK|
 |2|O Guia de Estilo está de acordo com o padrão Marcus/Mayhew?|OK|
 |3|O guia de estilo mantém certas características do site do Cebraspe?|OK|
-|4|A metodologia utilizada na avaliação foi explicada?|X|
+|4|A metodologia utilizada na avaliação foi explicada?|OK|
 |5|Existem imagens do site para a referência visual?|OK|
 |6|Apresenta a paleta de cores utilizada no site?|OK|
 |7| Possui especificação do layout?|OK|
