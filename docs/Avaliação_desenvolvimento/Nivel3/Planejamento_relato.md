@@ -5,6 +5,7 @@
 |    Data    | Versão |      Descrição       |  Autor  |   Revisor    |
 | :--------: | :----: | :------------------: | :-----: | :----------: |
 | 08.04.2022 |  0.1   | Criação do documento | Ana Carolina | Ricardo |
+| 19.04.2022 |  0.2   | Revisão da v0.1 | Ricardo | - |
 
 ## 1. Introdução
 <p style="text-align: justify;">Esse documento contém o planejamento de como os resultados das entrevistas devem ser realizados. Em cada entrevista será apresentado o vídeo da entrevista, as informações obtidas de cada um dos participantes, as tarefas executadas, os problemas encontrados sendo corrigidos ou não e a conclusão do avaliador.
