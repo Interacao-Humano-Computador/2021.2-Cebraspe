@@ -2,9 +2,9 @@
 
 ## Histórico de Versão
 
-|   Versão   |   Data    |       Descrição        |     Autor     | Revisor |
+|    Data    |  Versão   |       Descrição        |     Autor     | Revisor |
 | :--------: | :-------: | :--------------------: | :-----------: | :-----: |
-|    0.1     | 8/04/2022 |  Criação do documento  | Erick, Daniel | Gustave |
+| 08.04.2022 |    0.1    |  Criação do documento  | Erick, Daniel | Gustave |
 | 17.04.2022 |    0.2    |   Correção de erros    |    Daniel     |    -    |
 | 18.04.2022 |    0.3    | Revisão da v0.1 a v0.2 |    Gustave    |    -    |
 

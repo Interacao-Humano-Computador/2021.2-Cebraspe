@@ -2,9 +2,9 @@
 
 ## Histórico de versão
 
-|Versão | Data | Descrição | Autor|  Revisor |
+|Data | Versão | Descrição | Autor|  Revisor |
 | :--: | :--: | :--: | :--: | :--:  |
-| 0.1 | 05/04/2022  | Criação do documento de verificação de Entrevista 3 | Daniel |  Erick |
+| 05.04.2022 | 0.1  | Criação do documento de verificação de Entrevista 3 | Daniel |  Erick |
 
 ## 1. Introdução
 <p style="text-indent: 20px; text-align: justify">
