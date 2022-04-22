@@ -82,7 +82,7 @@ Segundo Barbosa e Silva (2010, p.193; 194):
    <br><small><i>Fonte: Própria</i></small>
 </center>
 
-| Objetivos \ Operações                                  | Problemas e recomendações                                                                                                                                                                                     |
+| Objetivos | Operações                                  | Problemas e recomendações                                                                                                                                                                                     |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 0. Acesso à Universidade                               | **Input**: página principal da Cebraspe aberta; <br> **Action**: mouse em cima da opção; <br> **Feedback**: aparecerá as opções de Acesso à Universidade.                                                     |
 | 1. Entre em PAS \| UnB                                 | **Action**: mouse em cima da opção; <br> **Feedback**: aparecerá as opções de Acesso à Universidade.                                                                                                          |
